@@ -13,6 +13,8 @@ import { X7B_TABS, X7bTeacher, type X7bTab } from "./x7b-teacher";
 
 type Q = { id: string; q: string; choices: string[] };
 const SKEY = "summit_teacher";
+/** One-page printable quick start (public/teacher-guide.pdf, built by scripts/teacher-guide.py). */
+const GUIDE = <a href="/teacher-guide.pdf" target="_blank" rel="noopener" className="btn-block !text-sm !bg-sky/15">📄 Quick-start guide (PDF)</a>;
 
 export default function Teacher() {
   const [hash, setHash] = useState<string | null>(null);
@@ -44,7 +46,7 @@ export default function Teacher() {
           {err && <p className="mt-2 text-sm font-bold text-crimson">{err}</p>}
           <button disabled={!dbReady} className="btn-block btn-grass mt-4 w-full justify-center disabled:opacity-50">Enter</button>
         </form>
-        <div className="mt-4 text-center"><button onClick={() => setTouring(true)} className="btn-block !text-sm">🥾 Take a tour</button></div>
+        <div className="mt-4 flex flex-wrap justify-center gap-2"><button onClick={() => setTouring(true)} className="btn-block !text-sm">🥾 Take a tour</button>{GUIDE}</div>
         <Tour open={touring} onClose={() => setTouring(false)} />
       </>
     );
@@ -54,6 +56,7 @@ export default function Teacher() {
       <PageHead eyebrow="Teacher" title="Teacher dashboard">
         <div className="mt-6 flex flex-wrap gap-2" data-tour="tabs">
           <button onClick={() => setTouring(true)} className="btn-block !text-sm !bg-gold/20">🥾 Take a tour</button>
+          {GUIDE}
           {(["roster", "keys", "quests"] as const).map((t) => (
             <button key={t} onClick={() => setTab(t)} className={`btn-block !text-sm ${tab === t ? "btn-grass" : ""}`}>{t === "roster" ? "Roster & scores" : t === "keys" ? "Answer keys" : "Side quests"}</button>
           ))}
