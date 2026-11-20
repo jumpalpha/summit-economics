@@ -7,3 +7,5 @@ Twin of Bedrock (jumpalpha/Bedrock) for Mrs. Bohrer's economics class. Teacher n
 
 At the start of every session, read the "Claude Handoff" Google Doc and do any OPEN tasks for this repo:
 https://docs.google.com/document/d/1S3rZuuVtQcylev2BwHXT6Djg6_LN2Zf68E6wYCicjQg/edit
+
+- Sample Class: fake students flagged `demo = true` (see `supabase/demo.sql`). The teacher resets/removes it from the roster. Teacher tour steps live in `src/app/teacher/tour.tsx` (targets are `data-tour="…"` attributes).

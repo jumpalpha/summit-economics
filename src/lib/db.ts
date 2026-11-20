@@ -96,8 +96,12 @@ export const teacherApprove = (h: string, student: string, quest: string, ok: bo
   rpc<void>("econ_teacher_approve", { p_pass_hash: h, p_student: student, p_quest: quest, p_ok: ok });
 export const teacherResetPin = async (h: string, student: string, pin: string) =>
   rpc<void>("econ_teacher_reset_pin", { p_pass_hash: h, p_student: student, p_pin_hash: await hashSecret(pin) });
+/** Sample Class: 'reset' rebuilds the fake students, 'remove' deletes them. */
+export const teacherDemo = (h: string, action: "reset" | "remove") =>
+  rpc<{ students: number }>("econ_teacher_demo", { p_pass_hash: h, p_action: action });
 export type RosterRow = {
-  id: string; name: string; period: string; tasks: string[]; days: number; best: Record<string, number>; cleared?: number[];
+  id: string; name: string; period: string; demo?: boolean; lastDay?: string | null;
+  tasks: string[]; days: number; best: Record<string, number>; cleared?: number[];
   sideQuests: { id: string; term: string; note: string; approved: boolean }[];
 };
 
