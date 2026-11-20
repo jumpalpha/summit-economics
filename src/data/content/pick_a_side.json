@@ -1,0 +1,394 @@
+{
+ "intro": "Two per chapter. Pick a side and back it with evidence or economic reasoning from the chapter. Many of these are real debates where thoughtful people disagree.",
+ "ratingKey": {
+  "Green": "evidence can settle it, so there's a best answer.",
+  "Yellow": "evidence matters, but values decide it.",
+  "Red": "mostly values or opinion, so argue respectfully."
+ },
+ "debates": [
+  {
+   "id": "d01-1",
+   "chapter": 1,
+   "question": "Is anything ever truly free?",
+   "sideA": "Yes, some things are free",
+   "sideB": "No, everything has an opportunity cost",
+   "rating": "Green"
+  },
+  {
+   "id": "d01-2",
+   "chapter": 1,
+   "question": "Should schools pay students for good grades as an incentive?",
+   "sideA": "Yes, incentives work",
+   "sideB": "No, learning should be its own reward",
+   "rating": "Red"
+  },
+  {
+   "id": "d02-1",
+   "chapter": 2,
+   "question": "Is a college degree the best way to build human capital?",
+   "sideA": "Yes, a degree pays off most",
+   "sideB": "No, trades and apprenticeships can be just as good",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d02-2",
+   "chapter": 2,
+   "question": "Will robots and AI create more jobs than they destroy?",
+   "sideA": "More jobs",
+   "sideB": "Fewer jobs",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d03-1",
+   "chapter": 3,
+   "question": "Do market economies do a better job than command economies of producing what people want?",
+   "sideA": "Yes, markets do better",
+   "sideB": "No, planning can do better",
+   "rating": "Green"
+  },
+  {
+   "id": "d03-2",
+   "chapter": 3,
+   "question": "Should the government provide more services, even if taxes go up?",
+   "sideA": "More services, higher taxes",
+   "sideB": "Fewer services, lower taxes",
+   "rating": "Red"
+  },
+  {
+   "id": "d04-1",
+   "chapter": 4,
+   "question": "Will people keep buying gas at the same rate if prices double?",
+   "sideA": "Yes, demand barely changes",
+   "sideB": "No, people will cut back a lot",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d04-2",
+   "chapter": 4,
+   "question": "Does advertising mostly inform buyers or manipulate them?",
+   "sideA": "Mostly informs",
+   "sideB": "Mostly manipulates",
+   "rating": "Red"
+  },
+  {
+   "id": "d05-1",
+   "chapter": 5,
+   "question": "Should the government subsidize Idaho farmers?",
+   "sideA": "Yes, farming is essential",
+   "sideB": "No, let the market decide",
+   "rating": "Red"
+  },
+  {
+   "id": "d05-2",
+   "chapter": 5,
+   "question": "Does a big tax on a product always reduce how much is sold?",
+   "sideA": "Yes, always",
+   "sideB": "Not always; it depends on elasticity",
+   "rating": "Green"
+  },
+  {
+   "id": "d06-1",
+   "chapter": 6,
+   "question": "Is it fair for concert tickets to go to whoever pays the most?",
+   "sideA": "Yes, that's how markets work",
+   "sideB": "No, use a lottery or limit resale",
+   "rating": "Red"
+  },
+  {
+   "id": "d06-2",
+   "chapter": 6,
+   "question": "Does rent control help renters overall?",
+   "sideA": "Yes, it protects renters",
+   "sideB": "No, it causes shortages",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d07-1",
+   "chapter": 7,
+   "question": "Should the government break up very large tech companies?",
+   "sideA": "Yes, to protect competition",
+   "sideB": "No, size helps consumers",
+   "rating": "Red"
+  },
+  {
+   "id": "d07-2",
+   "chapter": 7,
+   "question": "Do patents do more good than harm?",
+   "sideA": "More good, they reward invention",
+   "sideB": "More harm, they keep prices high",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d08-1",
+   "chapter": 8,
+   "question": "Is starting your own business worth the risk?",
+   "sideA": "Yes, the rewards are worth it",
+   "sideB": "No, a steady job is smarter",
+   "rating": "Red"
+  },
+  {
+   "id": "d08-2",
+   "chapter": 8,
+   "question": "Should corporate profits be taxed twice (company and dividends)?",
+   "sideA": "Yes, it's fair",
+   "sideB": "No, it discourages investment",
+   "rating": "Red"
+  },
+  {
+   "id": "d09-1",
+   "chapter": 9,
+   "question": "Should the federal minimum wage be raised?",
+   "sideA": "Yes, workers need it",
+   "sideB": "No, it could cost jobs",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d09-2",
+   "chapter": 9,
+   "question": "Do labor unions help workers more than they hurt businesses?",
+   "sideA": "Help workers more",
+   "sideB": "Hurt businesses more",
+   "rating": "Red"
+  },
+  {
+   "id": "d10-1",
+   "chapter": 10,
+   "question": "Would the U.S. be better off going back to the gold standard?",
+   "sideA": "Yes, money would be stable",
+   "sideB": "No, it would limit the economy",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d10-2",
+   "chapter": 10,
+   "question": "Should cash be phased out in favor of digital payments?",
+   "sideA": "Yes, cash is outdated",
+   "sideB": "No, cash protects privacy and access",
+   "rating": "Red"
+  },
+  {
+   "id": "d11-1",
+   "chapter": 11,
+   "question": "Are payment apps like Venmo safer than cash?",
+   "sideA": "Safer",
+   "sideB": "Less safe",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d11-2",
+   "chapter": 11,
+   "question": "Should teens open a bank account before they turn 18?",
+   "sideA": "Yes, start early",
+   "sideB": "No, wait until 18",
+   "rating": "Red"
+  },
+  {
+   "id": "d12-1",
+   "chapter": 12,
+   "question": "Is investing in the stock market basically gambling?",
+   "sideA": "Yes, it's a gamble",
+   "sideB": "No, long-term investing is different",
+   "rating": "Green"
+  },
+  {
+   "id": "d12-2",
+   "chapter": 12,
+   "question": "Should a teen invest in cryptocurrency?",
+   "sideA": "Yes, it could pay off big",
+   "sideB": "No, it's too risky",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d13-1",
+   "chapter": 13,
+   "question": "Is the 50/30/20 rule realistic for most young adults?",
+   "sideA": "Yes, it works",
+   "sideB": "No, needs take more than 50%",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d13-2",
+   "chapter": 13,
+   "question": "Should college be free at public universities?",
+   "sideA": "Yes, it's an investment in everyone",
+   "sideB": "No, students should share the cost",
+   "rating": "Red"
+  },
+  {
+   "id": "d14-1",
+   "chapter": 14,
+   "question": "Should 18-year-olds be allowed to get credit cards on their own?",
+   "sideA": "Yes, adults can decide",
+   "sideB": "No, require income or a co-signer",
+   "rating": "Red"
+  },
+  {
+   "id": "d14-2",
+   "chapter": 14,
+   "question": "Is it ever smart to pay only the minimum on a credit card?",
+   "sideA": "Yes, sometimes",
+   "sideB": "No, the interest is too costly",
+   "rating": "Green"
+  },
+  {
+   "id": "d15-1",
+   "chapter": 15,
+   "question": "Should health insurance be required for everyone?",
+   "sideA": "Yes, everyone benefits",
+   "sideB": "No, it should be a personal choice",
+   "rating": "Red"
+  },
+  {
+   "id": "d15-2",
+   "chapter": 15,
+   "question": "Is a high insurance deductible a smart choice for young drivers?",
+   "sideA": "Yes, lower premiums",
+   "sideB": "No, too much risk",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d16-1",
+   "chapter": 16,
+   "question": "Is GDP a good measure of how well people are doing?",
+   "sideA": "Yes, it captures the economy",
+   "sideB": "No, it misses too much",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d16-2",
+   "chapter": 16,
+   "question": "Should Idaho try to grow as fast as possible?",
+   "sideA": "Yes, growth brings jobs",
+   "sideB": "No, growth brings traffic and high housing costs",
+   "rating": "Red"
+  },
+  {
+   "id": "d17-1",
+   "chapter": 17,
+   "question": "Is inflation worse than unemployment?",
+   "sideA": "Inflation is worse",
+   "sideB": "Unemployment is worse",
+   "rating": "Red"
+  },
+  {
+   "id": "d17-2",
+   "chapter": 17,
+   "question": "Does the official unemployment rate tell the whole story?",
+   "sideA": "Yes, it's accurate",
+   "sideB": "No, it misses discouraged and underemployed workers",
+   "rating": "Green"
+  },
+  {
+   "id": "d18-1",
+   "chapter": 18,
+   "question": "Can recessions be prevented?",
+   "sideA": "Yes, with good policy",
+   "sideB": "No, they're part of the cycle",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d18-2",
+   "chapter": 18,
+   "question": "Should the government rescue big banks in a crisis?",
+   "sideA": "Yes, to protect the economy",
+   "sideB": "No, they should face consequences",
+   "rating": "Red"
+  },
+  {
+   "id": "d19-1",
+   "chapter": 19,
+   "question": "Is a flat income tax fairer than a progressive one?",
+   "sideA": "Flat is fairer",
+   "sideB": "Progressive is fairer",
+   "rating": "Red"
+  },
+  {
+   "id": "d19-2",
+   "chapter": 19,
+   "question": "Should Idaho remove the sales tax on groceries?",
+   "sideA": "Yes, food is a need",
+   "sideB": "No, keep the credit and the revenue",
+   "rating": "Red"
+  },
+  {
+   "id": "d20-1",
+   "chapter": 20,
+   "question": "Is the national debt a serious threat to your future?",
+   "sideA": "Yes, it's a real danger",
+   "sideB": "No, it's manageable",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d20-2",
+   "chapter": 20,
+   "question": "Should the federal government be required to balance its budget like Idaho?",
+   "sideA": "Yes, live within means",
+   "sideB": "No, it needs room for emergencies",
+   "rating": "Red"
+  },
+  {
+   "id": "d21-1",
+   "chapter": 21,
+   "question": "Should the Federal Reserve be independent from the President?",
+   "sideA": "Yes, keep politics out",
+   "sideB": "No, it should answer to elected leaders",
+   "rating": "Red"
+  },
+  {
+   "id": "d21-2",
+   "chapter": 21,
+   "question": "Do higher interest rates help or hurt young people more?",
+   "sideA": "Help (better savings rates)",
+   "sideB": "Hurt (pricier loans and homes)",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d22-1",
+   "chapter": 22,
+   "question": "Does trade make both countries better off?",
+   "sideA": "Yes, both gain",
+   "sideB": "No, one side usually loses",
+   "rating": "Green"
+  },
+  {
+   "id": "d22-2",
+   "chapter": 22,
+   "question": "Should the U.S. make more of its own products even if they cost more?",
+   "sideA": "Yes, make more at home",
+   "sideB": "No, buy where it's cheapest",
+   "rating": "Red"
+  },
+  {
+   "id": "d23-1",
+   "chapter": 23,
+   "question": "Do tariffs protect American workers?",
+   "sideA": "Yes, they protect jobs",
+   "sideB": "No, they raise prices and invite retaliation",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d23-2",
+   "chapter": 23,
+   "question": "Is a U.S. trade deficit a problem?",
+   "sideA": "Yes, it's a problem",
+   "sideB": "No, it's not automatically bad",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d24-1",
+   "chapter": 24,
+   "question": "Has globalization been good for the world overall?",
+   "sideA": "Yes, it cut poverty",
+   "sideB": "No, it cost too many jobs",
+   "rating": "Yellow"
+  },
+  {
+   "id": "d24-2",
+   "chapter": 24,
+   "question": "Should Idaho focus on exporting more or on buying local?",
+   "sideA": "Export more",
+   "sideB": "Buy local",
+   "rating": "Red"
+  }
+ ]
+}

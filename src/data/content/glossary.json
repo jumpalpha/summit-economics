@@ -1,0 +1,2207 @@
+[
+ {
+  "term": "Economics",
+  "definition": "the study of how people make choices when they can't have everything they want.",
+  "chapter": 1
+ },
+ {
+  "term": "Goods",
+  "definition": "physical items that can be bought and sold, such as boots or phones.",
+  "chapter": 1
+ },
+ {
+  "term": "Incentive",
+  "definition": "a reward or penalty that pushes people to act a certain way.",
+  "chapter": 1
+ },
+ {
+  "term": "Macroeconomics",
+  "definition": "the study of the economy as a whole, such as total output, jobs, and prices.",
+  "chapter": 1
+ },
+ {
+  "term": "Marginal benefit",
+  "definition": "the extra benefit from doing or having one more unit of something.",
+  "chapter": 1
+ },
+ {
+  "term": "Marginal cost",
+  "definition": "the extra cost of doing or producing one more unit of something.",
+  "chapter": 1
+ },
+ {
+  "term": "Marginal thinking",
+  "definition": "deciding whether to do a little more or a little less of something.",
+  "chapter": 1
+ },
+ {
+  "term": "Microeconomics",
+  "definition": "the study of choices made by individuals, households, and businesses.",
+  "chapter": 1
+ },
+ {
+  "term": "Needs",
+  "definition": "things people must have to survive, such as food, water, clothing, and shelter.",
+  "chapter": 1
+ },
+ {
+  "term": "Opportunity cost",
+  "definition": "the value of the next-best alternative you give up when you make a choice.",
+  "chapter": 1
+ },
+ {
+  "term": "Rational choice",
+  "definition": "choosing the option whose benefits are greatest compared with its costs.",
+  "chapter": 1
+ },
+ {
+  "term": "Scarcity",
+  "definition": "the basic problem that wants are unlimited but the resources to meet them are limited.",
+  "chapter": 1
+ },
+ {
+  "term": "Services",
+  "definition": "actions or work done for someone else, such as a haircut or a ski lesson.",
+  "chapter": 1
+ },
+ {
+  "term": "Shortage",
+  "definition": "a temporary situation where there is not enough of a product at the current price.",
+  "chapter": 1
+ },
+ {
+  "term": "Trade-off",
+  "definition": "giving up one thing to get something else.",
+  "chapter": 1
+ },
+ {
+  "term": "Wants",
+  "definition": "things people would like to have but can live without.",
+  "chapter": 1
+ },
+ {
+  "term": "Capital",
+  "definition": "tools, machines, and buildings made by people and used to produce other goods and services.",
+  "chapter": 2
+ },
+ {
+  "term": "Division of labor",
+  "definition": "breaking a job into smaller tasks done by different workers.",
+  "chapter": 2
+ },
+ {
+  "term": "Economic growth",
+  "definition": "an increase in a nation's ability to produce goods and services, shown by the PPC shifting outward.",
+  "chapter": 2
+ },
+ {
+  "term": "Efficiency",
+  "definition": "using resources in a way that gets the most output with no waste.",
+  "chapter": 2
+ },
+ {
+  "term": "Entrepreneur",
+  "definition": "a person who starts a business and takes on the risk of it.",
+  "chapter": 2
+ },
+ {
+  "term": "Entrepreneurship",
+  "definition": "the drive and skill to combine resources, take risks, and start new businesses.",
+  "chapter": 2
+ },
+ {
+  "term": "Factors of production",
+  "definition": "the four resources used to make all goods and services: land, labor, capital, and entrepreneurship.",
+  "chapter": 2
+ },
+ {
+  "term": "Human capital",
+  "definition": "the knowledge and skills a worker gains through education, training, and experience.",
+  "chapter": 2
+ },
+ {
+  "term": "Labor",
+  "definition": "human effort, physical or mental, used to produce goods and services.",
+  "chapter": 2
+ },
+ {
+  "term": "Land",
+  "definition": "all natural resources, such as soil, water, forests, minerals, and sunlight.",
+  "chapter": 2
+ },
+ {
+  "term": "Law of increasing opportunity cost",
+  "definition": "the idea that as you make more of one good, the cost of each extra unit, in terms of the other good, rises.",
+  "chapter": 2
+ },
+ {
+  "term": "Production possibilities curve (PPC)",
+  "definition": "a graph showing all the combinations of two goods an economy can make using all its resources efficiently.",
+  "chapter": 2
+ },
+ {
+  "term": "Productivity",
+  "definition": "how much output is produced with a given amount of resources.",
+  "chapter": 2
+ },
+ {
+  "term": "Specialization",
+  "definition": "focusing on producing a narrow range of goods or tasks.",
+  "chapter": 2
+ },
+ {
+  "term": "Technology",
+  "definition": "new methods, machines, and knowledge that make production faster or better.",
+  "chapter": 2
+ },
+ {
+  "term": "Capitalism",
+  "definition": "an economic system based on private ownership of businesses and resources and on free markets.",
+  "chapter": 3
+ },
+ {
+  "term": "Command economy",
+  "definition": "an economy in which the central government makes the major economic decisions.",
+  "chapter": 3
+ },
+ {
+  "term": "Communism",
+  "definition": "a political and economic system in which the government owns nearly all property and plans the economy.",
+  "chapter": 3
+ },
+ {
+  "term": "Competition",
+  "definition": "the struggle between businesses to attract customers.",
+  "chapter": 3
+ },
+ {
+  "term": "Consumer sovereignty",
+  "definition": "the idea that consumers, through what they buy, decide what gets produced.",
+  "chapter": 3
+ },
+ {
+  "term": "Economic system",
+  "definition": "the way a society organizes the production and distribution of goods and services.",
+  "chapter": 3
+ },
+ {
+  "term": "Free enterprise",
+  "definition": "an economic system in which private businesses compete for profit with limited government control; also called capitalism.",
+  "chapter": 3
+ },
+ {
+  "term": "Invisible hand",
+  "definition": "Adam Smith's idea that people pursuing their own interests in a free market end up benefiting society.",
+  "chapter": 3
+ },
+ {
+  "term": "Laissez-faire",
+  "definition": "the idea that government should leave the economy alone.",
+  "chapter": 3
+ },
+ {
+  "term": "Market economy",
+  "definition": "an economy in which individuals and private businesses make economic decisions through buying and selling.",
+  "chapter": 3
+ },
+ {
+  "term": "Mixed economy",
+  "definition": "an economy that combines market decisions with some government control.",
+  "chapter": 3
+ },
+ {
+  "term": "Private property",
+  "definition": "things owned by individuals or businesses rather than the government.",
+  "chapter": 3
+ },
+ {
+  "term": "Profit motive",
+  "definition": "the desire to earn money that drives people to start and run businesses.",
+  "chapter": 3
+ },
+ {
+  "term": "Self-interest",
+  "definition": "acting to benefit yourself.",
+  "chapter": 3
+ },
+ {
+  "term": "Socialism",
+  "definition": "an economic system in which the government or society owns and controls major industries.",
+  "chapter": 3
+ },
+ {
+  "term": "Traditional economy",
+  "definition": "an economy in which customs and habits passed down through generations decide economic questions.",
+  "chapter": 3
+ },
+ {
+  "term": "Voluntary exchange",
+  "definition": "trading freely because both sides expect to be better off.",
+  "chapter": 3
+ },
+ {
+  "term": "Change in demand",
+  "definition": "a shift of the whole demand curve caused by something other than the good's price.",
+  "chapter": 4
+ },
+ {
+  "term": "Complements",
+  "definition": "goods that are used together, such as cereal and milk.",
+  "chapter": 4
+ },
+ {
+  "term": "Demand",
+  "definition": "the amount of a good or service consumers are willing and able to buy at each possible price.",
+  "chapter": 4
+ },
+ {
+  "term": "Demand curve",
+  "definition": "a graph showing the quantity demanded at each price; it slopes downward.",
+  "chapter": 4
+ },
+ {
+  "term": "Demand schedule",
+  "definition": "a table showing the quantity demanded at each price.",
+  "chapter": 4
+ },
+ {
+  "term": "Diminishing marginal utility",
+  "definition": "the idea that each additional unit of a good brings less satisfaction than the one before.",
+  "chapter": 4
+ },
+ {
+  "term": "Elastic demand",
+  "definition": "demand that changes a lot when price changes.",
+  "chapter": 4
+ },
+ {
+  "term": "Elasticity of demand",
+  "definition": "a measure of how much quantity demanded changes when price changes.",
+  "chapter": 4
+ },
+ {
+  "term": "Income effect",
+  "definition": "the change in how much people buy because a price change makes their income stretch more or less far.",
+  "chapter": 4
+ },
+ {
+  "term": "Inelastic demand",
+  "definition": "demand that changes very little when price changes.",
+  "chapter": 4
+ },
+ {
+  "term": "Inferior good",
+  "definition": "a good people buy less of when their income rises, such as instant noodles.",
+  "chapter": 4
+ },
+ {
+  "term": "Law of demand",
+  "definition": "when the price of a good rises, the quantity demanded falls, and when the price falls, the quantity demanded rises.",
+  "chapter": 4
+ },
+ {
+  "term": "Market demand",
+  "definition": "the total demand of all buyers in a market.",
+  "chapter": 4
+ },
+ {
+  "term": "Normal good",
+  "definition": "a good people buy more of when their income rises.",
+  "chapter": 4
+ },
+ {
+  "term": "Quantity demanded",
+  "definition": "the amount of a good buyers will purchase at one specific price.",
+  "chapter": 4
+ },
+ {
+  "term": "Substitutes",
+  "definition": "goods that can replace each other, such as two brands of soda.",
+  "chapter": 4
+ },
+ {
+  "term": "Substitution effect",
+  "definition": "when people switch to a cheaper alternative because a good's price rose.",
+  "chapter": 4
+ },
+ {
+  "term": "Utility",
+  "definition": "the satisfaction a person gets from a good or service.",
+  "chapter": 4
+ },
+ {
+  "term": "Change in supply",
+  "definition": "a shift of the whole supply curve caused by something other than the good's price.",
+  "chapter": 5
+ },
+ {
+  "term": "Diminishing marginal returns",
+  "definition": "the point where adding more of one input, like workers, adds less and less extra output.",
+  "chapter": 5
+ },
+ {
+  "term": "Elasticity of supply",
+  "definition": "a measure of how much quantity supplied changes when price changes.",
+  "chapter": 5
+ },
+ {
+  "term": "Excise tax",
+  "definition": "a tax on the production or sale of a specific good, such as gasoline.",
+  "chapter": 5
+ },
+ {
+  "term": "Fixed costs",
+  "definition": "costs that do not change no matter how much is produced, such as rent.",
+  "chapter": 5
+ },
+ {
+  "term": "Law of supply",
+  "definition": "when the price of a good rises, the quantity supplied rises, and when the price falls, the quantity supplied falls.",
+  "chapter": 5
+ },
+ {
+  "term": "Marginal revenue",
+  "definition": "the extra money earned from selling one more unit.",
+  "chapter": 5
+ },
+ {
+  "term": "Market supply",
+  "definition": "the total supply of all producers in a market.",
+  "chapter": 5
+ },
+ {
+  "term": "Quantity supplied",
+  "definition": "the amount producers will offer at one specific price.",
+  "chapter": 5
+ },
+ {
+  "term": "Regulation",
+  "definition": "a government rule that controls how businesses operate.",
+  "chapter": 5
+ },
+ {
+  "term": "Subsidy",
+  "definition": "a government payment that helps producers and usually increases supply.",
+  "chapter": 5
+ },
+ {
+  "term": "Supply",
+  "definition": "the amount of a good or service producers are willing and able to sell at each possible price.",
+  "chapter": 5
+ },
+ {
+  "term": "Supply curve",
+  "definition": "a graph showing the quantity supplied at each price; it slopes upward.",
+  "chapter": 5
+ },
+ {
+  "term": "Supply schedule",
+  "definition": "a table showing the quantity supplied at each price.",
+  "chapter": 5
+ },
+ {
+  "term": "Total cost",
+  "definition": "fixed costs plus variable costs.",
+  "chapter": 5
+ },
+ {
+  "term": "Variable costs",
+  "definition": "costs that rise or fall depending on how much is produced, such as materials.",
+  "chapter": 5
+ },
+ {
+  "term": "Allocation",
+  "definition": "how resources and goods are divided among people and uses.",
+  "chapter": 6
+ },
+ {
+  "term": "Black market",
+  "definition": "illegal buying and selling, often at prices above legal limits.",
+  "chapter": 6
+ },
+ {
+  "term": "Equilibrium",
+  "definition": "the point where the quantity demanded equals the quantity supplied.",
+  "chapter": 6
+ },
+ {
+  "term": "Equilibrium price",
+  "definition": "the price at which quantity demanded equals quantity supplied; also called the market-clearing price.",
+  "chapter": 6
+ },
+ {
+  "term": "Equilibrium quantity",
+  "definition": "the amount bought and sold at the equilibrium price.",
+  "chapter": 6
+ },
+ {
+  "term": "Market",
+  "definition": "any place or system where buyers and sellers exchange goods and services.",
+  "chapter": 6
+ },
+ {
+  "term": "Minimum wage",
+  "definition": "a price floor on the lowest hourly pay employers can legally pay workers.",
+  "chapter": 6
+ },
+ {
+  "term": "Price ceiling",
+  "definition": "a legal maximum price that can be charged for a good or service.",
+  "chapter": 6
+ },
+ {
+  "term": "Price floor",
+  "definition": "a legal minimum price that must be paid for a good or service.",
+  "chapter": 6
+ },
+ {
+  "term": "Price signal",
+  "definition": "information a price sends to buyers and sellers about what to produce and buy.",
+  "chapter": 6
+ },
+ {
+  "term": "Rationing",
+  "definition": "a system for deciding who gets a scarce good.",
+  "chapter": 6
+ },
+ {
+  "term": "Rent control",
+  "definition": "a price ceiling on how much landlords can charge for rent.",
+  "chapter": 6
+ },
+ {
+  "term": "Surplus",
+  "definition": "when quantity supplied is greater than quantity demanded, usually because the price is too high.",
+  "chapter": 6
+ },
+ {
+  "term": "Advertising",
+  "definition": "paid messages that try to persuade people to buy a product.",
+  "chapter": 7
+ },
+ {
+  "term": "Antitrust laws",
+  "definition": "laws that promote competition and stop unfair monopolies and price fixing.",
+  "chapter": 7
+ },
+ {
+  "term": "Barriers to entry",
+  "definition": "obstacles that make it hard for new businesses to enter a market.",
+  "chapter": 7
+ },
+ {
+  "term": "Cartel",
+  "definition": "a group of sellers that work together to control prices and production.",
+  "chapter": 7
+ },
+ {
+  "term": "Collusion",
+  "definition": "an illegal agreement between businesses to set prices or limit production.",
+  "chapter": 7
+ },
+ {
+  "term": "Copyright",
+  "definition": "a legal right protecting creative works such as books, songs, and movies.",
+  "chapter": 7
+ },
+ {
+  "term": "Market structure",
+  "definition": "the way a market is organized, based on the number of sellers, how alike products are, and how easy it is to enter.",
+  "chapter": 7
+ },
+ {
+  "term": "Merger",
+  "definition": "when two or more companies combine into one.",
+  "chapter": 7
+ },
+ {
+  "term": "Monopolistic competition",
+  "definition": "a market with many sellers offering similar but differentiated products.",
+  "chapter": 7
+ },
+ {
+  "term": "Monopoly",
+  "definition": "a market with only one seller of a product with no close substitutes.",
+  "chapter": 7
+ },
+ {
+  "term": "Natural monopoly",
+  "definition": "a market where it is cheapest for one company to serve everyone, such as power lines.",
+  "chapter": 7
+ },
+ {
+  "term": "Oligopoly",
+  "definition": "a market controlled by a few large sellers.",
+  "chapter": 7
+ },
+ {
+  "term": "Patent",
+  "definition": "a legal right giving an inventor sole rights to make and sell an invention for about 20 years.",
+  "chapter": 7
+ },
+ {
+  "term": "Perfect competition",
+  "definition": "a market with many sellers of identical products, where no seller can affect the price.",
+  "chapter": 7
+ },
+ {
+  "term": "Price fixing",
+  "definition": "an illegal agreement among competitors to charge the same or set prices.",
+  "chapter": 7
+ },
+ {
+  "term": "Price maker",
+  "definition": "a seller with enough market power to set its own price.",
+  "chapter": 7
+ },
+ {
+  "term": "Price taker",
+  "definition": "a seller that must accept the market price because it has no control over it.",
+  "chapter": 7
+ },
+ {
+  "term": "Product differentiation",
+  "definition": "making a product seem different from competitors' through features, style, brand, or service.",
+  "chapter": 7
+ },
+ {
+  "term": "Standardized product",
+  "definition": "a product that is the same no matter who makes it, such as wheat.",
+  "chapter": 7
+ },
+ {
+  "term": "Business plan",
+  "definition": "a written plan describing a business's goals, customers, costs, and how it will make a profit.",
+  "chapter": 8
+ },
+ {
+  "term": "Cooperative",
+  "definition": "a business owned and run by its members for their shared benefit.",
+  "chapter": 8
+ },
+ {
+  "term": "Corporation",
+  "definition": "a business that is a legal entity separate from its owners.",
+  "chapter": 8
+ },
+ {
+  "term": "Dividend",
+  "definition": "a share of a corporation's profit paid to stockholders.",
+  "chapter": 8
+ },
+ {
+  "term": "Double taxation",
+  "definition": "when corporate profits are taxed once as company income and again as dividends paid to owners.",
+  "chapter": 8
+ },
+ {
+  "term": "Franchise",
+  "definition": "the right to sell a company's products using its name and system, in exchange for fees.",
+  "chapter": 8
+ },
+ {
+  "term": "Innovation",
+  "definition": "creating a new product or a better way of doing something.",
+  "chapter": 8
+ },
+ {
+  "term": "Limited liability",
+  "definition": "when owners can lose only the money they invested, not their personal property.",
+  "chapter": 8
+ },
+ {
+  "term": "Limited liability company (LLC)",
+  "definition": "a business form that gives owners limited liability but is taxed more like a partnership.",
+  "chapter": 8
+ },
+ {
+  "term": "Multinational corporation",
+  "definition": "a company that operates in many countries.",
+  "chapter": 8
+ },
+ {
+  "term": "Nonprofit organization",
+  "definition": "an organization that works for a purpose other than earning profit for owners.",
+  "chapter": 8
+ },
+ {
+  "term": "Partnership",
+  "definition": "a business owned by two or more people who share profits and responsibility.",
+  "chapter": 8
+ },
+ {
+  "term": "Partnership agreement",
+  "definition": "a legal document stating how partners will share work, money, and decisions.",
+  "chapter": 8
+ },
+ {
+  "term": "Profit",
+  "definition": "the money a business has left after paying all its costs.",
+  "chapter": 8
+ },
+ {
+  "term": "Revenue",
+  "definition": "all the money a business takes in from sales.",
+  "chapter": 8
+ },
+ {
+  "term": "Risk",
+  "definition": "the chance of losing money or failing.",
+  "chapter": 8
+ },
+ {
+  "term": "Sole proprietorship",
+  "definition": "a business owned and run by one person.",
+  "chapter": 8
+ },
+ {
+  "term": "Stock",
+  "definition": "a share of ownership in a corporation.",
+  "chapter": 8
+ },
+ {
+  "term": "Stockholder",
+  "definition": "a person who owns stock in a corporation; also called a shareholder.",
+  "chapter": 8
+ },
+ {
+  "term": "Unlimited liability",
+  "definition": "when a business owner is personally responsible for all of the business's debts.",
+  "chapter": 8
+ },
+ {
+  "term": "401(k)",
+  "definition": "a retirement savings plan offered by employers, often with matching contributions.",
+  "chapter": 9
+ },
+ {
+  "term": "Apprenticeship",
+  "definition": "on-the-job training under a skilled worker while earning pay.",
+  "chapter": 9
+ },
+ {
+  "term": "Benefits",
+  "definition": "extras an employer provides besides pay, such as health insurance and paid time off.",
+  "chapter": 9
+ },
+ {
+  "term": "Collective bargaining",
+  "definition": "negotiations between a union and an employer.",
+  "chapter": 9
+ },
+ {
+  "term": "Deduction",
+  "definition": "money taken out of a paycheck for taxes, insurance, or savings.",
+  "chapter": 9
+ },
+ {
+  "term": "Derived demand",
+  "definition": "demand for something, like labor, that comes from demand for the products it helps make.",
+  "chapter": 9
+ },
+ {
+  "term": "FICA",
+  "definition": "the federal payroll tax for Social Security and Medicare.",
+  "chapter": 9
+ },
+ {
+  "term": "Gross pay",
+  "definition": "total earnings before any deductions.",
+  "chapter": 9
+ },
+ {
+  "term": "Labor force",
+  "definition": "all people 16 and older who are working or actively looking for work.",
+  "chapter": 9
+ },
+ {
+  "term": "Labor market",
+  "definition": "the market where workers sell their labor and employers buy it.",
+  "chapter": 9
+ },
+ {
+  "term": "Labor union",
+  "definition": "an organization of workers that bargains with employers over pay and working conditions.",
+  "chapter": 9
+ },
+ {
+  "term": "Net pay",
+  "definition": "the take-home pay left after deductions; also called take-home pay.",
+  "chapter": 9
+ },
+ {
+  "term": "Pay stub",
+  "definition": "the record attached to a paycheck showing earnings and deductions.",
+  "chapter": 9
+ },
+ {
+  "term": "Professional labor",
+  "definition": "work that requires advanced education, such as doctors or engineers.",
+  "chapter": 9
+ },
+ {
+  "term": "Right-to-work law",
+  "definition": "a law saying workers cannot be required to join a union to keep a job.",
+  "chapter": 9
+ },
+ {
+  "term": "Salary",
+  "definition": "a fixed yearly amount of pay, usually paid in equal parts.",
+  "chapter": 9
+ },
+ {
+  "term": "Skilled labor",
+  "definition": "work that requires specialized training or education.",
+  "chapter": 9
+ },
+ {
+  "term": "Soft skills",
+  "definition": "personal skills such as communication, teamwork, and reliability.",
+  "chapter": 9
+ },
+ {
+  "term": "Strike",
+  "definition": "when workers refuse to work until their demands are met.",
+  "chapter": 9
+ },
+ {
+  "term": "Wage",
+  "definition": "the payment a worker receives for labor, often per hour.",
+  "chapter": 9
+ },
+ {
+  "term": "Bank",
+  "definition": "a business that accepts deposits, makes loans, and provides financial services.",
+  "chapter": 10
+ },
+ {
+  "term": "Bank run",
+  "definition": "when many depositors try to withdraw their money at once because they fear the bank will fail.",
+  "chapter": 10
+ },
+ {
+  "term": "Barter",
+  "definition": "trading goods and services directly without using money.",
+  "chapter": 10
+ },
+ {
+  "term": "Commodity money",
+  "definition": "money that has value as a good by itself, such as gold or salt.",
+  "chapter": 10
+ },
+ {
+  "term": "Credit union",
+  "definition": "a nonprofit financial cooperative owned by its members.",
+  "chapter": 10
+ },
+ {
+  "term": "Deposit",
+  "definition": "money put into a bank account.",
+  "chapter": 10
+ },
+ {
+  "term": "Double coincidence of wants",
+  "definition": "when two people each want exactly what the other has, which barter requires.",
+  "chapter": 10
+ },
+ {
+  "term": "FDIC",
+  "definition": "the Federal Deposit Insurance Corporation, which insures bank deposits up to $250,000.",
+  "chapter": 10
+ },
+ {
+  "term": "Fiat money",
+  "definition": "money that has value because the government declares it legal money and people trust it.",
+  "chapter": 10
+ },
+ {
+  "term": "Fractional reserve banking",
+  "definition": "a system in which banks keep only part of their deposits as reserves and lend the rest.",
+  "chapter": 10
+ },
+ {
+  "term": "Gold standard",
+  "definition": "a system in which a country's money is backed by and can be traded for gold.",
+  "chapter": 10
+ },
+ {
+  "term": "Interest",
+  "definition": "the price paid for borrowing money, or the money earned for saving it.",
+  "chapter": 10
+ },
+ {
+  "term": "M1",
+  "definition": "the money supply measure that includes cash, checking accounts, and savings deposits.",
+  "chapter": 10
+ },
+ {
+  "term": "M2",
+  "definition": "M1 plus near money such as small CDs and money market funds.",
+  "chapter": 10
+ },
+ {
+  "term": "Medium of exchange",
+  "definition": "money's job as something people accept in trade.",
+  "chapter": 10
+ },
+ {
+  "term": "Money",
+  "definition": "anything that is widely accepted as payment for goods and services.",
+  "chapter": 10
+ },
+ {
+  "term": "Money supply",
+  "definition": "the total amount of money available in an economy.",
+  "chapter": 10
+ },
+ {
+  "term": "Representative money",
+  "definition": "paper money that can be exchanged for something valuable, such as gold.",
+  "chapter": 10
+ },
+ {
+  "term": "Reserves",
+  "definition": "the money a bank keeps on hand instead of lending out.",
+  "chapter": 10
+ },
+ {
+  "term": "Store of value",
+  "definition": "money's job of holding its value so it can be saved and spent later.",
+  "chapter": 10
+ },
+ {
+  "term": "Unit of account",
+  "definition": "money's job as a common measure of value, so prices can be compared.",
+  "chapter": 10
+ },
+ {
+  "term": "APY (annual percentage yield)",
+  "definition": "the yearly rate earned on savings, including the effect of compound interest.",
+  "chapter": 11
+ },
+ {
+  "term": "Balance",
+  "definition": "the amount of money in an account.",
+  "chapter": 11
+ },
+ {
+  "term": "Bank statement",
+  "definition": "a monthly record of all deposits, withdrawals, and fees in an account.",
+  "chapter": 11
+ },
+ {
+  "term": "Buy now, pay later (BNPL)",
+  "definition": "a plan that splits a purchase into several installment payments.",
+  "chapter": 11
+ },
+ {
+  "term": "Certificate of deposit (CD)",
+  "definition": "a savings deposit left for a fixed time in exchange for a higher interest rate.",
+  "chapter": 11
+ },
+ {
+  "term": "Checking account",
+  "definition": "a bank account used for everyday spending through debit cards, checks, and transfers.",
+  "chapter": 11
+ },
+ {
+  "term": "Cryptocurrency",
+  "definition": "digital money not issued by a government, such as Bitcoin, whose value can swing widely.",
+  "chapter": 11
+ },
+ {
+  "term": "Debit card",
+  "definition": "a card that pays for purchases by taking money directly from a checking account.",
+  "chapter": 11
+ },
+ {
+  "term": "Direct deposit",
+  "definition": "an electronic payment of wages straight into a bank account.",
+  "chapter": 11
+ },
+ {
+  "term": "Emergency fund",
+  "definition": "money set aside to pay for unexpected costs or job loss.",
+  "chapter": 11
+ },
+ {
+  "term": "High-yield savings account",
+  "definition": "a savings account that pays a higher interest rate than a typical account.",
+  "chapter": 11
+ },
+ {
+  "term": "Identity theft",
+  "definition": "stealing someone's personal information to commit fraud.",
+  "chapter": 11
+ },
+ {
+  "term": "Maintenance fee",
+  "definition": "a monthly charge a bank may collect just for keeping an account open.",
+  "chapter": 11
+ },
+ {
+  "term": "Money market account",
+  "definition": "a savings account that usually pays higher interest and may require a higher minimum balance.",
+  "chapter": 11
+ },
+ {
+  "term": "Overdraft",
+  "definition": "spending more money than is in an account.",
+  "chapter": 11
+ },
+ {
+  "term": "Overdraft fee",
+  "definition": "a charge from the bank when an account is overdrawn.",
+  "chapter": 11
+ },
+ {
+  "term": "Phishing",
+  "definition": "fake emails, texts, or calls that try to trick people into giving personal information.",
+  "chapter": 11
+ },
+ {
+  "term": "Reconcile",
+  "definition": "to compare your records with the bank's to make sure they match.",
+  "chapter": 11
+ },
+ {
+  "term": "Savings account",
+  "definition": "a bank account that earns interest on money saved.",
+  "chapter": 11
+ },
+ {
+  "term": "Bear market",
+  "definition": "a period when stock prices fall 20 percent or more.",
+  "chapter": 12
+ },
+ {
+  "term": "Bond",
+  "definition": "a loan to a government or company that pays interest and returns the face value at maturity.",
+  "chapter": 12
+ },
+ {
+  "term": "Bull market",
+  "definition": "a long period of rising stock prices.",
+  "chapter": 12
+ },
+ {
+  "term": "Capital gain",
+  "definition": "the profit made by selling an investment for more than you paid.",
+  "chapter": 12
+ },
+ {
+  "term": "Compound interest",
+  "definition": "interest earned on both the principal and the interest already earned.",
+  "chapter": 12
+ },
+ {
+  "term": "Diversification",
+  "definition": "spreading money among many different investments to reduce risk.",
+  "chapter": 12
+ },
+ {
+  "term": "ETF (exchange-traded fund)",
+  "definition": "a fund that holds many investments and trades on a stock exchange like a stock.",
+  "chapter": 12
+ },
+ {
+  "term": "Expense ratio",
+  "definition": "the yearly fee a fund charges, shown as a percentage of the money invested.",
+  "chapter": 12
+ },
+ {
+  "term": "Index fund",
+  "definition": "a fund that buys all the stocks in a market index, such as the S&P 500.",
+  "chapter": 12
+ },
+ {
+  "term": "Investing",
+  "definition": "using money to buy assets that may grow in value over time.",
+  "chapter": 12
+ },
+ {
+  "term": "IRA",
+  "definition": "an individual retirement account with tax benefits that a person opens on their own.",
+  "chapter": 12
+ },
+ {
+  "term": "Maturity date",
+  "definition": "the date when a bond's face value is paid back.",
+  "chapter": 12
+ },
+ {
+  "term": "Mutual fund",
+  "definition": "a fund that pools money from many investors to buy many stocks or bonds.",
+  "chapter": 12
+ },
+ {
+  "term": "Ponzi scheme",
+  "definition": "a scam that pays early investors with money from new investors instead of real profits.",
+  "chapter": 12
+ },
+ {
+  "term": "Principal",
+  "definition": "the original amount of money saved, invested, or borrowed.",
+  "chapter": 12
+ },
+ {
+  "term": "Return",
+  "definition": "the money earned on an investment.",
+  "chapter": 12
+ },
+ {
+  "term": "Risk tolerance",
+  "definition": "how much risk of loss a person is willing to accept.",
+  "chapter": 12
+ },
+ {
+  "term": "Roth IRA",
+  "definition": "a retirement account funded with money already taxed, which then grows and is withdrawn tax-free in retirement.",
+  "chapter": 12
+ },
+ {
+  "term": "Rule of 72",
+  "definition": "a shortcut that estimates how many years it takes money to double: 72 divided by the interest rate.",
+  "chapter": 12
+ },
+ {
+  "term": "Saving",
+  "definition": "setting money aside in a safe place for future use.",
+  "chapter": 12
+ },
+ {
+  "term": "Simple interest",
+  "definition": "interest paid only on the original principal.",
+  "chapter": 12
+ },
+ {
+  "term": "Stock exchange",
+  "definition": "a market where stocks are bought and sold, such as the New York Stock Exchange.",
+  "chapter": 12
+ },
+ {
+  "term": "Stock market index",
+  "definition": "a measure of the performance of a group of stocks, such as the S&P 500.",
+  "chapter": 12
+ },
+ {
+  "term": "Time horizon",
+  "definition": "how long until you need the money you are saving or investing.",
+  "chapter": 12
+ },
+ {
+  "term": "50/30/20 rule",
+  "definition": "a budgeting guide that puts 50% of income to needs, 30% to wants, and 20% to savings and debt.",
+  "chapter": 13
+ },
+ {
+  "term": "Budget",
+  "definition": "a plan for how to spend and save income.",
+  "chapter": 13
+ },
+ {
+  "term": "Budget deficit (personal)",
+  "definition": "when spending is greater than income.",
+  "chapter": 13
+ },
+ {
+  "term": "Budget surplus (personal)",
+  "definition": "when income is greater than spending.",
+  "chapter": 13
+ },
+ {
+  "term": "Comparison shopping",
+  "definition": "comparing prices and quality from different sellers before buying.",
+  "chapter": 13
+ },
+ {
+  "term": "Depreciation",
+  "definition": "the loss of value of an item, such as a car, over time.",
+  "chapter": 13
+ },
+ {
+  "term": "Expenses",
+  "definition": "money spent on goods and services.",
+  "chapter": 13
+ },
+ {
+  "term": "FAFSA",
+  "definition": "the Free Application for Federal Student Aid, used to apply for grants, work-study, and federal student loans.",
+  "chapter": 13
+ },
+ {
+  "term": "Financial goal",
+  "definition": "something specific you want to do with your money.",
+  "chapter": 13
+ },
+ {
+  "term": "Fixed expense",
+  "definition": "a cost that stays the same each month, such as rent.",
+  "chapter": 13
+ },
+ {
+  "term": "Grant",
+  "definition": "money for school that does not have to be paid back, usually based on need.",
+  "chapter": 13
+ },
+ {
+  "term": "Impulse buying",
+  "definition": "making unplanned purchases on the spur of the moment.",
+  "chapter": 13
+ },
+ {
+  "term": "Income",
+  "definition": "money received from work, gifts, or investments.",
+  "chapter": 13
+ },
+ {
+  "term": "Lifestyle creep",
+  "definition": "spending more as income rises, leaving no extra for savings.",
+  "chapter": 13
+ },
+ {
+  "term": "Net price",
+  "definition": "the cost of college after grants and scholarships are subtracted.",
+  "chapter": 13
+ },
+ {
+  "term": "Pay yourself first",
+  "definition": "saving part of your income right away, before spending any.",
+  "chapter": 13
+ },
+ {
+  "term": "Sales tax",
+  "definition": "a tax added to the price of goods and services at purchase.",
+  "chapter": 13
+ },
+ {
+  "term": "Scholarship",
+  "definition": "money for school that does not have to be paid back, usually based on merit or other criteria.",
+  "chapter": 13
+ },
+ {
+  "term": "SMART goal",
+  "definition": "a goal that is specific, measurable, achievable, relevant, and time-bound.",
+  "chapter": 13
+ },
+ {
+  "term": "Total cost of ownership",
+  "definition": "all costs of owning something, including price, interest, insurance, fuel, and repairs.",
+  "chapter": 13
+ },
+ {
+  "term": "Unit price",
+  "definition": "the cost per unit, such as per ounce, used to compare products.",
+  "chapter": 13
+ },
+ {
+  "term": "Variable expense",
+  "definition": "a cost that changes from month to month, such as groceries.",
+  "chapter": 13
+ },
+ {
+  "term": "Zero-based budget",
+  "definition": "a budget in which every dollar of income is assigned a job.",
+  "chapter": 13
+ },
+ {
+  "term": "APR (annual percentage rate)",
+  "definition": "the yearly cost of borrowing, including interest and certain fees.",
+  "chapter": 14
+ },
+ {
+  "term": "Bankruptcy",
+  "definition": "a legal process for people or businesses that cannot pay their debts.",
+  "chapter": 14
+ },
+ {
+  "term": "Collateral",
+  "definition": "property a borrower pledges that the lender can take if the loan isn't repaid.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit",
+  "definition": "borrowing money now with a promise to pay it back later, usually with interest.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit bureau",
+  "definition": "a company that collects credit information: Equifax, Experian, and TransUnion.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit history",
+  "definition": "a record of how a person has borrowed and repaid money.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit limit",
+  "definition": "the most you can borrow on a credit card or line of credit.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit report",
+  "definition": "a detailed record of a person's credit history kept by a credit bureau.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit score",
+  "definition": "a number, usually 300 to 850, that rates how likely a person is to repay debt.",
+  "chapter": 14
+ },
+ {
+  "term": "Credit utilization",
+  "definition": "the share of available credit a person is using.",
+  "chapter": 14
+ },
+ {
+  "term": "Creditor",
+  "definition": "a person or business that lends money; a lender.",
+  "chapter": 14
+ },
+ {
+  "term": "Creditworthy",
+  "definition": "likely to repay borrowed money, in a lender's judgment.",
+  "chapter": 14
+ },
+ {
+  "term": "Debt",
+  "definition": "money that is owed.",
+  "chapter": 14
+ },
+ {
+  "term": "Debtor",
+  "definition": "a person who owes money.",
+  "chapter": 14
+ },
+ {
+  "term": "Foreclosure",
+  "definition": "the legal process of a lender taking a home when the mortgage isn't paid.",
+  "chapter": 14
+ },
+ {
+  "term": "Installment credit",
+  "definition": "a loan repaid in equal payments over a set time, such as a car loan.",
+  "chapter": 14
+ },
+ {
+  "term": "Minimum payment",
+  "definition": "the smallest amount you can pay on a credit card bill without a late fee.",
+  "chapter": 14
+ },
+ {
+  "term": "Mortgage",
+  "definition": "a loan used to buy a home, with the home as collateral.",
+  "chapter": 14
+ },
+ {
+  "term": "Payday loan",
+  "definition": "a small, short-term loan with extremely high fees, due on the borrower's next payday.",
+  "chapter": 14
+ },
+ {
+  "term": "Repossession",
+  "definition": "when a lender takes back property, such as a car, because payments weren't made.",
+  "chapter": 14
+ },
+ {
+  "term": "Revolving credit",
+  "definition": "credit you can use, repay, and use again up to a limit, such as a credit card.",
+  "chapter": 14
+ },
+ {
+  "term": "Secured credit card",
+  "definition": "a credit card backed by a cash deposit, often used to build credit.",
+  "chapter": 14
+ },
+ {
+  "term": "Secured loan",
+  "definition": "a loan backed by collateral.",
+  "chapter": 14
+ },
+ {
+  "term": "Unsecured loan",
+  "definition": "a loan with no collateral, such as most credit cards.",
+  "chapter": 14
+ },
+ {
+  "term": "Beneficiary",
+  "definition": "the person named to receive money from a life insurance policy.",
+  "chapter": 15
+ },
+ {
+  "term": "Claim",
+  "definition": "a request for an insurance company to pay for a covered loss.",
+  "chapter": 15
+ },
+ {
+  "term": "Coinsurance",
+  "definition": "the percentage of costs the insured pays after the deductible is met.",
+  "chapter": 15
+ },
+ {
+  "term": "Collision coverage",
+  "definition": "auto insurance that pays to repair your own car after a crash.",
+  "chapter": 15
+ },
+ {
+  "term": "Comprehensive coverage",
+  "definition": "auto insurance that covers non-crash damage such as theft, hail, fire, or hitting an animal.",
+  "chapter": 15
+ },
+ {
+  "term": "Consumer Financial Protection Bureau (CFPB)",
+  "definition": "the federal agency that protects consumers in banking, loans, and credit.",
+  "chapter": 15
+ },
+ {
+  "term": "Copay",
+  "definition": "a fixed amount paid for a medical visit or prescription.",
+  "chapter": 15
+ },
+ {
+  "term": "Deductible",
+  "definition": "the amount the insured person pays before insurance starts paying.",
+  "chapter": 15
+ },
+ {
+  "term": "Disability insurance",
+  "definition": "insurance that replaces part of your income if you cannot work due to illness or injury.",
+  "chapter": 15
+ },
+ {
+  "term": "Federal Trade Commission (FTC)",
+  "definition": "the federal agency that fights scams and false advertising.",
+  "chapter": 15
+ },
+ {
+  "term": "Insurance",
+  "definition": "a contract in which a person pays a company to cover certain financial losses.",
+  "chapter": 15
+ },
+ {
+  "term": "Liability insurance",
+  "definition": "insurance that pays for injuries or damage you cause to others.",
+  "chapter": 15
+ },
+ {
+  "term": "Life insurance",
+  "definition": "insurance that pays beneficiaries when the insured person dies.",
+  "chapter": 15
+ },
+ {
+  "term": "Medicaid",
+  "definition": "a government health insurance program for people with low incomes.",
+  "chapter": 15
+ },
+ {
+  "term": "Medicare",
+  "definition": "a federal health insurance program mainly for people 65 and older.",
+  "chapter": 15
+ },
+ {
+  "term": "Out-of-pocket maximum",
+  "definition": "the most a person must pay for covered health care in a year.",
+  "chapter": 15
+ },
+ {
+  "term": "Policy",
+  "definition": "the written insurance contract.",
+  "chapter": 15
+ },
+ {
+  "term": "Pooling risk",
+  "definition": "spreading the cost of losses across many people who each pay a little.",
+  "chapter": 15
+ },
+ {
+  "term": "Premium",
+  "definition": "the regular amount paid to keep an insurance policy active.",
+  "chapter": 15
+ },
+ {
+  "term": "Renters insurance",
+  "definition": "insurance that covers a renter's belongings and liability.",
+  "chapter": 15
+ },
+ {
+  "term": "Risk management",
+  "definition": "ways of dealing with risk: avoiding, reducing, keeping, or transferring it.",
+  "chapter": 15
+ },
+ {
+  "term": "Term life insurance",
+  "definition": "life insurance that covers a set number of years.",
+  "chapter": 15
+ },
+ {
+  "term": "Warranty",
+  "definition": "a seller's written promise to repair or replace a product that fails.",
+  "chapter": 15
+ },
+ {
+  "term": "Consumption",
+  "definition": "household spending on goods and services.",
+  "chapter": 16
+ },
+ {
+  "term": "Double counting",
+  "definition": "mistakenly counting the same production more than once.",
+  "chapter": 16
+ },
+ {
+  "term": "Expenditure approach",
+  "definition": "measuring GDP by adding up all spending on final goods and services.",
+  "chapter": 16
+ },
+ {
+  "term": "Final goods",
+  "definition": "products sold to the end user.",
+  "chapter": 16
+ },
+ {
+  "term": "GDP per capita",
+  "definition": "GDP divided by a country's population.",
+  "chapter": 16
+ },
+ {
+  "term": "Government purchases",
+  "definition": "government spending on goods and services, such as roads and military equipment.",
+  "chapter": 16
+ },
+ {
+  "term": "Gross domestic product (GDP)",
+  "definition": "the total market value of all final goods and services produced within a country in one year.",
+  "chapter": 16
+ },
+ {
+  "term": "Human Development Index",
+  "definition": "a measure of well-being that combines income, education, and life expectancy.",
+  "chapter": 16
+ },
+ {
+  "term": "Income approach",
+  "definition": "measuring GDP by adding up all income earned producing goods and services.",
+  "chapter": 16
+ },
+ {
+  "term": "Intermediate goods",
+  "definition": "products used to make other products, such as flour used to bake bread.",
+  "chapter": 16
+ },
+ {
+  "term": "Investment (in GDP)",
+  "definition": "business spending on capital goods and new housing.",
+  "chapter": 16
+ },
+ {
+  "term": "Net exports",
+  "definition": "the value of exports minus the value of imports.",
+  "chapter": 16
+ },
+ {
+  "term": "Nominal GDP",
+  "definition": "GDP measured in current prices, not adjusted for inflation.",
+  "chapter": 16
+ },
+ {
+  "term": "Real GDP",
+  "definition": "GDP adjusted for changes in prices.",
+  "chapter": 16
+ },
+ {
+  "term": "Standard of living",
+  "definition": "the level of comfort and material well-being people have.",
+  "chapter": 16
+ },
+ {
+  "term": "Underground economy",
+  "definition": "economic activity that is illegal or not reported to the government.",
+  "chapter": 16
+ },
+ {
+  "term": "Consumer Price Index (CPI)",
+  "definition": "a measure of the average change in prices of a market basket of goods and services.",
+  "chapter": 17
+ },
+ {
+  "term": "Cost-push inflation",
+  "definition": "inflation caused by rising costs of production.",
+  "chapter": 17
+ },
+ {
+  "term": "Cyclical unemployment",
+  "definition": "unemployment caused by a slowdown or recession in the economy.",
+  "chapter": 17
+ },
+ {
+  "term": "Deflation",
+  "definition": "a general fall in prices across the economy.",
+  "chapter": 17
+ },
+ {
+  "term": "Demand-pull inflation",
+  "definition": "inflation caused when total demand grows faster than the economy can produce.",
+  "chapter": 17
+ },
+ {
+  "term": "Discouraged worker",
+  "definition": "a person who wants a job but has stopped looking, so isn't counted as unemployed.",
+  "chapter": 17
+ },
+ {
+  "term": "Fixed income",
+  "definition": "income that does not change, such as some pensions.",
+  "chapter": 17
+ },
+ {
+  "term": "Frictional unemployment",
+  "definition": "short-term unemployment while people move between jobs or start their first job.",
+  "chapter": 17
+ },
+ {
+  "term": "Full employment",
+  "definition": "when there is no cyclical unemployment.",
+  "chapter": 17
+ },
+ {
+  "term": "Hyperinflation",
+  "definition": "extremely fast, out-of-control inflation.",
+  "chapter": 17
+ },
+ {
+  "term": "Inflation",
+  "definition": "a general rise in prices across the economy over time.",
+  "chapter": 17
+ },
+ {
+  "term": "Inflation rate",
+  "definition": "the percentage change in the price level from one year to the next.",
+  "chapter": 17
+ },
+ {
+  "term": "Market basket",
+  "definition": "a set of goods and services a typical household buys, used to measure price changes.",
+  "chapter": 17
+ },
+ {
+  "term": "Natural rate of unemployment",
+  "definition": "the unemployment rate when the economy is at full employment.",
+  "chapter": 17
+ },
+ {
+  "term": "Purchasing power",
+  "definition": "the amount of goods and services money can buy.",
+  "chapter": 17
+ },
+ {
+  "term": "Real wage",
+  "definition": "a wage adjusted for inflation, showing actual buying power.",
+  "chapter": 17
+ },
+ {
+  "term": "Seasonal unemployment",
+  "definition": "unemployment that happens when jobs change with the seasons.",
+  "chapter": 17
+ },
+ {
+  "term": "Structural unemployment",
+  "definition": "unemployment caused when workers' skills don't match available jobs.",
+  "chapter": 17
+ },
+ {
+  "term": "Underemployed",
+  "definition": "working part-time when wanting full-time work, or working in a job below your skill level.",
+  "chapter": 17
+ },
+ {
+  "term": "Unemployment rate",
+  "definition": "the percentage of the labor force that is jobless and actively looking for work.",
+  "chapter": 17
+ },
+ {
+  "term": "Wage-price spiral",
+  "definition": "a cycle in which rising prices lead to higher wages, which lead to even higher prices.",
+  "chapter": 17
+ },
+ {
+  "term": "Bubble",
+  "definition": "when prices of assets, such as stocks or houses, rise far above their real value and then crash.",
+  "chapter": 18
+ },
+ {
+  "term": "Business cycle",
+  "definition": "the repeated rise and fall of economic activity over time.",
+  "chapter": 18
+ },
+ {
+  "term": "Coincident indicator",
+  "definition": "a statistic that moves at the same time as the economy.",
+  "chapter": 18
+ },
+ {
+  "term": "Consumer confidence",
+  "definition": "how optimistic people feel about the economy and their finances.",
+  "chapter": 18
+ },
+ {
+  "term": "Contraction",
+  "definition": "a phase of the business cycle when real GDP shrinks.",
+  "chapter": 18
+ },
+ {
+  "term": "Depression",
+  "definition": "a very long and severe recession.",
+  "chapter": 18
+ },
+ {
+  "term": "Economic indicator",
+  "definition": "a statistic used to judge how the economy is doing.",
+  "chapter": 18
+ },
+ {
+  "term": "Expansion",
+  "definition": "a phase of the business cycle when real GDP grows and unemployment falls.",
+  "chapter": 18
+ },
+ {
+  "term": "External shock",
+  "definition": "an unexpected outside event, such as a war or pandemic, that affects the economy.",
+  "chapter": 18
+ },
+ {
+  "term": "Financial panic",
+  "definition": "a sudden loss of trust that causes people to pull money out of banks and markets.",
+  "chapter": 18
+ },
+ {
+  "term": "Great Depression",
+  "definition": "the severe worldwide economic downturn from 1929 to about 1941.",
+  "chapter": 18
+ },
+ {
+  "term": "Great Recession",
+  "definition": "the economic downturn from 2007 to 2009, caused largely by a housing and financial crisis.",
+  "chapter": 18
+ },
+ {
+  "term": "Lagging indicator",
+  "definition": "a statistic that changes after the economy has already changed.",
+  "chapter": 18
+ },
+ {
+  "term": "Leading indicator",
+  "definition": "a statistic that tends to change before the economy as a whole changes.",
+  "chapter": 18
+ },
+ {
+  "term": "Peak",
+  "definition": "the highest point of economic activity before a contraction.",
+  "chapter": 18
+ },
+ {
+  "term": "Recession",
+  "definition": "a significant, widespread decline in economic activity lasting more than a few months.",
+  "chapter": 18
+ },
+ {
+  "term": "Trough",
+  "definition": "the lowest point of economic activity before recovery begins.",
+  "chapter": 18
+ },
+ {
+  "term": "Ability-to-pay principle",
+  "definition": "the idea that people with higher incomes should pay more taxes.",
+  "chapter": 19
+ },
+ {
+  "term": "Benefits-received principle",
+  "definition": "the idea that people should pay taxes based on how much they use a service.",
+  "chapter": 19
+ },
+ {
+  "term": "Corporate income tax",
+  "definition": "a tax on the profits of corporations.",
+  "chapter": 19
+ },
+ {
+  "term": "Estate tax",
+  "definition": "a tax on very large amounts of property left by a person who has died.",
+  "chapter": 19
+ },
+ {
+  "term": "Individual income tax",
+  "definition": "a tax on the money people earn.",
+  "chapter": 19
+ },
+ {
+  "term": "Levy",
+  "definition": "a tax that voters approve for a specific purpose, such as funding a school district.",
+  "chapter": 19
+ },
+ {
+  "term": "Progressive tax",
+  "definition": "a tax that takes a larger percentage of income from people with higher incomes.",
+  "chapter": 19
+ },
+ {
+  "term": "Property tax",
+  "definition": "a tax on the value of land, homes, and buildings, mainly paid to local governments.",
+  "chapter": 19
+ },
+ {
+  "term": "Proportional tax",
+  "definition": "a tax that takes the same percentage of income from everyone; also called a flat tax.",
+  "chapter": 19
+ },
+ {
+  "term": "Regressive tax",
+  "definition": "a tax that takes a larger share of income from lower-income people.",
+  "chapter": 19
+ },
+ {
+  "term": "Standard deduction",
+  "definition": "a set amount subtracted from income before calculating income tax.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax",
+  "definition": "a required payment to the government to pay for public services.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax bracket",
+  "definition": "a range of income taxed at a particular rate.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax credit",
+  "definition": "an amount subtracted directly from the tax a person owes.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax incidence",
+  "definition": "who actually bears the cost of a tax.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax refund",
+  "definition": "money returned when more tax was withheld than was owed.",
+  "chapter": 19
+ },
+ {
+  "term": "Tax return",
+  "definition": "the form filed each year to report income and calculate taxes owed.",
+  "chapter": 19
+ },
+ {
+  "term": "W-2",
+  "definition": "the form an employer sends each year showing a worker's earnings and taxes withheld.",
+  "chapter": 19
+ },
+ {
+  "term": "W-4",
+  "definition": "the form a worker fills out so an employer knows how much tax to withhold from each paycheck.",
+  "chapter": 19
+ },
+ {
+  "term": "Withholding",
+  "definition": "tax taken out of each paycheck by an employer.",
+  "chapter": 19
+ },
+ {
+  "term": "Aggregate demand",
+  "definition": "the total spending on goods and services in an economy.",
+  "chapter": 20
+ },
+ {
+  "term": "Automatic stabilizers",
+  "definition": "programs like unemployment insurance that automatically support the economy during downturns.",
+  "chapter": 20
+ },
+ {
+  "term": "Balanced budget",
+  "definition": "a budget in which spending equals revenue.",
+  "chapter": 20
+ },
+ {
+  "term": "Budget deficit",
+  "definition": "when a government spends more than it collects in a year.",
+  "chapter": 20
+ },
+ {
+  "term": "Budget surplus",
+  "definition": "when a government collects more than it spends in a year.",
+  "chapter": 20
+ },
+ {
+  "term": "Contractionary fiscal policy",
+  "definition": "cutting spending or raising taxes to slow the economy and fight inflation.",
+  "chapter": 20
+ },
+ {
+  "term": "Crowding out",
+  "definition": "when heavy government borrowing raises interest rates and reduces private investment.",
+  "chapter": 20
+ },
+ {
+  "term": "Discretionary spending",
+  "definition": "government spending that Congress decides each year, such as defense.",
+  "chapter": 20
+ },
+ {
+  "term": "Expansionary fiscal policy",
+  "definition": "increasing spending or cutting taxes to boost the economy.",
+  "chapter": 20
+ },
+ {
+  "term": "Federal budget",
+  "definition": "the government's yearly plan for revenue and spending.",
+  "chapter": 20
+ },
+ {
+  "term": "Fiscal policy",
+  "definition": "the use of government spending and taxes to influence the economy.",
+  "chapter": 20
+ },
+ {
+  "term": "Keynesian economics",
+  "definition": "the idea that government should spend more during recessions to boost demand.",
+  "chapter": 20
+ },
+ {
+  "term": "Mandatory spending",
+  "definition": "government spending required by existing laws, such as Social Security.",
+  "chapter": 20
+ },
+ {
+  "term": "National debt",
+  "definition": "the total amount of money the federal government owes.",
+  "chapter": 20
+ },
+ {
+  "term": "Social Security",
+  "definition": "a federal program that pays benefits to retirees, disabled workers, and survivors.",
+  "chapter": 20
+ },
+ {
+  "term": "Supply-side economics",
+  "definition": "the idea that lower taxes and less regulation boost growth by improving incentives to work and invest.",
+  "chapter": 20
+ },
+ {
+  "term": "Time lag",
+  "definition": "the delay between recognizing an economic problem and a policy taking effect.",
+  "chapter": 20
+ },
+ {
+  "term": "Transfer payment",
+  "definition": "money the government gives to individuals without receiving a good or service in return.",
+  "chapter": 20
+ },
+ {
+  "term": "Treasury bond",
+  "definition": "a bond sold by the U.S. government to borrow money.",
+  "chapter": 20
+ },
+ {
+  "term": "Unemployment insurance",
+  "definition": "temporary payments to workers who lost their jobs through no fault of their own.",
+  "chapter": 20
+ },
+ {
+  "term": "Board of Governors",
+  "definition": "the seven-member group in Washington, D.C., that leads the Federal Reserve.",
+  "chapter": 21
+ },
+ {
+  "term": "Central bank",
+  "definition": "a country's main bank, which manages the money supply and oversees banks.",
+  "chapter": 21
+ },
+ {
+  "term": "Contractionary monetary policy",
+  "definition": "raising interest rates and reducing the money supply to fight inflation; also called tight money.",
+  "chapter": 21
+ },
+ {
+  "term": "Discount rate",
+  "definition": "the interest rate the Fed charges banks that borrow directly from it.",
+  "chapter": 21
+ },
+ {
+  "term": "Dual mandate",
+  "definition": "the Fed's two goals: maximum employment and stable prices.",
+  "chapter": 21
+ },
+ {
+  "term": "Expansionary monetary policy",
+  "definition": "lowering interest rates and increasing the money supply to boost the economy; also called easy money.",
+  "chapter": 21
+ },
+ {
+  "term": "Federal funds rate",
+  "definition": "the interest rate banks charge each other for overnight loans.",
+  "chapter": 21
+ },
+ {
+  "term": "Federal Open Market Committee (FOMC)",
+  "definition": "the Fed group that meets eight times a year to set monetary policy.",
+  "chapter": 21
+ },
+ {
+  "term": "Federal Reserve district",
+  "definition": "one of 12 regions served by a regional Federal Reserve Bank.",
+  "chapter": 21
+ },
+ {
+  "term": "Federal Reserve System",
+  "definition": "the central bank of the United States, created in 1913.",
+  "chapter": 21
+ },
+ {
+  "term": "Independence (of the Fed)",
+  "definition": "the Fed's ability to make decisions without approval from Congress or the President.",
+  "chapter": 21
+ },
+ {
+  "term": "Interest on reserves",
+  "definition": "the interest rate the Fed pays banks on money they keep at the Fed.",
+  "chapter": 21
+ },
+ {
+  "term": "Lender of last resort",
+  "definition": "the Fed's role of lending to banks during emergencies.",
+  "chapter": 21
+ },
+ {
+  "term": "Monetary policy",
+  "definition": "actions by the central bank to change the money supply and interest rates.",
+  "chapter": 21
+ },
+ {
+  "term": "Open market operations",
+  "definition": "the Fed buying or selling government bonds to change the money supply.",
+  "chapter": 21
+ },
+ {
+  "term": "Reserve requirement",
+  "definition": "the share of deposits banks must keep in reserve.",
+  "chapter": 21
+ },
+ {
+  "term": "Absolute advantage",
+  "definition": "the ability to produce more of a good than another producer using the same resources.",
+  "chapter": 22
+ },
+ {
+  "term": "Comparative advantage",
+  "definition": "the ability to produce a good at a lower opportunity cost than another producer.",
+  "chapter": 22
+ },
+ {
+  "term": "Domestic",
+  "definition": "inside one's own country.",
+  "chapter": 22
+ },
+ {
+  "term": "Exports",
+  "definition": "goods and services sold to other countries.",
+  "chapter": 22
+ },
+ {
+  "term": "Gains from trade",
+  "definition": "the extra goods and services both sides get by specializing and trading.",
+  "chapter": 22
+ },
+ {
+  "term": "Global supply chain",
+  "definition": "the worldwide network of businesses that make and move a product from raw materials to the customer.",
+  "chapter": 22
+ },
+ {
+  "term": "Imports",
+  "definition": "goods and services bought from other countries.",
+  "chapter": 22
+ },
+ {
+  "term": "Interdependence",
+  "definition": "when people or countries rely on each other for goods and services.",
+  "chapter": 22
+ },
+ {
+  "term": "International trade",
+  "definition": "buying and selling goods and services across national borders.",
+  "chapter": 22
+ },
+ {
+  "term": "Job retraining",
+  "definition": "programs that teach new skills to workers who lost jobs, often due to trade or technology.",
+  "chapter": 22
+ },
+ {
+  "term": "Balance of trade",
+  "definition": "the value of a country's exports minus its imports.",
+  "chapter": 23
+ },
+ {
+  "term": "Dumping",
+  "definition": "selling goods in another country below the cost of making them.",
+  "chapter": 23
+ },
+ {
+  "term": "Embargo",
+  "definition": "a government ban on trade with another country.",
+  "chapter": 23
+ },
+ {
+  "term": "European Union (EU)",
+  "definition": "a group of European countries that trade freely with each other, many sharing the euro.",
+  "chapter": 23
+ },
+ {
+  "term": "Exchange rate",
+  "definition": "the price of one country's currency in terms of another's.",
+  "chapter": 23
+ },
+ {
+  "term": "Floating exchange rate",
+  "definition": "an exchange rate set by supply and demand in currency markets.",
+  "chapter": 23
+ },
+ {
+  "term": "Free trade",
+  "definition": "trade between countries with few or no barriers.",
+  "chapter": 23
+ },
+ {
+  "term": "Infant industry",
+  "definition": "a new industry that may need protection until it can compete.",
+  "chapter": 23
+ },
+ {
+  "term": "Protectionism",
+  "definition": "using trade barriers to protect domestic industries from foreign competition.",
+  "chapter": 23
+ },
+ {
+  "term": "Quota",
+  "definition": "a limit on the amount of a good that can be imported.",
+  "chapter": 23
+ },
+ {
+  "term": "Retaliation",
+  "definition": "when a country responds to another country's trade barriers with barriers of its own.",
+  "chapter": 23
+ },
+ {
+  "term": "Strong dollar",
+  "definition": "a dollar that buys more foreign currency, making imports cheaper and exports more expensive.",
+  "chapter": 23
+ },
+ {
+  "term": "Tariff",
+  "definition": "a tax on imported goods.",
+  "chapter": 23
+ },
+ {
+  "term": "Trade agreement",
+  "definition": "a deal between countries to reduce trade barriers.",
+  "chapter": 23
+ },
+ {
+  "term": "Trade barrier",
+  "definition": "a government action that limits trade, such as a tariff or quota.",
+  "chapter": 23
+ },
+ {
+  "term": "Trade deficit",
+  "definition": "when a country imports more than it exports.",
+  "chapter": 23
+ },
+ {
+  "term": "Trade surplus",
+  "definition": "when a country exports more than it imports.",
+  "chapter": 23
+ },
+ {
+  "term": "USMCA",
+  "definition": "the United States-Mexico-Canada Agreement, the 2020 trade deal that replaced NAFTA.",
+  "chapter": 23
+ },
+ {
+  "term": "Weak dollar",
+  "definition": "a dollar that buys less foreign currency, making exports cheaper and imports more expensive.",
+  "chapter": 23
+ },
+ {
+  "term": "World Trade Organization (WTO)",
+  "definition": "an international organization that sets trade rules and settles trade disputes.",
+  "chapter": 23
+ },
+ {
+  "term": "Developed country",
+  "definition": "a country with high income, strong industries, and a high standard of living.",
+  "chapter": 24
+ },
+ {
+  "term": "Developing country",
+  "definition": "a country with lower income and less industry, education, and health care.",
+  "chapter": 24
+ },
+ {
+  "term": "Emerging economy",
+  "definition": "a developing country that is growing and industrializing quickly.",
+  "chapter": 24
+ },
+ {
+  "term": "Extreme poverty",
+  "definition": "living on so little income that basic needs like food and shelter can't be met.",
+  "chapter": 24
+ },
+ {
+  "term": "Foreign aid",
+  "definition": "money, goods, or services given by one country to help another.",
+  "chapter": 24
+ },
+ {
+  "term": "Foreign direct investment",
+  "definition": "when a company from one country builds or buys a business in another country.",
+  "chapter": 24
+ },
+ {
+  "term": "Global economy",
+  "definition": "the worldwide system of connected national economies.",
+  "chapter": 24
+ },
+ {
+  "term": "Globalization",
+  "definition": "the growing connection of the world's economies through trade, investment, and communication.",
+  "chapter": 24
+ },
+ {
+  "term": "Infrastructure",
+  "definition": "basic systems a society needs, such as roads, power, water, and internet.",
+  "chapter": 24
+ },
+ {
+  "term": "International Monetary Fund (IMF)",
+  "definition": "an international organization that helps countries facing financial crises.",
+  "chapter": 24
+ },
+ {
+  "term": "Microloan",
+  "definition": "a very small loan, often to an entrepreneur in a poor area, to start or grow a business.",
+  "chapter": 24
+ },
+ {
+  "term": "Shipping container",
+  "definition": "a standard-size metal box that made moving goods by ship, train, and truck much cheaper.",
+  "chapter": 24
+ },
+ {
+  "term": "World Bank",
+  "definition": "an international organization that lends money for development projects.",
+  "chapter": 24
+ }
+]

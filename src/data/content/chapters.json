@@ -1,0 +1,1629 @@
+[
+ {
+  "n": 1,
+  "realm": 1,
+  "title": "Scarcity: You Can't Pack Everything",
+  "standards": [
+   "9-12.EC.1"
+  ],
+  "sections": [
+   {
+    "heading": "The Backpack Problem",
+    "markdown": "You're heading up into the Sawtooths for an overnight hike. Your pack holds about 40 pounds before your shoulders start filing complaints. You want a tent, a sleeping bag, a stove, water, food, a jacket, a speaker, a hammock, a camp chair, and maybe a cast-iron pan because bacon.\nIt won't all fit. So you choose.\nThat moment, standing over a pile of gear and deciding what stays home, is economics. Not stocks. Not math. **Choices.**"
+   },
+   {
+    "heading": "What Economics Actually Is",
+    "markdown": "**Economics** is the study of how people make choices when they can't have everything they want.\nIt exists because of one basic fact: **scarcity**. Scarcity means our wants are unlimited, but the resources we use to satisfy them are limited. There's only so much time, money, land, water, and energy.\nScarcity is not the same as a **shortage**. A shortage is temporary: the store is out of your size this week. Scarcity is permanent. Even billionaires face it. They still only get 24 hours a day.\nEconomists split what people want into two piles:\n- **Needs** are things you must have to survive: food, water, shelter, clothing.\n- **Wants** are things that would be nice to have: the new phone, the lake trip, extra guac.\nThe stuff we buy comes in two types too. **Goods** are physical things you can touch, like hiking boots. **Services** are actions someone does for you, like a ski lesson or a haircut."
+   },
+   {
+    "heading": "Every Choice Has a Price Tag (Even When It's Free)",
+    "markdown": "When you choose one thing, you give up something else. That's a **trade-off**.\nThe single best thing you gave up is your **opportunity cost**. Say you have a free Saturday. You could work a shift and earn $90, hike Table Rock with friends, or sleep until noon. If you pick the hike and your next-best choice was working, your opportunity cost is the $90 you didn't earn.\nNotice: the hike was \"free,\" but it still cost you something. Economists say **there's no such thing as a free lunch.** Somebody always gives something up, even if it's just time."
+   },
+   {
+    "heading": "Thinking at the Margin",
+    "markdown": "Most choices aren't all-or-nothing. They're \"a little more or a little less.\" Economists call this **marginal thinking**.\nShould you study one more hour for the test? Compare the **marginal benefit** (maybe your grade goes up a few points) with the **marginal cost** (one less hour of sleep or fun). If the extra benefit is bigger than the extra cost, do it. If not, stop.\nThat's also why the first slice of pizza is amazing and the fifth one isn't. Each extra slice gives you less satisfaction than the one before."
+   },
+   {
+    "heading": "Incentives: Why People Do What They Do",
+    "markdown": "An **incentive** is anything that pushes people to act a certain way.\n- **Positive incentives** reward you: a bonus for working Black Friday, a discount for buying early, extra XP for passing a quiz.\n- **Negative incentives** punish you: a speeding ticket, a late fee, losing your phone for missing curfew.\nWhen incentives change, behavior changes. If gas prices jump, people drive less and carpool more. If a store gives free ice cream with any purchase, watch how fast the line grows. Economists can predict a lot just by asking, \"What's the incentive here?\""
+   },
+   {
+    "heading": "Rational Choices and the Big Three Questions",
+    "markdown": "Economists assume people are mostly **rational**. That doesn't mean perfect. It means people try to pick the option where the benefits beat the costs, based on what they know.\nBecause of scarcity, every society has to answer three big questions:\n1. **What** should we produce? (More trail maps or more video games?)\n2. **How** should we produce it? (By hand, by machine, by robot?)\n3. **For whom** should we produce it? (Who gets the stuff?)\nHow a country answers these questions is a big deal. You'll see different answers in Chapter 3."
+   },
+   {
+    "heading": "Micro vs. Macro",
+    "markdown": "Economics has two zoom levels:\n- **Microeconomics** looks at individual people, families, and businesses. Should Boise Fry Company raise its prices?\n- **Macroeconomics** looks at the whole economy at once: total jobs, prices, and growth across the entire country.\nSame trail, two different maps. You'll use both before you reach the summit."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Your family has $300 to spend this month on \"fun.\" Option A: a weekend at a cabin near McCall. Option B: four new video games. Option C: put it in savings for a summer road trip.\nPick one. Then explain your **opportunity cost**, name one **incentive** that pushed your choice, and describe one **marginal** decision inside your choice (for example, \"one more night\" or \"one more game\").",
+   "standards": "Idaho standards: 9-12.EC.1"
+  },
+  "checklist": [
+   "Scarcity = unlimited wants, limited resources. It never goes away.",
+   "Opportunity cost is the value of your next-best choice, the one you gave up.",
+   "Marginal thinking compares the extra benefit with the extra cost of one more.",
+   "Incentives (positive and negative) change how people act.",
+   "Every society must answer: what, how, and for whom to produce."
+  ],
+  "keyWords": [
+   "Economics",
+   "Scarcity",
+   "Shortage",
+   "Needs",
+   "Wants",
+   "Goods",
+   "Services",
+   "Trade-off",
+   "Opportunity cost",
+   "Marginal thinking",
+   "Marginal benefit",
+   "Marginal cost",
+   "Incentive",
+   "Rational choice",
+   "Microeconomics",
+   "Macroeconomics"
+  ]
+ },
+ {
+  "n": 2,
+  "realm": 1,
+  "title": "Resources and the Production Possibilities Curve",
+  "standards": [
+   "9-12.EC.4",
+   "9-12.EC.1"
+  ],
+  "sections": [
+   {
+    "heading": "Building a Trail From Scratch",
+    "markdown": "Imagine the Forest Service hands your class a job: build a new two-mile trail up a ridge outside Idaho Falls. What do you need?\nLand to put it on. People to dig. Shovels, saws, and a truck. And somebody to organize the whole thing so it doesn't turn into 30 teenagers arguing over one shovel.\nCongratulations, you just named the four **factors of production**."
+   },
+   {
+    "heading": "The Four Factors of Production",
+    "markdown": "Everything that gets made, from a potato chip to a phone, uses these four ingredients:\n- **Land** means every natural resource: soil, water, trees, minerals, oil, sunlight. Idaho's farmland, rivers, and timber are all land.\n- **Labor** is human work, physical or mental. The trail crew digging, a nurse at EIRMC, a coder at Micron.\n- **Capital** is anything people *make* to help make other things: tools, machines, buildings, trucks. (Careful: in economics, capital does *not* mean money. Money buys capital. Capital is the shovel.)\n- **Entrepreneurship** is the skill of combining the other three, taking risks, and starting something new. The person who says \"let's open a rafting company on the Snake River\" is the entrepreneur.\nEconomists also talk about **human capital**: the knowledge and skills a person gains from school, training, and experience. When you learn to weld or code, you're building your human capital. It makes your labor worth more.\nEach factor earns its own reward. Land earns **rent**, labor earns **wages**, capital earns **interest**, and entrepreneurs earn **profit** (if things go well)."
+   },
+   {
+    "heading": "Productivity: Doing More With the Same Stuff",
+    "markdown": "**Productivity** is how much you can produce with the resources you have. A trail crew with power tools gets more done per hour than one with hand shovels.\nTwo big ways to raise productivity:\n1. **Specialization**: each person focuses on one task they're good at. One group clears brush, one digs, one builds water bars. Everyone gets faster at their part.\n2. **Division of labor**: breaking a big job into small steps. Henry Ford's assembly line made cars cheap enough for regular families this way.\nBetter technology and more human capital raise productivity too. More productivity is how countries get richer over time."
+   },
+   {
+    "heading": "The Production Possibilities Curve",
+    "markdown": "Economists use a simple graph to show scarcity and trade-offs. It's called a **production possibilities curve (PPC)**, sometimes called a frontier.\nImagine a small town that can only make two things: **skis** and **fishing rods**. If it uses every worker and machine for skis, it gets 100 skis and zero rods. All rods? 80 rods, zero skis. Most of the time it picks a mix, like 60 skis and 50 rods.\nPlot all the best possible combinations and you get a curve that bows outward. Here's what the curve tells you:\n- **On the curve**: the town is using all its resources efficiently. To make more skis, it *must* make fewer rods. That's opportunity cost, drawn as a line.\n- **Inside the curve**: resources are being wasted. Maybe workers are unemployed or a factory sits empty. The town could make more of both.\n- **Outside the curve**: impossible right now. The town doesn't have enough resources or technology."
+   },
+   {
+    "heading": "Why the Curve Bends",
+    "markdown": "The curve bows outward because of the **law of increasing opportunity cost**. Not every resource is equally good at everything.\nWhen the town makes its first few fishing rods, it uses the workers who are best at rods, so it gives up only a few skis. But the more rods it makes, the more it has to pull in expert ski makers who are terrible at rods. Each extra rod costs more and more skis."
+   },
+   {
+    "heading": "Moving the Whole Curve",
+    "markdown": "The curve can shift.\n- It shifts **outward** (growth) when the town gets more resources, better technology, or more educated workers. A new factory or a faster machine lets it make more of everything.\n- It shifts **inward** when resources are lost: a wildfire burns timberland, a flood wipes out a factory, or many workers move away.\nThis is the whole story of economic growth on one graph. Countries grow by pushing their curve outward, mostly through new capital, better technology, and stronger human capital."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "A student has 6 hours on Saturday to split between **working** ($15/hour) and **studying** (each hour raises a test grade about 3 points, but only for the first 4 hours).\nSketch or describe a production possibilities curve with \"Dollars earned\" on one axis and \"Points gained\" on the other. Label one point **inside** the curve and explain what it means. Then explain what could shift this student's curve **outward**.",
+   "standards": "Idaho standards: 9-12.EC.4, 9-12.EC.1"
+  },
+  "checklist": [
+   "The four factors of production: land, labor, capital, entrepreneurship.",
+   "In economics, capital means tools and machines, not money.",
+   "Specialization and division of labor raise productivity.",
+   "On the PPC = efficient; inside = wasted resources; outside = impossible for now.",
+   "More resources, better technology, or more human capital shift the PPC outward."
+  ],
+  "keyWords": [
+   "Factors of production",
+   "Land",
+   "Labor",
+   "Capital",
+   "Entrepreneurship",
+   "Entrepreneur",
+   "Human capital",
+   "Productivity",
+   "Specialization",
+   "Division of labor",
+   "Production possibilities curve (PPC)",
+   "Efficiency",
+   "Law of increasing opportunity cost",
+   "Economic growth",
+   "Technology"
+  ]
+ },
+ {
+  "n": 3,
+  "realm": 1,
+  "title": "Economic Systems: Who Decides?",
+  "standards": [
+   "9-12.EC.6",
+   "9-12.EC.1"
+  ],
+  "sections": [
+   {
+    "heading": "Three Questions, Many Answers",
+    "markdown": "In Chapter 1 you met the three questions every society has to answer: **what** to produce, **how** to produce it, and **for whom**.\nAn **economic system** is the way a society answers those questions. Think of it as the trail rules for a whole country. Some countries let each hiker pick their own route. Others have a ranger tell everyone exactly where to walk. Most do a bit of both."
+   },
+   {
+    "heading": "Traditional Economies",
+    "markdown": "In a **traditional economy**, people answer the three questions the way their parents and grandparents did. Customs and habits decide. If your family has always herded reindeer, you herd reindeer.\nTraditional economies still exist in a few places, such as some Indigenous communities, rural villages, and herding groups around the world. They offer stability and strong community. The downside is that they change slowly and rarely adopt new technology, so living standards tend to stay where they are."
+   },
+   {
+    "heading": "Command Economies",
+    "markdown": "In a **command economy**, the central government makes the big decisions. Planners decide what factories make, how much they make, what things cost, and who gets them. The government usually owns most land and businesses.\nThe Soviet Union ran a command economy for about 70 years. Today North Korea and Cuba come closest.\n**Strengths:** the government can move resources fast toward a goal, like building a military or a dam.\n**Weaknesses:** planners can't possibly know what millions of people want. The Soviet Union had warehouses full of shoes nobody liked and long lines for bread. Workers had few incentives to work harder or invent something better, because they couldn't keep the rewards."
+   },
+   {
+    "heading": "Market Economies",
+    "markdown": "In a **market economy**, individuals and private businesses answer the three questions. People buy what they want, businesses make what sells, and prices send the signals. Nobody's in charge, yet stuff still shows up on the shelves.\nThe Scottish thinker **Adam Smith** explained this in *The Wealth of Nations* (1776). He said that when people pursue their own **self-interest** in a market, an \"**invisible hand**\" guides them to help others too. A baker doesn't bake bread to be nice. She bakes because she wants to earn money. But you still get bread.\nPure market economies, with zero government, don't really exist. That's sometimes called **laissez-faire** (\"leave it alone\").\n**Strengths:** freedom of choice, lots of variety, and strong incentives to work and invent.\n**Weaknesses:** markets don't take care of everyone. Some people can't work, some businesses pollute, and big swings between booms and busts can hurt."
+   },
+   {
+    "heading": "Mixed Economies (Including Ours)",
+    "markdown": "Nearly every country today is a **mixed economy**, blending market freedom with some government decisions. The real question is *how much* of each.\nThe United States leans strongly toward the market side. That system is called **free enterprise**, or **capitalism**. Its key features:\n- **Private property**: people can own land, homes, and businesses.\n- **Profit motive**: people start businesses hoping to earn money.\n- **Competition**: businesses compete for customers, which pushes prices down and quality up.\n- **Voluntary exchange**: buyers and sellers trade only when both think they'll be better off.\n- **Consumer sovereignty**: shoppers are the \"kings and queens\" whose spending decides what gets made.\nThe U.S. government still plays roles: enforcing contracts, protecting property, providing roads and national defense, regulating safety, and running programs like Social Security."
+   },
+   {
+    "heading": "Big Thinkers, Big Debates",
+    "markdown": "Economic systems grew out of big ideas, and people still argue about them.\n- **Adam Smith** (1700s): free markets and competition create wealth.\n- **Karl Marx** (1800s): believed capitalism let factory owners take advantage of workers and predicted workers would overthrow it. His ideas inspired **socialism** (government or society owns major industries) and **communism** (a planned system where the government controls nearly all property). Countries that tried communism ended up with command economies and harsh limits on freedom.\n- **John Maynard Keynes** (1900s): said government should spend more during recessions to boost the economy.\n- **Friedrich Hayek** and **Milton Friedman** (1900s): warned that too much government control hurts freedom and growth, and argued for freer markets.\nToday, countries like Sweden and Denmark have market economies with high taxes and large social programs. Hong Kong and Singapore became famous for very free markets. China has a command-economy past with large market reforms since 1978. Every country is somewhere on the spectrum, and voters keep debating where the line should be."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "A small island of 500 people just got cut off from the world. Food is limited. Pick an economic system (traditional, command, market, or mixed) for the island.\nExplain how your system answers **what, how, and for whom** to produce. Then give one real **strength** and one real **weakness** your island will face, using evidence from a real country or history.",
+   "standards": "Idaho standards: 9-12.EC.6, 9-12.EC.1"
+  },
+  "checklist": [
+   "An economic system is how a society answers what, how, and for whom.",
+   "Traditional = custom decides. Command = government decides. Market = individuals and prices decide.",
+   "Almost every country today is a mixed economy.",
+   "U.S. free enterprise: private property, profit motive, competition, voluntary exchange, consumer sovereignty.",
+   "Adam Smith's invisible hand vs. Karl Marx's critique are still debated today."
+  ],
+  "keyWords": [
+   "Economic system",
+   "Traditional economy",
+   "Command economy",
+   "Market economy",
+   "Mixed economy",
+   "Free enterprise",
+   "Capitalism",
+   "Socialism",
+   "Communism",
+   "Invisible hand",
+   "Self-interest",
+   "Laissez-faire",
+   "Private property",
+   "Profit motive",
+   "Competition",
+   "Voluntary exchange",
+   "Consumer sovereignty"
+  ]
+ },
+ {
+  "n": 4,
+  "realm": 2,
+  "title": "Demand: What Buyers Want",
+  "standards": [
+   "9-12.EC.1",
+   "9-12.EC.2"
+  ],
+  "sections": [
+   {
+    "heading": "The Lift Ticket Experiment",
+    "markdown": "A ski hill near you sells a day pass for $90. Plenty of people buy. Now imagine they drop it to $30. The parking lot overflows and the lift line wraps around the lodge. Push it up to $200 and the slopes are empty except for a few diehards.\nNobody had to pass a law to make that happen. People just responded to price. That's **demand** at work."
+   },
+   {
+    "heading": "What Demand Means",
+    "markdown": "**Demand** is how much of something people are **willing and able** to buy at each possible price. Both parts matter. You may *want* a $60,000 truck, but if you can't pay for it, that's not demand. It's a daydream.\nThe **law of demand** says: when the price of something goes **up**, people buy **less** of it. When the price goes **down**, people buy **more**. Price and quantity demanded move in opposite directions.\nWhy? Two reasons:\n- **The income effect:** when prices rise, your money doesn't stretch as far, so you buy less.\n- **The substitution effect:** when something gets pricey, you switch to something cheaper. If burgers jump to $15, you start eating more tacos.\nThere's also **diminishing marginal utility** (utility just means satisfaction). The first water bottle on a hot trail is priceless. The fifth? You'd only take it if it were nearly free. So people only buy more when the price drops."
+   },
+   {
+    "heading": "Demand Schedules and Demand Curves",
+    "markdown": "A **demand schedule** is a table showing how much people will buy at each price:\n- $10 a bag of kettle corn: 20 bags\n- $8: 40 bags\n- $6: 60 bags\n- $4: 80 bags\nDraw those points on a graph with **price** on the vertical axis and **quantity** on the horizontal axis, connect them, and you get a **demand curve**. It slopes **downward** from left to right. That's the law of demand in picture form.\n**Market demand** adds up what every buyer wants at each price, not just one person."
+   },
+   {
+    "heading": "Moving Along vs. Shifting the Curve",
+    "markdown": "This part trips people up, so slow down.\nIf the **price of the product itself** changes, you **move along** the same curve. That's a **change in quantity demanded**.\nIf **something else** changes, the whole curve **shifts**. That's a **change in demand**. Shift right = more demand at every price. Shift left = less demand at every price."
+   },
+   {
+    "heading": "What Shifts Demand",
+    "markdown": "Remember **\"TRIBE\"** for the five big shifters:\n- **T**astes and preferences: a viral TikTok makes everyone want Stanley cups. Demand shifts right.\n- **R**elated goods: **Substitutes** replace each other (Coke and Pepsi). If Pepsi gets cheaper, demand for Coke falls. **Complements** go together (hot dogs and buns, game consoles and games). If consoles get cheaper, demand for games rises.\n- **I**ncome: more income usually raises demand for **normal goods** (restaurant meals, new clothes). For **inferior goods** (ramen, bus rides, used cars), demand can *fall* as income rises because people upgrade.\n- **B**uyers: more buyers means more demand. When people move to Idaho, demand for houses goes up.\n- **E**xpectations: if you think prices will jump next week, you buy now. Rumors of a gas shortage cause lines today."
+   },
+   {
+    "heading": "Elasticity: How Picky Are Buyers?",
+    "markdown": "**Elasticity of demand** measures how much buyers react to a price change.\n- **Elastic demand:** a small price change causes a big change in how much people buy. Things with lots of substitutes, luxuries, or big-ticket items are usually elastic. Raise the price of one brand of chips and people grab another.\n- **Inelastic demand:** people keep buying about the same amount even when the price changes. Necessities with few substitutes are inelastic: insulin, gasoline for your commute, electricity. When gas jumps 50 cents, you still have to get to work.\nThree questions predict elasticity: Are there **substitutes**? Is it a **need or a want**? Is it a **big part of your budget**? Lots of substitutes, a want, and a big price tag mean elastic.\nBusinesses care a lot about this. If demand is inelastic, raising prices can bring in more money. If it's elastic, raising prices might drive customers away."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Pick something you buy often (a drink, a game, gas, a streaming service).\n1. Is your demand for it **elastic or inelastic**? Use the three questions (substitutes, need vs. want, share of budget) as evidence.\n2. Name one event that would **shift your demand curve right** and one that would **shift it left**, and say which TRIBE factor each one is.",
+   "standards": "Idaho standards: 9-12.EC.1, 9-12.EC.2"
+  },
+  "checklist": [
+   "Demand = willing AND able to buy at each price.",
+   "Law of demand: price up, quantity demanded down (and the reverse).",
+   "A price change moves you along the curve; other factors shift the whole curve.",
+   "TRIBE: tastes, related goods, income, buyers, expectations.",
+   "Elastic = buyers react a lot to price; inelastic = they keep buying anyway."
+  ],
+  "keyWords": [
+   "Demand",
+   "Law of demand",
+   "Quantity demanded",
+   "Demand schedule",
+   "Demand curve",
+   "Market demand",
+   "Income effect",
+   "Substitution effect",
+   "Utility",
+   "Diminishing marginal utility",
+   "Change in demand",
+   "Substitutes",
+   "Complements",
+   "Normal good",
+   "Inferior good",
+   "Elasticity of demand",
+   "Elastic demand",
+   "Inelastic demand"
+  ]
+ },
+ {
+  "n": 5,
+  "realm": 2,
+  "title": "Supply: What Sellers Bring",
+  "standards": [
+   "9-12.EC.1",
+   "9-12.EC.2",
+   "9-12.EC.3"
+  ],
+  "sections": [
+   {
+    "heading": "The Huckleberry Hustle",
+    "markdown": "Every August, people head into the hills around Sandpoint and Island Park to pick wild huckleberries. Pickers sell them for crazy prices, sometimes $50 a gallon or more.\nNow picture the price jumping to $100 a gallon. What happens? Suddenly everybody's uncle has a bucket and a free weekend. More people pick, they pick longer, and they hike farther to find berries. More berries show up for sale.\nThat's **supply**: sellers bringing more to market when the price is worth their time."
+   },
+   {
+    "heading": "What Supply Means",
+    "markdown": "**Supply** is the amount of a good or service that producers are **willing and able** to sell at each possible price.\nThe **law of supply** says: when the price goes **up**, producers offer **more**. When the price goes **down**, they offer **less**. Price and quantity supplied move in the **same** direction.\nWhy? Because of incentives. A higher price means more profit, so:\n- businesses already selling make more of it,\n- new businesses jump in to grab some of that profit."
+   },
+   {
+    "heading": "Supply Schedules and Curves",
+    "markdown": "A **supply schedule** is a table of how much sellers will offer at each price:\n- $2 per cup of lemonade: 10 cups\n- $3: 25 cups\n- $4: 40 cups\n- $5: 55 cups\nGraph it with price on the vertical axis and quantity on the horizontal and you get a **supply curve** that slopes **upward** from left to right. That's the opposite of a demand curve.\n**Market supply** adds up what every seller will offer at each price."
+   },
+   {
+    "heading": "Costs Drive Supply",
+    "markdown": "Sellers decide how much to make by looking at their costs.\n- **Fixed costs** stay the same no matter how much you make: rent, insurance, a loan payment on the food truck.\n- **Variable costs** rise with each unit you make: ingredients, packaging, hourly wages, gas.\n- **Total cost** = fixed costs + variable costs.\n- **Marginal cost** is the extra cost of making one more unit.\nA business keeps producing as long as the price it gets for one more unit (**marginal revenue**) is at least as big as the marginal cost. That's marginal thinking again, from Chapter 1.\nAt some point, adding more workers stops helping as much. Three people in a food truck work great. Ten people trip over each other. That's **diminishing marginal returns**: each extra worker adds less output than the one before."
+   },
+   {
+    "heading": "Moving Along vs. Shifting",
+    "markdown": "Same rule as demand:\n- A change in the **good's own price** = a **movement along** the supply curve (a change in **quantity supplied**).\n- A change in **anything else** = the whole curve **shifts** (a change in **supply**). Right = more supply at every price. Left = less."
+   },
+   {
+    "heading": "What Shifts Supply",
+    "markdown": "Remember **\"ROTTEN\"**:\n- **R**esource and input costs: if flour gets cheaper, bakeries can make more bread at every price. Supply shifts right. If wages or fuel costs jump, supply shifts left.\n- **O**ther goods' prices: a farmer can grow potatoes or wheat. If wheat prices soar, she plants more wheat and fewer potatoes, so potato supply shifts left.\n- **T**axes and **subsidies**: a tax per unit raises costs and shifts supply left. A **subsidy** (government payment to producers) shifts supply right.\n- **T**echnology: better machines and methods lower costs. Supply shifts right.\n- **E**xpectations: if sellers expect higher prices later, they may hold back supply now.\n- **N**umber of sellers: more sellers, more supply. When a dozen new coffee shops open in town, the supply of lattes goes up.\nDon't forget nature and **government regulation**. A drought, early frost, or wildfire can wipe out crops and shift supply left. New safety rules can raise costs and do the same."
+   },
+   {
+    "heading": "Supply Elasticity",
+    "markdown": "**Elasticity of supply** measures how quickly sellers can react to a price change.\n- **Elastic supply:** producers can increase output fast. T-shirts and phone cases can be cranked out in days.\n- **Inelastic supply:** output can't change quickly. You can't grow more Idaho potatoes this week, build more houses this month, or create more beachfront land. Time is the biggest factor. Given years instead of weeks, almost all supply becomes more elastic."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You run a food truck at Idaho Falls' Fourth of July fireworks.\n1. List two **fixed costs** and two **variable costs** for your truck.\n2. Name one **ROTTEN** event that would shift your supply **left** and one that would shift it **right**. Explain how each changes what you can sell at every price.",
+   "standards": "Idaho standards: 9-12.EC.1, 9-12.EC.2, 9-12.EC.3"
+  },
+  "checklist": [
+   "Supply = willing AND able to sell at each price.",
+   "Law of supply: price up, quantity supplied up.",
+   "Fixed costs stay the same; variable costs grow with output.",
+   "ROTTEN: resource costs, other goods, taxes/subsidies, technology, expectations, number of sellers.",
+   "Supply is inelastic in the short run and more elastic given time."
+  ],
+  "keyWords": [
+   "Supply",
+   "Law of supply",
+   "Quantity supplied",
+   "Supply schedule",
+   "Supply curve",
+   "Market supply",
+   "Fixed costs",
+   "Variable costs",
+   "Total cost",
+   "Marginal revenue",
+   "Diminishing marginal returns",
+   "Change in supply",
+   "Subsidy",
+   "Excise tax",
+   "Regulation",
+   "Elasticity of supply"
+  ]
+ },
+ {
+  "n": 6,
+  "realm": 2,
+  "title": "Prices: Where Supply Meets Demand",
+  "standards": [
+   "9-12.EC.2",
+   "9-12.EC.3",
+   "9-12.EC.1"
+  ],
+  "sections": [
+   {
+    "heading": "The Concert Ticket Mystery",
+    "markdown": "A huge artist announces a show in Boise. Tickets go on sale at $120. They sell out in four minutes. An hour later, resale sites list the same seats for $600.\nMeanwhile, a local band plays the Idaho Center the next weekend with tickets at $40, and half the seats sit empty.\nWhy? Because a price works best when it lands where buyers and sellers agree. Too low and you get chaos. Too high and you get empty seats."
+   },
+   {
+    "heading": "Equilibrium: The Sweet Spot",
+    "markdown": "Put a demand curve and a supply curve on the same graph. Demand slopes down. Supply slopes up. They cross at one point.\nThat point is **equilibrium**. The price there is the **equilibrium price** (also called the market-clearing price), and the amount is the **equilibrium quantity**. At that price, the amount buyers want to buy is exactly the amount sellers want to sell. Everyone who wants one at that price gets one, and nothing is left over.\nMarkets naturally drift toward equilibrium. Here's how:\n- **Surplus:** if the price is too high, sellers offer more than buyers want. Unsold stuff piles up, like winter coats in March. Sellers cut prices to get rid of it. The price falls toward equilibrium.\n- **Shortage:** if the price is too low, buyers want more than sellers offer. Lines form, shelves go empty, and people pay resellers. Sellers realize they can charge more. The price rises toward equilibrium.\nNobody runs this. It just happens through millions of choices. That's Adam Smith's invisible hand again."
+   },
+   {
+    "heading": "When the Curves Shift",
+    "markdown": "Events shift supply or demand, and the equilibrium moves.\n- **Demand rises** (curve shifts right): price goes **up**, quantity goes **up**. Example: a cold snap sends everyone shopping for space heaters.\n- **Demand falls** (left): price **down**, quantity **down**. A recall makes people avoid a brand of lettuce.\n- **Supply rises** (right): price **down**, quantity **up**. A huge potato harvest drops potato prices.\n- **Supply falls** (left): price **up**, quantity **down**. A wildfire closes sawmills, and lumber prices jump.\nIf both curves shift at once, one of the two results (price or quantity) will be clear and the other depends on which shift is bigger."
+   },
+   {
+    "heading": "Prices Are Signals",
+    "markdown": "Prices do three jobs at once:\n1. **They send information.** A rising price shouts, \"People want more of this!\"\n2. **They create incentives.** High prices pull in new sellers looking for profit and push buyers to cut back or find substitutes.\n3. **They ration scarce goods.** When there isn't enough for everyone, price decides who gets it: the people who value it most and can pay.\nThis is how a competitive market decides **what** gets made and **who** gets it, without a central planner. In 2020 and 2021, when people started building home gyms, the price of dumbbells shot up. That signal told manufacturers to make more, and within a year shelves filled up again and prices fell back."
+   },
+   {
+    "heading": "When Government Sets Prices",
+    "markdown": "Sometimes people think the market price is unfair, so the government sets a limit.\nA **price ceiling** is a legal **maximum** price. **Rent control** is the classic example: a city says landlords can't charge more than a certain amount. It sounds helpful, but if the ceiling is below equilibrium, it causes a **shortage**: more people want apartments than landlords supply. Landlords may stop maintaining buildings or turn them into condos. People who already have a rent-controlled apartment win. People searching for one lose.\nA **price floor** is a legal **minimum** price. The **minimum wage** is the best-known example. (The federal minimum is $7.25 an hour, and Idaho uses the same amount; some states set theirs much higher.) If a floor is set above equilibrium, it can cause a **surplus**. In the job market, a surplus of workers means unemployment. Economists debate how big that effect really is: some studies find modest minimum wage increases cost few jobs, while others find bigger losses, especially for teens. It depends a lot on how high the minimum is compared with local wages.\nWhen ceilings cause shortages, a **black market** (illegal trading at higher prices) or long waiting lists often show up."
+   },
+   {
+    "heading": "Rationing Without Prices",
+    "markdown": "If not price, then what? Societies sometimes ration by **first come, first served** (lines), **lottery** (Idaho's controlled hunt tags), **need** (organ transplants), or **coupons/quotas** (gas rationing in World War II). Each one has its own costs: time wasted in line, luck instead of value, or someone deciding who \"deserves\" it."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Concert tickets for a sold-out show are $120, but fans resell them for $600.\n1. Was $120 above, below, or at **equilibrium**? Use the words **shortage** or **surplus** in your answer.\n2. The artist could raise the price, use a lottery, or sell only at the door (first come, first served). Pick one and give one **benefit** and one **cost** of your method.",
+   "standards": "Idaho standards: 9-12.EC.2, 9-12.EC.3, 9-12.EC.1"
+  },
+  "checklist": [
+   "Equilibrium is where supply and demand cross: quantity demanded = quantity supplied.",
+   "Price too high = surplus; price too low = shortage. Markets push back to equilibrium.",
+   "Demand up raises price and quantity; supply up lowers price and raises quantity.",
+   "Prices send information, create incentives, and ration scarce goods.",
+   "Price ceilings (rent control) can cause shortages; price floors (minimum wage) can cause surpluses."
+  ],
+  "keyWords": [
+   "Equilibrium",
+   "Equilibrium price",
+   "Equilibrium quantity",
+   "Surplus",
+   "Market",
+   "Price signal",
+   "Rationing",
+   "Price ceiling",
+   "Price floor",
+   "Rent control",
+   "Minimum wage",
+   "Black market",
+   "Allocation"
+  ]
+ },
+ {
+  "n": 7,
+  "realm": 3,
+  "title": "Competition and Market Structures",
+  "standards": [
+   "9-12.EC.3",
+   "9-12.EC.12"
+  ],
+  "sections": [
+   {
+    "heading": "Same Product, Different Worlds",
+    "markdown": "Buy a sack of potatoes at the farmers market and you've got dozens of farmers selling almost identical spuds. Nobody can charge much more than anyone else.\nNow try to buy electricity for your house. In most of Idaho, one company serves your area. You can't shop around.\nBoth are \"markets,\" but they work very differently. Economists sort markets into four **market structures**, based on how many sellers there are, how alike their products are, and how hard it is for new sellers to get in."
+   },
+   {
+    "heading": "1. Perfect Competition",
+    "markdown": "**Perfect competition** is the textbook ideal:\n- many buyers and sellers,\n- identical products (economists say **standardized**),\n- easy entry and exit,\n- everyone has good information about prices.\nNo single seller can change the price. If one wheat farmer charges more, buyers go to the next farmer. Each seller is a **price taker**: they accept the market price.\nFarm products like wheat, corn, and potatoes come close. Perfect competition gives buyers the lowest prices and pushes businesses to be as efficient as possible. Real markets are rarely this perfect, but it's the benchmark everything else is measured against."
+   },
+   {
+    "heading": "2. Monopolistic Competition",
+    "markdown": "This one sounds scary but it's everywhere: restaurants, hair salons, clothing brands, coffee shops.\n**Monopolistic competition** has:\n- many sellers,\n- products that are similar but **not identical**,\n- fairly easy entry.\nEach business tries to stand out through **product differentiation**: a different taste, location, style, service, or brand. Your favorite burger place isn't the only burger place, but it's *different* enough that you'll pay a little more. That gives each seller a tiny bit of control over price.\nThat's why these businesses spend so much on **advertising** and branding. They're trying to convince you that their burger is special. When they succeed, they earn some extra profit, but new competitors keep showing up to grab a share."
+   },
+   {
+    "heading": "3. Oligopoly",
+    "markdown": "An **oligopoly** is a market controlled by a **few large sellers**. Think airlines, cell phone carriers, car makers, and soda. Getting in is hard because it takes huge amounts of money to start (economists call these **barriers to entry**).\nIn an oligopoly, each company watches the others closely. If one airline cuts fares on Boise-to-Seattle flights, the others usually match it fast. Companies may also be tempted to secretly agree on prices. That's called **collusion** or **price fixing**, and it's illegal in the U.S. A group of companies that coordinates prices and output is a **cartel**. OPEC, a group of oil-exporting countries, works this way on an international scale."
+   },
+   {
+    "heading": "4. Monopoly",
+    "markdown": "A **monopoly** has **one seller** of a product with **no close substitutes**, and high barriers keep others out. The monopolist is a **price maker**: it can raise prices because buyers have nowhere else to go. Monopolies tend to charge more, produce less, and innovate less than competitive firms.\nMonopolies form in a few ways:\n- **Natural monopoly:** it's cheaper for one company to serve everyone, like water pipes or power lines. Building two sets of power lines down every street would be wasteful. Governments allow these but regulate their prices. Idaho Power is regulated by the Idaho Public Utilities Commission.\n- **Government monopoly:** the government grants it, like the U.S. Postal Service's control of first-class mail delivery.\n- **Technological monopoly:** a **patent** gives an inventor the sole right to make and sell an invention for about 20 years. A **copyright** protects books, songs, and movies. These rewards encourage people to invent and create.\n- **Geographic monopoly:** the only gas station for 60 miles on a backcountry highway."
+   },
+   {
+    "heading": "Keeping Competition Alive",
+    "markdown": "Because competition protects consumers, the U.S. government tries to stop companies from crushing it.\n- **Antitrust laws** (like the Sherman Antitrust Act of 1890) make it illegal to form monopolies unfairly or fix prices. The government can block **mergers** (two companies combining into one) that would hurt competition, or even break companies up. In 1984, the government broke up the phone company AT&T into smaller companies.\n- **Regulation** controls natural monopolies' prices so they can't overcharge.\n- The government also protects consumers against **false advertising** and unsafe products.\nCompetition is a big reason market economies work. When businesses have to fight for your money, you get lower prices, better quality, and new ideas."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Think of a business you or your family pay every month (phone, internet, power, a streaming service, a gym).\n1. Which of the four **market structures** is it in? Give two pieces of evidence (number of sellers, how alike the products are, barriers to entry).\n2. How would your price or service change if two new competitors entered that market tomorrow?",
+   "standards": "Idaho standards: 9-12.EC.3, 9-12.EC.12"
+  },
+  "checklist": [
+   "Four structures: perfect competition, monopolistic competition, oligopoly, monopoly.",
+   "Perfect competition: many sellers, identical products, sellers are price takers.",
+   "Monopolistic competition: many sellers, differentiated products, lots of advertising.",
+   "Oligopoly: a few big sellers watching each other; price fixing is illegal.",
+   "Monopoly: one seller; antitrust laws and regulation protect competition and consumers."
+  ],
+  "keyWords": [
+   "Market structure",
+   "Perfect competition",
+   "Price taker",
+   "Standardized product",
+   "Monopolistic competition",
+   "Product differentiation",
+   "Advertising",
+   "Oligopoly",
+   "Barriers to entry",
+   "Collusion",
+   "Price fixing",
+   "Cartel",
+   "Monopoly",
+   "Price maker",
+   "Natural monopoly",
+   "Patent",
+   "Copyright",
+   "Antitrust laws",
+   "Merger"
+  ]
+ },
+ {
+  "n": 8,
+  "realm": 3,
+  "title": "Entrepreneurs and Business Organizations",
+  "standards": [
+   "9-12.EC.12",
+   "9-12.EC.4"
+  ],
+  "sections": [
+   {
+    "heading": "From a Garage to the Grocery Aisle",
+    "markdown": "Idaho is full of businesses that started small. Chobani's founder bought an old yogurt plant in New York with a loan and later built one of the world's biggest yogurt factories in Twin Falls. Melaleuca started in Idaho Falls and grew into a company with thousands of employees. Micron began in 1978 in the basement of a Boise dental office and became one of the biggest memory-chip makers on the planet.\nEvery one of those started with an **entrepreneur** who saw a chance, took a risk, and organized resources to make something people wanted."
+   },
+   {
+    "heading": "What Makes an Entrepreneur",
+    "markdown": "Remember from Chapter 2: **entrepreneurship** is the factor of production that pulls land, labor, and capital together. Entrepreneurs:\n- spot a need or problem people will pay to solve,\n- take on **risk**, putting their own time and money on the line,\n- **innovate**, finding a new product or a better way to do something,\n- organize workers and resources.\nTheir reward is **profit**: the money left after paying all costs. **Profit = revenue - costs.** **Revenue** is all the money that comes in from sales.\nMost new businesses struggle early. Federal data show roughly 1 in 5 new businesses closes within its first year, and about half are gone within five years. The ones that survive usually had a clear plan, enough money to get through slow months, and something customers truly wanted.\nA **business plan** is the map: what you'll sell, who will buy it, who your competitors are, what it'll cost, how you'll get the money, and how you'll make a profit."
+   },
+   {
+    "heading": "Three Main Types of Business",
+    "markdown": "When you start a business, you choose how to organize it. Each type has trade-offs.\n**Sole proprietorship**: one owner.\n- **Pros:** easy and cheap to start, you're the boss, you keep all the profit.\n- **Cons:** **unlimited liability**, meaning if the business owes money or gets sued, the owner's personal savings, car, and house can be taken. It's also hard to raise money, and the business may end if the owner quits or dies.\n- Most U.S. businesses are sole proprietorships: lawn mowing, photographers, food trucks.\n**Partnership**: two or more owners sharing the business.\n- **Pros:** more money and more skills (one partner knows cooking, the other knows marketing).\n- **Cons:** partners usually share unlimited liability, and disagreements can wreck the business. Partners should write a **partnership agreement** that spells out who does what and who gets what.\n**Corporation**: a business that is a legal \"person\" separate from its owners.\n- Owners buy **stock**, which are small pieces of ownership. Owners of stock are called **stockholders** or **shareholders**.\n- **Pros:** **limited liability** (owners can only lose what they invested, not their houses), easy to raise lots of money by selling stock, and the company keeps going even when owners change.\n- **Cons:** expensive and complicated to set up, lots of rules, and **double taxation**: the corporation pays tax on its profit, and stockholders pay tax again on the **dividends** (profit payouts) they receive.\n- Corporations are a small share of businesses but earn most of the total sales in the U.S."
+   },
+   {
+    "heading": "Other Ways to Organize",
+    "markdown": "- **LLC (limited liability company):** a popular mix. Owners get limited liability like a corporation, but taxes work more like a partnership. Many small Idaho businesses are LLCs.\n- **Franchise:** you buy the right to use a big company's name and system. Many fast-food restaurants work this way. You get a proven brand and training, but you pay fees and follow their rules.\n- **Cooperative (co-op):** owned by its members, who share the benefits. Many farmers sell crops through co-ops, and credit unions are co-ops for banking.\n- **Nonprofit:** an organization that doesn't aim to earn profit for owners, like a food bank, a hospital, or a youth sports league."
+   },
+   {
+    "heading": "How Businesses Grow",
+    "markdown": "Businesses grow by reinvesting profit, borrowing, selling stock, or combining with others through **mergers**. Some grow so big they operate in many countries. Those are **multinational corporations**. You'll see in Chapter 22 that specialization and trade help businesses reach customers far beyond Idaho."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You want to start a business this summer (pick one: lawn care, phone repair, baked goods, photography, or your own idea).\n1. Which business organization would you choose and why? Name one **advantage** and one **risk**.\n2. Estimate your first month: list two costs, guess your revenue, and calculate your **profit** (profit = revenue - costs).",
+   "standards": "Idaho standards: 9-12.EC.12, 9-12.EC.4"
+  },
+  "checklist": [
+   "Entrepreneurs spot needs, take risks, innovate, and earn profit (revenue - costs).",
+   "Sole proprietorship: easy, all profit is yours, but unlimited liability.",
+   "Partnership: shared money and skills, shared liability, possible conflict.",
+   "Corporation: limited liability and easy to raise money, but complex and double-taxed.",
+   "Other options: LLCs, franchises, co-ops, and nonprofits."
+  ],
+  "keyWords": [
+   "Risk",
+   "Innovation",
+   "Profit",
+   "Revenue",
+   "Business plan",
+   "Sole proprietorship",
+   "Unlimited liability",
+   "Partnership",
+   "Partnership agreement",
+   "Corporation",
+   "Stock",
+   "Stockholder",
+   "Limited liability",
+   "Double taxation",
+   "Dividend",
+   "Limited liability company (LLC)",
+   "Franchise",
+   "Cooperative",
+   "Nonprofit organization",
+   "Multinational corporation"
+  ]
+ },
+ {
+  "n": 9,
+  "realm": 3,
+  "title": "Labor, Wages, and Your Career",
+  "standards": [
+   "9-12.EC.4",
+   "9-12.EC.1",
+   "9-12.EC.14"
+  ],
+  "sections": [
+   {
+    "heading": "Why Does That Job Pay So Much?",
+    "markdown": "A lifeguard at the city pool might earn $12 to $15 an hour. A lineworker who climbs power poles in a blizzard can earn $45 or more. A surgeon earns way more than that.\nIs it because surgeons are better people than lifeguards? Nope. It's supply and demand, the same tools from Unit 2, applied to the **labor market**."
+   },
+   {
+    "heading": "The Labor Market",
+    "markdown": "In the labor market, the \"product\" is work.\n- **Workers supply labor.** They're the sellers.\n- **Employers demand labor.** They're the buyers.\n- The \"price\" is the **wage**.\nThe **labor force** is everyone 16 or older who has a job or is actively looking for one. Students who aren't job hunting, retirees, and people who've stopped looking aren't counted.\n**Demand for labor** is called a **derived demand**: businesses only want workers because customers want the stuff those workers make. When people buy more houses, demand for carpenters goes up."
+   },
+   {
+    "heading": "What Decides Your Wage",
+    "markdown": "Wages land at the equilibrium where labor supply meets labor demand. Things that push wages up:\n- **Skills and education (human capital).** Jobs that take years of training have fewer qualified workers. Low supply, high pay.\n- **High demand.** Fields that are booming, like nursing, electricians, and software, bid wages up.\n- **Danger or tough conditions.** Hazardous or unpleasant jobs often pay more to attract workers.\n- **Location.** Wages and living costs vary a lot. Boise pays differently than rural Idaho or Seattle.\n- **Productivity.** Workers who produce more value usually earn more.\nJobs are often grouped by skill level: **unskilled** (little training), **semiskilled** (some training), **skilled** (lots of training, like a plumber or welder), and **professional** (advanced degree, like a pharmacist or engineer).\nEducation matters. Bureau of Labor Statistics data show that, on average, people with more education earn more and are unemployed less often. A college degree pays off for many careers, but so do apprenticeships and trade certificates. Lots of skilled trades pay well and come without huge student debt."
+   },
+   {
+    "heading": "Labor Unions",
+    "markdown": "A **labor union** is a group of workers who join together to bargain with employers over pay, benefits, and working conditions. Instead of each worker negotiating alone, the union negotiates for everyone through **collective bargaining**.\nUnions grew during the Industrial Revolution, when many workers faced 12-hour days, child labor, and dangerous factories. Unions helped win the 8-hour day and weekends. If talks fail, a union may **strike**, meaning workers refuse to work until a deal is reached.\nUnion membership in the U.S. has fallen a lot since the 1950s and is now around 10 percent of workers. Idaho is a **right-to-work** state, which means workers can't be required to join a union or pay union fees to keep a job. People debate unions: supporters say they protect workers and the middle class, while critics say they can raise costs and make it harder for businesses to adapt."
+   },
+   {
+    "heading": "Your Paycheck: Gross vs. Net",
+    "markdown": "Your first paycheck might be a shock. If you earn $15 an hour for 20 hours, that's $300. That's your **gross pay**. But your check will be less. That's your **net pay** (take-home pay).\nThe difference comes from **deductions**:\n- **Federal income tax** (depends on your income and the W-4 form you fill out when you're hired).\n- **State income tax** (Idaho has a flat rate, 5.3 percent as of 2026).\n- **FICA taxes**: 6.2 percent for **Social Security** and 1.45 percent for **Medicare**.\n- Sometimes health insurance or retirement savings.\nYour **pay stub** lists all of this. Read it every time. Mistakes happen.\nBesides wages, many jobs offer **benefits**: health insurance, paid time off, and retirement plans like a **401(k)**, where some employers add matching money. A job paying slightly less with great benefits can be worth more than one paying more with none."
+   },
+   {
+    "heading": "Building Your Career",
+    "markdown": "Your career is a long hike, not a single step. A few moves that pay off for decades:\n- Build **human capital** through school, training, certifications, and apprenticeships.\n- Explore options. Idaho's fastest-growing fields include health care, construction, and tech.\n- Practice **soft skills**: showing up on time, communicating, teamwork, and solving problems. Employers consistently rank these near the top of what they want.\n- Remember the opportunity cost of training: time and money now for higher pay later. For most people, it's one of the best investments they'll ever make."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Pick a career you might want. Look up (or estimate) its typical pay and the training it requires.\n1. Use **supply and demand for labor** to explain why that job pays what it does. Mention at least two wage factors from the chapter.\n2. If you earn $16/hour for 25 hours a week, what's your **gross pay** for the week? Estimate your **net pay** after FICA (7.65 percent) and Idaho tax (5.3 percent). Show your math.",
+   "standards": "Idaho standards: 9-12.EC.4, 9-12.EC.1, 9-12.EC.14"
+  },
+  "checklist": [
+   "Labor market: workers supply labor, employers demand it, the wage is the price.",
+   "More skills, high demand, danger, and productivity push wages up.",
+   "Unions bargain collectively; Idaho is a right-to-work state.",
+   "Gross pay minus deductions (taxes, FICA) = net pay.",
+   "Human capital and soft skills are long-term career investments."
+  ],
+  "keyWords": [
+   "Labor market",
+   "Wage",
+   "Salary",
+   "Labor force",
+   "Derived demand",
+   "Skilled labor",
+   "Professional labor",
+   "Labor union",
+   "Collective bargaining",
+   "Strike",
+   "Right-to-work law",
+   "Gross pay",
+   "Net pay",
+   "Deduction",
+   "FICA",
+   "Pay stub",
+   "Benefits",
+   "401(k)",
+   "Apprenticeship",
+   "Soft skills"
+  ]
+ },
+ {
+  "n": 10,
+  "realm": 4,
+  "title": "Money and Banking",
+  "standards": [
+   "9-12.EC.13",
+   "9-12.EC.8"
+  ],
+  "sections": [
+   {
+    "heading": "Trading Without Money",
+    "markdown": "Imagine there's no money. You have a basket of huckleberries and you want a new fishing reel. You find a guy with a reel, but he doesn't want huckleberries. He wants firewood. Now you need to find someone with firewood who wants huckleberries. Good luck.\nThis is **barter**: trading goods directly for other goods. It only works when both people want exactly what the other has. Economists call that the **double coincidence of wants**, and it almost never happens. That's why every society eventually invents money."
+   },
+   {
+    "heading": "The Three Jobs of Money",
+    "markdown": "**Money** is anything people widely accept as payment. It does three jobs:\n1. **Medium of exchange:** you use it to buy things. Nobody has to want your huckleberries.\n2. **Store of value:** you can save it and spend it later. Huckleberries rot. Dollars don't (though inflation can eat at them, as you'll see in Chapter 17).\n3. **Unit of account:** it's a common measuring stick. Everything has a price in dollars, so you can compare a $40 fishing reel with a $12 pizza.\nGood money has six **characteristics**: it's **durable** (lasts), **portable** (easy to carry), **divisible** (can be broken into smaller amounts), **uniform** (every dollar is the same), **limited in supply** (scarce), and **acceptable** (people will take it)."
+   },
+   {
+    "heading": "Kinds of Money",
+    "markdown": "Throughout history, people have used shells, salt, cattle, and beaver pelts. Fur traders in early Idaho used beaver pelts as money.\n- **Commodity money** has value by itself, like gold, silver, or salt.\n- **Representative money** is paper you can trade in for something valuable, like early U.S. dollars that could be swapped for gold or silver.\n- **Fiat money** has value only because the government says it's legal money and people trust it. Today's U.S. dollar is fiat money. The U.S. ended the gold standard completely in 1971. A dollar is worth something because everyone agrees it is and the government accepts it for taxes.\nToday, most money isn't paper at all. It's numbers in bank accounts, moved by debit cards, phone apps, and direct deposit."
+   },
+   {
+    "heading": "The Money Supply",
+    "markdown": "Economists measure how much money is out there. The **money supply** has two main measures:\n- **M1:** money you can spend right now: cash, checking accounts, and (since 2020) regular savings deposits.\n- **M2:** everything in M1 plus \"near money\" that's easy to turn into cash, like small CDs and money market funds.\nThe Federal Reserve watches and influences the money supply. You'll meet the Fed in Chapter 21."
+   },
+   {
+    "heading": "How Banks Work",
+    "markdown": "A **bank** is a business that keeps people's money safe, lends it out, and earns a profit doing it.\nHere's the basic deal: you **deposit** $1,000. The bank keeps a slice on hand and **lends** most of the rest to someone buying a truck. The borrower pays the bank **interest**, the price of borrowing money. The bank pays you a smaller interest rate on your savings and keeps the difference as profit.\nThat lending actually **creates money**. Your $1,000 is still in your account, *and* the borrower now has hundreds of dollars to spend. When the borrower spends it, it lands in someone else's bank, which lends some of it out again. This is called **fractional reserve banking**: banks keep only a fraction of deposits as **reserves**.\nTypes of financial institutions:\n- **Commercial banks** (like big national banks or local Idaho banks): checking, savings, and loans for people and businesses.\n- **Credit unions** (like Idaho Central Credit Union): nonprofit co-ops owned by their members. They often have lower fees and better rates.\n- **Savings and loans**: historically focused on home loans.\n- **Online banks**: no branches, often higher savings rates."
+   },
+   {
+    "heading": "Is My Money Safe?",
+    "markdown": "In the Great Depression of the 1930s, thousands of banks failed. When people feared a bank was in trouble, they all rushed to pull out their money at once. That's a **bank run**, and since banks lend most deposits out, they couldn't pay everyone. People lost their life savings.\nIn 1933, Congress created the **FDIC** (Federal Deposit Insurance Corporation). If an FDIC-insured bank fails, the government guarantees your deposits up to **$250,000** per person, per bank, per account type. Credit unions have the same protection through the **NCUA**. Since the FDIC started, no one has lost a penny of insured deposits.\nBanks are also checked by government regulators to make sure they're not taking crazy risks. When banks do take crazy risks, like in the 2008 financial crisis, the whole economy can get dragged down. You'll see that story in Chapter 18."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "A new island needs a money system. The options are: seashells, gold coins, or paper notes printed by the island council.\n1. Rate each option on at least **three** of the six characteristics of money (durable, portable, divisible, uniform, limited supply, acceptable).\n2. Which would you choose, and what would the council need to do to make people **trust** it?",
+   "standards": "Idaho standards: 9-12.EC.13, 9-12.EC.8"
+  },
+  "checklist": [
+   "Barter is hard because of the double coincidence of wants.",
+   "Money is a medium of exchange, a store of value, and a unit of account.",
+   "Today's dollar is fiat money: valuable because people trust it and the government backs it.",
+   "Banks lend out most deposits, earn interest, and create money through fractional reserve banking.",
+   "The FDIC insures bank deposits up to $250,000; the NCUA does the same for credit unions."
+  ],
+  "keyWords": [
+   "Barter",
+   "Double coincidence of wants",
+   "Money",
+   "Medium of exchange",
+   "Store of value",
+   "Unit of account",
+   "Commodity money",
+   "Representative money",
+   "Fiat money",
+   "Gold standard",
+   "Money supply",
+   "M1",
+   "M2",
+   "Bank",
+   "Deposit",
+   "Interest",
+   "Fractional reserve banking",
+   "Reserves",
+   "Credit union",
+   "Bank run",
+   "FDIC"
+  ]
+ },
+ {
+  "n": 11,
+  "realm": 4,
+  "title": "Checking, Savings, and Modern Money Tools",
+  "standards": [
+   "9-12.EC.15",
+   "9-12.EC.24"
+  ],
+  "sections": [
+   {
+    "heading": "Your First Account",
+    "markdown": "Your first real paycheck shows up. Your employer offers **direct deposit**, which sends your pay straight into a bank account. No account? You'll be cashing checks at a store that charges a fee every single time.\nOpening an account is one of the first grown-up money moves you'll make. Here's how to do it well."
+   },
+   {
+    "heading": "Checking Accounts: Money in Motion",
+    "markdown": "A **checking account** is for everyday spending. Money goes in (paychecks, deposits) and comes out (debit card swipes, bills, transfers). It earns little or no interest because it's built for access, not growth.\nWith a checking account you usually get:\n- a **debit card**, which pulls money straight out of your account when you pay,\n- online and mobile banking, so you can check your **balance** anytime,\n- the ability to pay bills automatically and send money with apps.\nTo open one, you usually need ID, your Social Security number, and a small first deposit. Under 18? Most banks need a parent or guardian on the account.\n**Watch out for fees:**\n- **Overdraft fee:** if you spend more than you have, the bank may cover it and charge you $25 to $35. Three small coffees can turn into a $100 mistake. You can usually **opt out** of overdraft coverage so the card just gets declined instead.\n- **Monthly maintenance fee:** some accounts charge a monthly fee unless you keep a minimum balance or have direct deposit.\n- **ATM fees:** using an out-of-network ATM can cost $3 to $5 a pop.\nLook for accounts with no monthly fee and lots of free ATMs. Credit unions and online banks are often good at this."
+   },
+   {
+    "heading": "Keeping Track of Your Money",
+    "markdown": "Every account has a **statement** (monthly summary) and a running list of **transactions**. Check them. **Reconciling** your account means comparing your own records with the bank's to make sure they match and to catch errors or fraud fast.\nSimple habits: check your banking app a couple of times a week, turn on low-balance alerts, and know your **available balance** before you swipe. Pending charges may not show up right away.\nIf you ever write a paper **check**, you'll fill in the date, the person's name, the amount in numbers and words, and your signature. Checks are rarer now, but landlords and some employers still use them."
+   },
+   {
+    "heading": "Savings Accounts: Money at Rest",
+    "markdown": "A **savings account** is where money sits and grows. Banks pay you **interest** for keeping it there. The rate is shown as the **APY** (annual percentage yield), which includes **compound interest**, interest earned on your interest. (Chapter 12 shows just how powerful that gets.)\nRates vary a lot. Big traditional banks sometimes pay almost nothing, while **high-yield savings accounts**, often at online banks, may pay many times more. It's worth comparing.\nOther savings tools:\n- **Certificate of deposit (CD):** you agree to leave money in for a set time (6 months, 1 year, 5 years) for a higher rate. Pull it out early and you pay a penalty.\n- **Money market account:** savings with a higher rate and sometimes limited check writing, often with a higher minimum balance.\nThe more access you give up, the higher the rate you usually get. That's a trade-off.\nYour first big savings goal should be an **emergency fund**: money set aside for surprises like a car repair, a medical bill, or losing a job. A common target for adults is 3 to 6 months of expenses. For a teen, even $500 is a strong start."
+   },
+   {
+    "heading": "Modern Money Tools",
+    "markdown": "Money moves in new ways now, and the basic rules still apply.\n- **Mobile payment apps** (like Venmo, Cash App, Zelle, Apple Pay) make paying friends easy. But payments to a stranger are often like handing over cash: hard or impossible to get back. Only send money to people you know.\n- **Buy now, pay later (BNPL)** splits purchases into installments. It feels painless but makes it easy to overspend, and missed payments can bring fees and hurt your credit.\n- **Cryptocurrencies** like Bitcoin are digital tokens not issued by any government. Prices swing wildly, they are not FDIC insured, and scams are common. Treat them as high-risk.\n- **Prepaid debit cards** work without a bank account but often carry fees."
+   },
+   {
+    "heading": "Protect Yourself",
+    "markdown": "**Identity theft** is when someone steals your personal information to open accounts or spend money in your name. Scammers fish for it with fake texts, emails, and calls (**phishing**). Smart defenses:\n- Never share your PIN, passwords, or one-time codes. Your bank will never ask for them.\n- Use strong, different passwords and turn on two-factor authentication.\n- Don't click links in surprise texts about your \"account.\" Go to the bank's app yourself.\n- Report a lost card or strange charge right away. Federal law limits what you owe for fraud on debit cards, but only if you report it fast."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You just started a job that pays $250 a week by direct deposit.\n1. Compare two real or imagined accounts: one with a $10 monthly fee and $35 overdraft fee, and one credit union account with no monthly fee. Which do you choose and why?\n2. Make a simple plan: how much of each paycheck goes to spending, to savings, and toward an emergency fund goal? Name the type of account each one lives in.",
+   "standards": "Idaho standards: 9-12.EC.15, 9-12.EC.24"
+  },
+  "checklist": [
+   "Checking accounts are for spending; savings accounts are for growing money.",
+   "Avoid overdraft, monthly, and out-of-network ATM fees.",
+   "APY shows the real yearly return, including compound interest.",
+   "Build an emergency fund first: about 3 to 6 months of expenses for adults.",
+   "Payment apps, BNPL, and crypto are useful but risky; guard your passwords, PINs, and codes."
+  ],
+  "keyWords": [
+   "Direct deposit",
+   "Checking account",
+   "Debit card",
+   "Balance",
+   "Overdraft",
+   "Overdraft fee",
+   "Maintenance fee",
+   "Bank statement",
+   "Reconcile",
+   "Savings account",
+   "APY (annual percentage yield)",
+   "High-yield savings account",
+   "Certificate of deposit (CD)",
+   "Money market account",
+   "Emergency fund",
+   "Buy now, pay later (BNPL)",
+   "Cryptocurrency",
+   "Identity theft",
+   "Phishing"
+  ]
+ },
+ {
+  "n": 12,
+  "realm": 4,
+  "title": "Investing: Stocks, Bonds, and Compound Interest",
+  "standards": [
+   "9-12.EC.13",
+   "9-12.EC.16"
+  ],
+  "sections": [
+   {
+    "heading": "The Snowball on the Mountain",
+    "markdown": "Push a small snowball off the top of a steep slope. At first it barely grows. But each roll picks up more snow, and the bigger it gets, the more snow it grabs. By the bottom it's huge.\nThat's **compound interest**, and it's the most powerful money idea you'll learn this year."
+   },
+   {
+    "heading": "Saving vs. Investing",
+    "markdown": "**Saving** means setting money aside somewhere safe, like a savings account, for short-term goals and emergencies. It's low risk, but it grows slowly.\n**Investing** means using money to buy assets that you hope will grow in value over time, like stocks, bonds, and real estate. It can grow much faster, but there's **risk**: you could lose money.\nThe basic rule: **the higher the possible return, the higher the risk.** A savings account is safe but earns little. Stocks can grow a lot but can also drop 30 percent in a bad year."
+   },
+   {
+    "heading": "Compound Interest: Time Is Your Superpower",
+    "markdown": "**Simple interest** pays only on your original money (the **principal**). **Compound interest** pays on your principal *and* on all the interest you've already earned.\nSay you invest $1,000 earning 8 percent a year:\n- After 1 year: $1,080\n- After 10 years: about $2,159\n- After 30 years: about $10,063\n- After 40 years: about $21,725\nYou never added another dollar. Time did the work.\nThat's why starting early matters so much. Two hikers:\n- **Ava** invests $100 a month from age 18 to 28, then stops. Total put in: about $12,000.\n- **Ben** waits and invests $100 a month from 28 to 65. Total put in: about $44,000.\nAt 8 percent, Ava ends up with *more* money at 65 than Ben, even though she put in less than a third as much. She gave compound interest a 10-year head start.\nA shortcut called the **Rule of 72** tells you how long it takes money to double: divide 72 by the interest rate. At 8 percent, money doubles about every 9 years. At 2 percent, it takes about 36 years."
+   },
+   {
+    "heading": "Stocks",
+    "markdown": "A **stock** is a small piece of ownership in a corporation. Own one share of a company and you own a tiny slice of it.\nYou can make money from stocks two ways:\n1. **Capital gain**: the price goes up and you sell for more than you paid.\n2. **Dividends**: some companies pay part of their profits to stockholders.\nStocks are bought and sold on **stock exchanges** like the New York Stock Exchange and Nasdaq. A **stock market index** like the S&P 500 tracks a group of big companies to show how the market overall is doing. A long rise is called a **bull market**; a drop of 20 percent or more is a **bear market**.\nOver the long run, U.S. stocks have historically averaged roughly 10 percent a year before inflation, but with big ups and downs. Some years drop a lot. That's why stocks are for money you won't need for many years."
+   },
+   {
+    "heading": "Bonds",
+    "markdown": "A **bond** is a loan you make to a government or company. They promise to pay you interest and give back the **face value** on a set **maturity date**.\n- **U.S. Treasury bonds** are backed by the federal government and are considered very safe.\n- **Municipal bonds** come from cities and states, often to build schools and roads.\n- **Corporate bonds** pay more interest but carry more risk; a company can go bankrupt.\nBonds usually earn less than stocks but swing less, too."
+   },
+   {
+    "heading": "Funds: Buying the Whole Trail Mix",
+    "markdown": "Picking one company is risky. If it fails, you lose. **Diversification** means spreading your money across many investments so one loss doesn't sink you. Don't put all your eggs in one basket.\nThe easy way to diversify:\n- A **mutual fund** pools money from many investors to buy many stocks or bonds, managed by professionals.\n- An **index fund** simply buys every company in an index, like the S&P 500. It's cheap and well diversified.\n- An **ETF (exchange-traded fund)** is like an index fund that trades like a stock.\nWatch the **fees**, sometimes shown as an **expense ratio**. A fund charging 1 percent a year versus 0.05 percent can cost you tens of thousands of dollars over a lifetime."
+   },
+   {
+    "heading": "Retirement Accounts and Your Plan",
+    "markdown": "The government gives tax breaks to encourage saving for retirement:\n- A **401(k)** through your employer. If your boss offers a **match**, take it. It's free money.\n- An **IRA** (individual retirement account) you open yourself. A **Roth IRA** is especially good for young workers: you pay taxes now, then the money grows tax-free. You can open one as soon as you have earned income from a job.\nGood investing matches your **financial plan**: Is this for something next year (keep it safe) or 40 years away (you can handle more risk)? Know your **goal**, your **time horizon**, and your **risk tolerance**.\nAnd beware anything that promises big returns with \"no risk.\" That's the classic sign of a scam, like a **Ponzi scheme**, which pays early investors with money from new ones until it collapses."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You have $2,000 from summer work. You'll need $500 for a car repair fund, and the rest is for something 20+ years away.\n1. Where would you put each part (savings, CD, bond, index fund, single stock)? Explain using **risk**, **return**, and **time horizon**.\n2. Use the **Rule of 72** to estimate how many times your long-term money would double in 36 years at 8 percent. About how much might it grow to?",
+   "standards": "Idaho standards: 9-12.EC.13, 9-12.EC.16"
+  },
+  "checklist": [
+   "Saving is safe and slow; investing can grow faster but carries risk.",
+   "Compound interest earns interest on interest; starting early is the biggest advantage.",
+   "Rule of 72: 72 ÷ interest rate ≈ years to double.",
+   "Stocks = ownership; bonds = loans; funds spread your money out (diversification).",
+   "Use retirement accounts (401(k) match, Roth IRA) and match investments to your goal and time horizon."
+  ],
+  "keyWords": [
+   "Saving",
+   "Investing",
+   "Return",
+   "Principal",
+   "Simple interest",
+   "Compound interest",
+   "Rule of 72",
+   "Capital gain",
+   "Stock exchange",
+   "Stock market index",
+   "Bull market",
+   "Bear market",
+   "Bond",
+   "Maturity date",
+   "Diversification",
+   "Mutual fund",
+   "Index fund",
+   "ETF (exchange-traded fund)",
+   "Expense ratio",
+   "IRA",
+   "Roth IRA",
+   "Time horizon",
+   "Risk tolerance",
+   "Ponzi scheme"
+  ]
+ },
+ {
+  "n": 13,
+  "realm": 5,
+  "title": "Budgeting and Smart Spending",
+  "standards": [
+   "9-12.EC.14",
+   "9-12.EC.18",
+   "9-12.EC.23"
+  ],
+  "sections": [
+   {
+    "heading": "Where Did It All Go?",
+    "markdown": "You get paid Friday. By Wednesday you're checking couches for change. You didn't buy anything big. Just gas, a few lunches, a game, some snacks, a subscription you forgot about. Money leaks out in small drips.\nA **budget** is a plan that tells your money where to go *before* it leaks. It's not a punishment. It's a trail map."
+   },
+   {
+    "heading": "Start With Goals",
+    "markdown": "Good budgets start with **financial goals**. Make them **SMART**: Specific, Measurable, Achievable, Relevant, and Time-bound.\n- Not SMART: \"Save money.\"\n- SMART: \"Save $1,800 for a used car by next July by putting $150 a month into savings.\"\nGoals come in three lengths: **short-term** (less than a year: concert tickets), **medium-term** (1 to 5 years: a car, college costs), and **long-term** (5+ years: a house, retirement)."
+   },
+   {
+    "heading": "Building a Monthly Budget",
+    "markdown": "A budget compares **income** with **expenses**.\n**Income:** your **net pay** (take-home, after taxes from Chapter 9), plus any other money that comes in.\n**Expenses** come in two kinds:\n- **Fixed expenses** are the same every month: rent, car payment, insurance, phone plan.\n- **Variable expenses** change month to month: groceries, gas, eating out, entertainment, clothes.\nAnd don't forget **savings**. Treat it like a bill. **Pay yourself first**: move savings out the moment you get paid, before you can spend it.\nA popular starting guide is the **50/30/20 rule**:\n- **50%** for needs (housing, food, transportation, insurance, minimum debt payments),\n- **30%** for wants (fun, eating out, hobbies),\n- **20%** for savings and paying extra on debt.\nExample for someone taking home $3,000 a month: $1,500 needs, $900 wants, $600 savings. It's a starting point. In an expensive city, needs might take more.\nIf expenses are bigger than income, you have a **deficit**. Fix it by cutting expenses or earning more. If income is bigger, you have a **surplus**. Send it toward your goals.\nA **zero-based budget** gives every dollar a job, so income minus everything you planned equals zero. That doesn't mean you spend it all. It means every dollar has a purpose, including savings."
+   },
+   {
+    "heading": "Track It",
+    "markdown": "A budget only works if you check it. Track spending for a month using a banking app, a spreadsheet, or receipts. Most people are shocked by one category. (It's usually food.)\nWatch out for:\n- **Subscriptions** you forgot: streaming, apps, gaming passes.\n- **Lifestyle creep**: spending more just because you earn more.\n- **Impulse buys**: wait 24 hours before any unplanned purchase over $50. Most of the urge fades."
+   },
+   {
+    "heading": "Smart Shopping",
+    "markdown": "**Comparison shopping** means checking prices and quality at more than one place before you buy.\n- Compare **unit prices** (cost per ounce or per item). The big box isn't always cheaper.\n- Read reviews from multiple sources, not just the seller's site.\n- Know the **total cost**: shipping, tax, fees, and add-ons. Idaho charges a 6 percent sales tax on most purchases, including groceries. (Idaho gives residents a **food tax credit**, $155 per person in 2026, to offset part of that.)\n- Be skeptical of advertising tricks: \"limited time,\" \"only 2 left,\" and prices ending in .99.\n- Generic and store brands are often made in the same factories as name brands for less."
+   },
+   {
+    "heading": "Big Purchases: Cars and College",
+    "markdown": "For big purchases, a small percentage difference is real money.\n**Cars:** Research reliability. Compare the **total cost of ownership**: price, interest on a loan, insurance, gas, and repairs. A used car a few years old often saves thousands because new cars lose value (**depreciation**) fast in the first years. Get a mechanic to inspect a used car before you buy.\n**College and training** may be the biggest purchase you make before 25, so shop for it like one.\n- Compare the **net price** (cost after grants and scholarships), not the sticker price. Every college has a **net price calculator** on its website.\n- Fill out the **FAFSA** (Free Application for Federal Student Aid) every year to qualify for grants, work-study, and federal loans.\n- **Grants and scholarships** don't have to be paid back. Loans do, with interest.\n- Look at Idaho options: the **Idaho Opportunity Scholarship**, Idaho's community colleges and technical colleges, and dual credit classes you can take in high school.\n- Compare costs to likely earnings in your field. Borrowing $80,000 for a career that starts at $35,000 a year is a heavy pack to carry up the mountain."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You take home $1,600 a month from a full-time summer job and live at home.\n1. Build a monthly budget using the **50/30/20 rule**. List at least two fixed and three variable expenses with dollar amounts.\n2. Set one **SMART** goal and show how your budget gets you there.",
+   "standards": "Idaho standards: 9-12.EC.14, 9-12.EC.18, 9-12.EC.23"
+  },
+  "checklist": [
+   "A budget plans where income goes: needs, wants, savings.",
+   "Fixed expenses stay the same; variable expenses change.",
+   "Pay yourself first; the 50/30/20 rule is a good starting guide.",
+   "Comparison shop: unit prices, total cost, reviews, and sales tax.",
+   "For cars and college, compare total cost and net price, and fill out the FAFSA."
+  ],
+  "keyWords": [
+   "Budget",
+   "Financial goal",
+   "SMART goal",
+   "Income",
+   "Expenses",
+   "Fixed expense",
+   "Variable expense",
+   "Pay yourself first",
+   "50/30/20 rule",
+   "Budget deficit (personal)",
+   "Budget surplus (personal)",
+   "Zero-based budget",
+   "Impulse buying",
+   "Lifestyle creep",
+   "Comparison shopping",
+   "Unit price",
+   "Sales tax",
+   "Depreciation",
+   "Total cost of ownership",
+   "Net price",
+   "FAFSA",
+   "Grant",
+   "Scholarship"
+  ]
+ },
+ {
+  "n": 14,
+  "realm": 5,
+  "title": "Credit, Debt, and Your Credit Score",
+  "standards": [
+   "9-12.EC.17",
+   "9-12.EC.19",
+   "9-12.EC.18"
+  ],
+  "sections": [
+   {
+    "heading": "Borrowing a Rope",
+    "markdown": "On a hard climb, a rope can save you. Tie in wrong or lean on it too much and it can pull you right off the mountain.\n**Credit** works the same way. Used well, it gets you a car to commute to work, a college degree, or a house. Used carelessly, it can take years to climb out from under."
+   },
+   {
+    "heading": "What Credit Is",
+    "markdown": "**Credit** means borrowing money now and promising to pay it back later, usually with **interest**. The person or business lending is the **creditor** (or lender). You, the borrower, are the **debtor**. The money you owe is **debt**.\nThe cost of borrowing is shown as the **APR** (annual percentage rate). It includes interest and some fees, so it's the best number for comparing loans. Lower is better.\nThe **principal** is the amount you borrowed. Your payments go toward interest first, then principal."
+   },
+   {
+    "heading": "Types of Credit",
+    "markdown": "**Installment credit**: you borrow a set amount and repay it in equal monthly payments over a set time.\n- **Auto loans** (often 3 to 6 years)\n- **Student loans**\n- **Mortgages** (home loans, often 15 or 30 years)\nMany of these are **secured loans**, meaning backed by **collateral**, something the lender can take if you don't pay. Miss car payments and the lender can **repossess** the car. Miss mortgage payments and you can face **foreclosure** and lose the house.\n**Revolving credit**: you get a **credit limit** and can borrow, repay, and borrow again.\n- **Credit cards** are the most common. If you pay the full **statement balance** every month, you usually pay **no interest**. If you only pay the **minimum payment**, interest piles up fast. Credit card APRs often run above 20 percent.\n**Unsecured loans** have no collateral, like most credit cards and personal loans. They usually cost more because they're riskier for the lender."
+   },
+   {
+    "heading": "Comparing Your Options",
+    "markdown": "Before you borrow, research the choices:\n- **Banks and credit unions**: often the best rates for car and personal loans. Credit unions frequently beat banks.\n- **Dealer financing**: convenient, and sometimes has deals, but compare it with a credit union's offer first.\n- **Federal student loans** (from the FAFSA): fixed rates and flexible repayment plans. Use these before private student loans.\n- **Store cards and buy-now-pay-later**: easy to get, easy to overspend, and sometimes high fees.\n- **Payday loans** and **title loans**: very fast cash, but fees often equal APRs of 300 percent or more. They trap many borrowers in debt. Avoid them.\nAlways ask: What's the APR? What's the total I'll pay over the life of the loan? Are there fees or penalties?"
+   },
+   {
+    "heading": "The Minimum Payment Trap",
+    "markdown": "Say you owe $2,000 on a credit card at 24 percent APR and pay only $50 a month. It would take almost 7 years to pay off, and you'd pay about $2,000 in interest. Your $2,000 of stuff would really cost about $4,000.\nPay the whole balance every month and that number is **zero**. That's the golden rule of credit cards."
+   },
+   {
+    "heading": "Your Credit Score",
+    "markdown": "Lenders want to know: will this person pay me back? Your **credit history**, the record of how you've handled debt, answers that. It lives in your **credit report**, kept by three **credit bureaus**: Equifax, Experian, and TransUnion.\nA **credit score** turns that history into a three-digit number. The most common, the **FICO score**, runs from **300 to 850**. Higher means more **creditworthy**. FICO's own breakdown of what matters:\n- **Payment history (about 35%)**: do you pay on time? This is the biggest factor. One payment 30 days late can drop a score a lot.\n- **Amounts owed (about 30%)**: how much of your available credit you use. This is your **credit utilization**. Keep it under 30 percent, and lower is better.\n- **Length of credit history (about 15%)**: older accounts help.\n- **New credit (about 10%)**: applying for lots of cards in a short time can lower your score.\n- **Credit mix (about 10%)**: having different types (a card and a car loan) helps a little.\nWhy it matters: a better score means lower interest rates, which can save you thousands of dollars on a car or house. Landlords, insurance companies, and some employers may check your credit too.\nYou can check your credit reports for free at **AnnualCreditReport.com**. Look for mistakes or accounts you didn't open (a sign of identity theft), and dispute errors."
+   },
+   {
+    "heading": "Building Credit the Right Way",
+    "markdown": "You can't get a good score with no history. Ways to start:\n- Become an **authorized user** on a parent's card (only if they pay on time).\n- Get a **secured credit card**, which uses a cash deposit as your limit.\n- Use a card for one small bill, like your phone, and pay it in full automatically every month.\nAnd if debt does get out of hand, talk to the lender early, and look for a reputable nonprofit **credit counselor**. **Bankruptcy** is a legal last resort that can wipe out or restructure some debts, but it stays on your credit report for 7 to 10 years."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You need a $10,000 car loan for 5 years. A credit union offers 7 percent APR. The dealer offers 12 percent APR.\n1. The monthly payments are about $198 (7%) and $222 (12%). How much would you pay **in total** for each loan over 60 months? How much does the better rate save you?\n2. Name two habits that would raise your **credit score** before you apply, and explain which score factor each one improves.",
+   "standards": "Idaho standards: 9-12.EC.17, 9-12.EC.19, 9-12.EC.18"
+  },
+  "checklist": [
+   "Credit = borrow now, pay back later with interest; compare loans using APR.",
+   "Installment loans (car, student, mortgage) vs. revolving credit (credit cards).",
+   "Pay the full credit card balance every month to avoid interest; avoid payday loans.",
+   "FICO scores run 300 to 850; payment history and amounts owed matter most.",
+   "Check your free credit reports at AnnualCreditReport.com."
+  ],
+  "keyWords": [
+   "Credit",
+   "Creditor",
+   "Debtor",
+   "Debt",
+   "APR (annual percentage rate)",
+   "Installment credit",
+   "Mortgage",
+   "Secured loan",
+   "Unsecured loan",
+   "Collateral",
+   "Repossession",
+   "Foreclosure",
+   "Revolving credit",
+   "Credit limit",
+   "Minimum payment",
+   "Payday loan",
+   "Credit history",
+   "Credit report",
+   "Credit bureau",
+   "Credit score",
+   "Creditworthy",
+   "Credit utilization",
+   "Secured credit card",
+   "Bankruptcy"
+  ]
+ },
+ {
+  "n": 15,
+  "realm": 5,
+  "title": "Insurance, Risk, and Consumer Protection",
+  "standards": [
+   "9-12.EC.20",
+   "9-12.EC.24",
+   "9-12.EC.14"
+  ],
+  "sections": [
+   {
+    "heading": "Why Pack a First-Aid Kit?",
+    "markdown": "You probably won't twist an ankle on this hike. But if you do, five miles from the trailhead, you'll be really glad you packed the wrap and the ibuprofen.\n**Insurance** is the money version of a first-aid kit. You pay a little now so that a big, rare disaster doesn't wreck your finances."
+   },
+   {
+    "heading": "How Insurance Works",
+    "markdown": "Life is full of **risk**: a car crash, a house fire, a broken leg, a death in the family. You can handle risk four ways:\n1. **Avoid** it (don't ride a motorcycle).\n2. **Reduce** it (wear a helmet, install smoke alarms).\n3. **Keep** it (pay for small stuff yourself, like a cracked phone screen).\n4. **Transfer** it to an insurance company.\nInsurance works by **pooling risk**. Thousands of people pay a **premium** (a regular payment) into a big pool. Most of them won't have a disaster this year. The few who do get paid from the pool. You're trading a small, certain cost for protection from a big, uncertain one.\nKey terms in every **policy** (your insurance contract):\n- **Premium:** what you pay, monthly or yearly, to stay covered.\n- **Deductible:** what you pay out of pocket before insurance starts paying. A $500 deductible means you cover the first $500 of a claim.\n- **Claim:** your request for the insurance company to pay.\n- **Coverage limit:** the most the policy will pay.\nHigher deductible = lower premium (you're keeping more risk). Lower deductible = higher premium. Choose a deductible you could actually pay from your emergency fund."
+   },
+   {
+    "heading": "Auto Insurance",
+    "markdown": "Idaho, like almost every state, **requires** drivers to carry auto **liability insurance**. Liability pays for injuries and damage you cause to *other* people and their property. Idaho's minimum is often written as **25/50/15**: up to $25,000 for one person's injuries, $50,000 for all injuries in one crash, and $15,000 for property damage. Many experts recommend more, because a serious crash can easily cost far more than the minimum.\nOther common coverage:\n- **Collision:** pays to fix *your* car after a crash.\n- **Comprehensive:** pays for theft, hail, fire, or hitting a deer on Highway 20.\n- **Uninsured motorist:** protects you if the other driver has no insurance.\nTeen drivers pay some of the highest premiums because, statistically, they crash more. Good grades discounts, a clean driving record, and a safer car can lower your rate."
+   },
+   {
+    "heading": "Health Insurance",
+    "markdown": "Medical bills are a leading cause of money trouble in America. One night in a hospital can cost thousands of dollars. Health insurance terms:\n- **Copay:** a set fee for a visit, like $30.\n- **Coinsurance:** after you meet your deductible, you pay a share (like 20 percent) and the insurer pays the rest.\n- **Out-of-pocket maximum:** the most you'll pay in a year. After that, the plan pays 100 percent of covered costs.\n- **In-network** doctors cost less than **out-of-network** ones.\nMost people get health insurance through an employer. Young adults can usually stay on a parent's plan until age **26**. Others buy plans through the **Health Insurance Marketplace** (Your Health Idaho in our state) or qualify for government programs like **Medicaid** (low-income) or **Medicare** (65 and older)."
+   },
+   {
+    "heading": "Home, Renters, and Life Insurance",
+    "markdown": "- **Homeowners insurance** covers the house and belongings from fire, theft, and storms, plus liability if someone gets hurt on your property. Mortgage lenders require it.\n- **Renters insurance** covers your stuff (laptop, clothes, bike) in an apartment. It's usually cheap, often around $15 to $20 a month. Your landlord's insurance covers the building, not your things.\n- **Life insurance** pays money to your **beneficiaries** (people you name) if you die. It matters most when others depend on your income, like kids. **Term life** covers a set number of years and is cheap. **Whole life** lasts your whole life and builds some cash value but costs much more.\n- **Disability insurance** replaces part of your income if an injury or illness keeps you from working."
+   },
+   {
+    "heading": "Consumer Rights and Protection",
+    "markdown": "Smart consumers know their rights and the tools that protect them.\n- The **Federal Trade Commission (FTC)** fights false advertising and scams.\n- The **Consumer Financial Protection Bureau (CFPB)** handles complaints about banks, loans, and credit cards.\n- The **Idaho Attorney General's Consumer Protection Division** helps with scams and unfair business practices in Idaho.\n- A **warranty** is the seller's promise to fix or replace a product. Read what it covers and for how long.\n- If something goes wrong, keep receipts, contact the seller first, put complaints in writing, and escalate to these agencies if needed.\nCommon scams to watch for: fake job offers that ask you to pay first, \"you won a prize, just pay the shipping,\" romance and crypto scams, and anyone demanding payment in **gift cards** (no real business or government agency asks for that)."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You just got your license and your parents say you'll pay your own car insurance.\n1. Quote A: $1,500 deductible, $110/month premium. Quote B: $500 deductible, $150/month. Which do you choose? Use your emergency fund, risk, and the yearly cost difference to explain.\n2. Name two ways you could lower your premium.",
+   "standards": "Idaho standards: 9-12.EC.20, 9-12.EC.24, 9-12.EC.14"
+  },
+  "checklist": [
+   "Insurance pools risk: many pay premiums so the few with disasters get paid.",
+   "Higher deductible means lower premium, and the reverse.",
+   "Idaho requires auto liability insurance (minimum 25/50/15).",
+   "Health terms: copay, coinsurance, out-of-pocket maximum; stay on a parent's plan until 26.",
+   "Renters, life, and disability insurance; know your consumer rights (FTC, CFPB, Idaho Attorney General)."
+  ],
+  "keyWords": [
+   "Insurance",
+   "Risk management",
+   "Pooling risk",
+   "Policy",
+   "Premium",
+   "Deductible",
+   "Claim",
+   "Liability insurance",
+   "Collision coverage",
+   "Comprehensive coverage",
+   "Copay",
+   "Coinsurance",
+   "Out-of-pocket maximum",
+   "Medicaid",
+   "Medicare",
+   "Renters insurance",
+   "Life insurance",
+   "Beneficiary",
+   "Term life insurance",
+   "Disability insurance",
+   "Warranty",
+   "Consumer Financial Protection Bureau (CFPB)",
+   "Federal Trade Commission (FTC)"
+  ]
+ },
+ {
+  "n": 16,
+  "realm": 6,
+  "title": "GDP and Economic Growth",
+  "standards": [
+   "9-12.EC.5",
+   "9-12.EC.7"
+  ],
+  "sections": [
+   {
+    "heading": "The View From the Ridge",
+    "markdown": "Up to now, you've been looking at single trees: one buyer, one business, one paycheck. Climb onto the ridge and you can see the whole forest. That's **macroeconomics**: the economy as one giant system.\nThe first question from up here: How big is the whole economy, and is it growing?"
+   },
+   {
+    "heading": "Gross Domestic Product",
+    "markdown": "**Gross domestic product (GDP)** is the total market value of all **final** goods and services produced **within a country** in a given year.\nLet's unpack that:\n- **Market value:** everything is measured in dollars, so we can add potatoes and haircuts together.\n- **Final goods:** only things sold to the end user count. The flour a bakery buys is an **intermediate good**; it's already counted in the price of the bread. Counting both would be double counting.\n- **Within a country:** a Toyota made in Kentucky counts in U.S. GDP. A Nike shoe made in Vietnam doesn't.\n- **In a given year:** a used car sold this year was already counted when it was new. It doesn't count again.\nWhat's *not* in GDP: used goods, stocks and bonds (those are ownership changes, not production), unpaid work like chores, and illegal or under-the-table activity (the **underground economy**).\nU.S. GDP is more than $30 trillion a year, the largest in the world. Idaho's economy is one of the fastest-growing in the country in recent years."
+   },
+   {
+    "heading": "Two Ways to Count",
+    "markdown": "**Expenditure approach:** add up everything spent on final goods and services. Economists write it as:\n**GDP = C + I + G + (X - M)**\n- **C, consumption:** household spending on goods and services. This is by far the biggest piece, about two-thirds of U.S. GDP.\n- **I, investment:** businesses buying capital (machines, buildings) plus new houses. (Not stocks!)\n- **G, government purchases:** roads, schools, military equipment, government workers' pay.\n- **X - M, net exports:** exports minus imports. The U.S. usually imports more than it exports, so this number is negative.\n**Income approach:** add up all the income earned making those goods: wages, rent, interest, and profit. Every dollar spent is a dollar someone earns, so both methods should match."
+   },
+   {
+    "heading": "Nominal vs. Real GDP",
+    "markdown": "Suppose GDP goes up 5 percent. Did we make 5 percent more stuff, or did prices just go up 5 percent?\n- **Nominal GDP** uses current prices. It can rise just because of inflation.\n- **Real GDP** is adjusted for price changes. It shows whether we're actually producing more.\nEconomists care most about real GDP. To compare living standards between countries, they use **GDP per capita**: GDP divided by population. A huge country can have a huge GDP but a low GDP per capita."
+   },
+   {
+    "heading": "What GDP Misses",
+    "markdown": "GDP is useful, but it's not a happiness score. It doesn't measure:\n- how income is shared (**income distribution**),\n- leisure time,\n- pollution or environmental damage,\n- the value of volunteering and parents caring for kids at home,\n- health, safety, or quality of life.\nThat's why economists also look at measures like life expectancy, education levels, and the **Human Development Index**."
+   },
+   {
+    "heading": "Economic Growth",
+    "markdown": "**Economic growth** means a steady increase in **real GDP per capita** over time. It's how standards of living rise. The average American today is many times richer than in 1900, with things nobody back then could imagine.\nGrowth comes from:\n- **Physical capital:** more and better tools, machines, and buildings.\n- **Human capital:** better-educated, healthier, more skilled workers.\n- **Technology:** new ideas, from the steam engine to the internet to AI.\n- **Natural resources:** used wisely.\n- **Good institutions:** property rights, rule of law, stable government, and open markets give people incentives to invest and invent.\nTo grow, a country has to **save and invest** some of today's output instead of consuming it all. That's the PPC from Chapter 2 again: build more capital now and your whole curve shifts outward later.\nSmall growth rates add up. An economy growing 3 percent a year doubles in about 24 years (Rule of 72!). At 1 percent, it takes 72."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Decide whether each item counts in **U.S. GDP** and explain why: (a) a new tractor built in Iowa and bought by an Idaho farm, (b) a used truck you buy from a neighbor, (c) a share of Micron stock, (d) a Japanese company's car built in Indiana, (e) mowing your own lawn.\nThen name one thing GDP leaves out that you think matters for people's well-being.",
+   "standards": "Idaho standards: 9-12.EC.5, 9-12.EC.7"
+  },
+  "checklist": [
+   "GDP = total market value of final goods and services made within a country in a year.",
+   "GDP = C + I + G + (X - M); consumption is the biggest piece.",
+   "Real GDP adjusts for inflation; GDP per capita compares living standards.",
+   "GDP leaves out used goods, unpaid work, pollution, leisure, and how income is shared.",
+   "Growth comes from capital, human capital, technology, resources, and good institutions."
+  ],
+  "keyWords": [
+   "Gross domestic product (GDP)",
+   "Final goods",
+   "Intermediate goods",
+   "Double counting",
+   "Underground economy",
+   "Expenditure approach",
+   "Income approach",
+   "Consumption",
+   "Investment (in GDP)",
+   "Government purchases",
+   "Net exports",
+   "Nominal GDP",
+   "Real GDP",
+   "GDP per capita",
+   "Standard of living",
+   "Human Development Index"
+  ]
+ },
+ {
+  "n": 17,
+  "realm": 6,
+  "title": "Unemployment and Inflation",
+  "standards": [
+   "9-12.EC.5",
+   "9-12.EC.8"
+  ],
+  "sections": [
+   {
+    "heading": "Two Ways the Trail Gets Rough",
+    "markdown": "A healthy economy has two big goals besides growth: **jobs for people who want them** and **stable prices**. When either one goes wrong, families feel it fast.\nLose your job and the paychecks stop. Watch prices climb faster than your pay, and your paycheck shrinks even if the number on it stays the same."
+   },
+   {
+    "heading": "Measuring Unemployment",
+    "markdown": "The **unemployment rate** is the share of the **labor force** that doesn't have a job but is actively looking for one.\n**Unemployment rate = (unemployed ÷ labor force) × 100**\nThe Bureau of Labor Statistics measures it every month by surveying about 60,000 households. Remember from Chapter 9: you're only in the labor force if you have a job or are looking. Retirees, full-time students not job hunting, and **discouraged workers** (people who've given up looking) aren't counted as unemployed. That's one reason the official rate can make things look better than they are. **Underemployed** workers (part-time but want full-time, or working below their skill level) aren't counted as unemployed either.\nIn a healthy U.S. economy, the unemployment rate is often around **4 to 5 percent**. In the worst month of the Great Depression it hit about 25 percent. In April 2020, during the pandemic, it spiked to almost 15 percent."
+   },
+   {
+    "heading": "Four Types of Unemployment",
+    "markdown": "- **Frictional:** people between jobs or just entering the workforce. A new grad searching for the right job. This is normal and even healthy.\n- **Structural:** workers' skills don't match the jobs available, often because of new technology or industries moving. When a mine or mill closes, its workers may need retraining.\n- **Seasonal:** jobs that come and go with the seasons. Ski instructors in summer, raft guides in winter, farm workers after harvest.\n- **Cyclical:** job losses caused by a recession, when the whole economy slows down. This is the painful kind.\nBecause frictional and structural unemployment always exist, the unemployment rate never hits zero. **Full employment** means there's no cyclical unemployment. The leftover rate is called the **natural rate of unemployment**."
+   },
+   {
+    "heading": "Inflation: When Prices Climb",
+    "markdown": "**Inflation** is a general rise in prices across the economy over time. It means each dollar buys less. Your **purchasing power** shrinks.\n**Deflation** is the opposite, a general fall in prices. It sounds nice, but it usually comes with collapsing businesses and job losses, like in the Great Depression.\n**Hyperinflation** is inflation out of control. In Germany in 1923, prices doubled every few days and people carted bags of money to buy bread. Zimbabwe and Venezuela have had hyperinflation in recent decades."
+   },
+   {
+    "heading": "Measuring Inflation: the CPI",
+    "markdown": "The **Consumer Price Index (CPI)** tracks the price of a \"**market basket**\" of things a typical household buys: food, rent, gas, clothes, medical care, and more. The BLS checks thousands of prices every month.\nThe **inflation rate** is the percent change in the CPI from one year to the next. If the basket cost $100 last year and $104 this year, inflation is 4 percent.\nThe Federal Reserve aims for about **2 percent** inflation a year. A little inflation is considered normal. In 2022, U.S. inflation hit about 9 percent, the highest in 40 years, and you probably remember grocery and gas prices jumping. Since then it has come down but stayed above the Fed's 2 percent target."
+   },
+   {
+    "heading": "What Causes Inflation?",
+    "markdown": "- **Demand-pull inflation:** too much money chasing too few goods. When people and the government spend faster than the economy can produce, sellers raise prices.\n- **Cost-push inflation:** costs of production jump (oil prices, wages, supply chain problems), and businesses pass those higher costs on to customers.\n- **Too much money:** if the money supply grows much faster than the economy's output, each dollar is worth less. Printing money to pay bills is how most hyperinflations start.\nSometimes inflation feeds itself in a **wage-price spiral**: prices rise, workers demand raises, businesses raise prices to pay for the raises, and around it goes."
+   },
+   {
+    "heading": "Who Wins and Who Loses?",
+    "markdown": "Inflation hurts:\n- **Savers**, if their interest rate is lower than inflation. 1 percent interest with 4 percent inflation means you're losing purchasing power.\n- **People on fixed incomes**, like some retirees.\n- **Lenders**, who get paid back in dollars worth less.\nInflation can help **borrowers** with fixed-rate loans, since they repay with cheaper dollars.\nThat's why economists separate **nominal** values (in today's dollars) from **real** values (adjusted for inflation). If you get a 3 percent raise but inflation is 5 percent, your **real wage** fell by about 2 percent."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Your town has 50,000 people in the labor force and 2,500 of them are unemployed.\n1. Calculate the **unemployment rate**.\n2. Your summer job gave you a 4 percent raise, but inflation was 6 percent. Did your **real wage** go up or down? By about how much? Explain what that means for what you can buy.\n3. Give one example each of **frictional, structural, seasonal,** and **cyclical** unemployment from Idaho.",
+   "standards": "Idaho standards: 9-12.EC.5, 9-12.EC.8"
+  },
+  "checklist": [
+   "Unemployment rate = unemployed ÷ labor force × 100.",
+   "Four types: frictional, structural, seasonal, cyclical; full employment means no cyclical unemployment.",
+   "Inflation = prices rising and purchasing power falling; the CPI measures it.",
+   "The Fed targets about 2 percent inflation.",
+   "Inflation hurts savers and fixed incomes and can help borrowers; real = adjusted for inflation."
+  ],
+  "keyWords": [
+   "Unemployment rate",
+   "Discouraged worker",
+   "Underemployed",
+   "Frictional unemployment",
+   "Structural unemployment",
+   "Seasonal unemployment",
+   "Cyclical unemployment",
+   "Full employment",
+   "Natural rate of unemployment",
+   "Inflation",
+   "Purchasing power",
+   "Deflation",
+   "Hyperinflation",
+   "Consumer Price Index (CPI)",
+   "Market basket",
+   "Inflation rate",
+   "Demand-pull inflation",
+   "Cost-push inflation",
+   "Wage-price spiral",
+   "Fixed income",
+   "Real wage"
+  ]
+ },
+ {
+  "n": 18,
+  "realm": 6,
+  "title": "The Business Cycle: Booms and Busts",
+  "standards": [
+   "9-12.EC.5",
+   "9-12.EC.7"
+  ],
+  "sections": [
+   {
+    "heading": "Up the Ridge, Down the Saddle",
+    "markdown": "No trail climbs straight up forever. It rises to a peak, dips into a saddle, then climbs again. The economy does the same thing. Over the long run, the U.S. economy grows. But along the way it speeds up and slows down in waves.\nEconomists call those waves the **business cycle**."
+   },
+   {
+    "heading": "The Four Phases",
+    "markdown": "1. **Expansion:** real GDP is growing. Businesses hire, unemployment falls, people spend more, and confidence is high. Expansions can last for years. The longest in U.S. history ran almost 11 years, from 2009 to 2020.\n2. **Peak:** the top of the wave. The economy is running at full speed, sometimes so hot that inflation starts climbing.\n3. **Contraction:** real GDP shrinks. Businesses cut back, layoffs rise, and people spend less. If the decline is serious and widespread, it's a **recession**. A common rule of thumb is two quarters (six months) in a row of falling real GDP, though the official call in the U.S. is made by economists at the National Bureau of Economic Research, who look at jobs, income, sales, and production too.\n4. **Trough:** the bottom. Things stop getting worse, and recovery begins. A new expansion starts.\nA very long, very deep recession is a **depression**. The U.S. has had only one big one in modern history."
+   },
+   {
+    "heading": "What Moves the Cycle?",
+    "markdown": "Economists have several explanations, and real cycles usually involve more than one:\n- **Business investment:** when businesses feel good, they build factories and buy equipment, which creates jobs. When they get nervous, they stop, and the slowdown spreads.\n- **Consumer confidence:** worried people spend less. Less spending means fewer sales, which means layoffs, which makes people more worried. Expectations can become self-fulfilling.\n- **Interest rates and credit:** cheap borrowing fuels spending and investment. When rates rise or banks stop lending, spending drops.\n- **External shocks:** surprise events like wars, pandemics, oil price spikes, and natural disasters.\n- **Technology and industrialization:** big new technologies can launch long booms. They can also cause bubbles when people get carried away."
+   },
+   {
+    "heading": "Wars, Factories, and Technology",
+    "markdown": "History shows big forces shaping the cycle.\n- **Industrialization:** in the late 1800s, railroads, steel, and factories caused rapid growth, but also wild swings. **Financial panics** in 1873 and 1893 led to deep slumps. Idaho's mining and railroad towns boomed and busted along with them.\n- **Wars:** **World War II** pulled the U.S. out of the Great Depression. Government spending on tanks, planes, and ships put millions to work, and unemployment fell from double digits to under 2 percent. Wars can also cause inflation (too much spending, too few consumer goods) and recessions when spending suddenly stops after the war ends.\n- **Technology:** the computer and internet boom of the 1990s brought a long expansion, then the **dot-com bubble** burst in 2000 when overhyped internet stocks crashed."
+   },
+   {
+    "heading": "Three Famous Busts",
+    "markdown": "**The Great Depression (1929-1941).** The stock market crashed in October 1929. Thousands of banks failed (remember bank runs from Chapter 10?), spending collapsed, and unemployment hit about 25 percent. Idaho farmers saw crop prices crash so low that some let crops rot in the fields. The Depression led to big changes, including the FDIC, Social Security, and a bigger government role in the economy.\n**The Great Recession (2007-2009).** Banks made risky home loans to people who couldn't repay them. When home prices fell, those loans went bad, big financial firms collapsed, and credit froze. About 8.7 million jobs disappeared. Boise-area home values dropped sharply. The government responded with bank rescues, spending, and very low interest rates.\n**The COVID-19 Recession (2020).** The shortest recession on record, about two months, but one of the sharpest. Businesses shut down to stop the virus, and unemployment spiked to almost 15 percent in April 2020. Huge government relief spending and low interest rates fueled a fast rebound, and then high inflation in 2021 and 2022."
+   },
+   {
+    "heading": "Predicting the Weather",
+    "markdown": "Economists watch **economic indicators** to spot where the cycle is heading, like a hiker watching clouds.\n- **Leading indicators** change *before* the economy does: stock prices, new building permits, new orders for factory goods, the average workweek, and consumer confidence surveys.\n- **Coincident indicators** move *with* the economy: employment, personal income, industrial production.\n- **Lagging indicators** change *after*: the unemployment rate and inflation often keep moving even after the economy has turned.\nEven with all this data, forecasting is hard. In Unit 7 you'll see how government and the Federal Reserve try to smooth out the cycle, so the dips aren't as deep and the peaks don't overheat."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Pick one: the **Great Depression**, **World War II**, the **dot-com bubble**, the **Great Recession**, or the **COVID-19 recession**.\n1. Which phase(s) of the business cycle did it cause?\n2. Was the main cause a war, industrialization, technology, a financial problem, or an outside shock? Explain with two facts.\n3. Name one way it affected regular families or workers.",
+   "standards": "Idaho standards: 9-12.EC.5, 9-12.EC.7"
+  },
+  "checklist": [
+   "The business cycle: expansion, peak, contraction, trough.",
+   "A recession is a widespread decline in economic activity; a depression is a long, severe one.",
+   "Investment, confidence, interest rates, shocks, and technology move the cycle.",
+   "Wars, industrialization, and new technology have caused big booms and busts.",
+   "Leading indicators change before the economy; lagging indicators change after."
+  ],
+  "keyWords": [
+   "Business cycle",
+   "Expansion",
+   "Peak",
+   "Contraction",
+   "Recession",
+   "Trough",
+   "Depression",
+   "Consumer confidence",
+   "External shock",
+   "Financial panic",
+   "Bubble",
+   "Great Depression",
+   "Great Recession",
+   "Economic indicator",
+   "Leading indicator",
+   "Coincident indicator",
+   "Lagging indicator"
+  ]
+ },
+ {
+  "n": 19,
+  "realm": 7,
+  "title": "Taxes: Who Pays and What For",
+  "standards": [
+   "9-12.EC.21",
+   "9-12.EC.22",
+   "9-12.EC.9"
+  ],
+  "sections": [
+   {
+    "heading": "Who Plows the Road?",
+    "markdown": "Somebody plows the snow off Highway 20 at 4 a.m. Somebody pays the teachers in your school, staffs the fire station, and maintains the trailhead parking lot at Craters of the Moon.\nMost of that is paid for with **taxes**: required payments from people and businesses to the government. Taxes are the price of the shared services we use every day."
+   },
+   {
+    "heading": "Principles of Taxation",
+    "markdown": "People argue about taxes constantly, but most agree a good tax should be:\n- **Fair (equity):** people should pay their fair share. (What's \"fair\" is the big debate.)\n- **Simple:** easy to understand and pay.\n- **Efficient:** easy and cheap to collect, without distorting choices too much.\nTwo ideas about fairness:\n- **Benefits-received principle:** people who use a service should pay for it. Gas taxes pay for roads, and drivers are the ones buying gas.\n- **Ability-to-pay principle:** people who earn more should pay more, because they can afford it."
+   },
+   {
+    "heading": "Three Tax Structures",
+    "markdown": "Taxes are grouped by how they hit people at different income levels.\n- **Progressive tax:** the higher your income, the higher the *percentage* you pay. The **federal income tax** is progressive. It uses **tax brackets**: the first slice of income is taxed at 10 percent, the next slice at 12 percent, and so on up to 37 percent on very high incomes. Only the dollars inside each bracket get that bracket's rate.\n- **Proportional (flat) tax:** everyone pays the same percentage. **Idaho's income tax** is flat: **5.3 percent** of taxable income for everyone (as of 2026).\n- **Regressive tax:** takes a bigger *share* of income from lower-income people, even though the rate is the same. **Sales tax** is usually regressive. A $1,000 TV costs everyone $60 in Idaho sales tax, but $60 is a much bigger chunk of a $20,000 income than a $200,000 one."
+   },
+   {
+    "heading": "Federal Taxes",
+    "markdown": "The federal government's biggest sources of money:\n1. **Individual income tax**: the largest source, roughly half of federal revenue. You file a **tax return** (Form 1040) each year by **April 15**. Your employer withholds tax from each paycheck based on your **W-4**; at the end of the year you get a **W-2** showing what you earned and what was withheld. If too much was withheld, you get a **refund**. Too little, you owe.\n2. **Payroll taxes (FICA)**: 6.2 percent for Social Security and 1.45 percent for Medicare, with employers matching it.\n3. **Corporate income tax**: 21 percent on company profits.\n4. Smaller sources: **excise taxes** on specific goods like gasoline, alcohol, and tobacco; **tariffs** on imports; and the **estate tax** on very large inheritances.\nMost people don't pay tax on every dollar they earn. The **standard deduction** lets you subtract a set amount before figuring tax, and **tax credits** subtract straight from what you owe."
+   },
+   {
+    "heading": "State and Local Taxes in Idaho",
+    "markdown": "Idaho pays for its services mostly with three taxes:\n- **Sales tax:** 6 percent statewide, on most goods, including groceries. Some resort towns like Sun Valley and McCall add a small local tax. To offset the grocery tax, Idaho gives residents a **food tax credit**: $155 per person, or up to $250 if you save your grocery receipts. Sales tax is Idaho's single biggest source of state and local tax money.\n- **Income tax:** the flat 5.3 percent.\n- **Property tax:** a yearly tax on the value of homes, land, and businesses, paid to **counties, cities, and school districts**. It's the main way local governments pay for schools, roads, police, and fire departments. School districts also ask voters to approve **levies** and **bonds** for buildings and programs, so voters directly decide some local taxes.\nOther taxes you'll see: Idaho's **gas tax** (33 cents a gallon, used for roads), vehicle registration fees, and taxes on hotel stays and tobacco."
+   },
+   {
+    "heading": "How Taxes Affect You",
+    "markdown": "Taxes shape decisions:\n- **Personal finance:** taxes are a big expense in your budget. Your net pay, the price you pay at the register, and the cost of owning a home all include taxes. A house in a county with higher property taxes costs more each year.\n- **Incentives:** taxes on things like tobacco discourage use. Tax breaks for retirement accounts encourage saving. Taxes that are too high can discourage work or investment, which is why people debate tax rates so hard.\n- **Public services:** you get things back for your taxes: roads, schools, parks, public safety, clean water, and programs for people who are elderly, disabled, or in need.\nThe **tax incidence** asks who *really* pays a tax. A tax charged to a business may be passed on to customers through higher prices or to workers through lower wages."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "You buy a $40 pair of shoes in Idaho Falls.\n1. How much **sales tax** do you pay at 6 percent? What's the total?\n2. Explain why economists call Idaho's sales tax **regressive** even though everyone pays 6 percent. Use two made-up incomes in your answer.\n3. Idaho uses a **flat** income tax, while the federal income tax is **progressive**. Which do you think is fairer, and which **principle of taxation** supports your view?",
+   "standards": "Idaho standards: 9-12.EC.21, 9-12.EC.22, 9-12.EC.9"
+  },
+  "checklist": [
+   "Good taxes aim to be fair, simple, and efficient.",
+   "Progressive (federal income tax), proportional/flat (Idaho income tax, 5.3%), regressive (sales tax).",
+   "Federal money comes mostly from income and payroll taxes; file by April 15.",
+   "Idaho relies on sales tax (6%), income tax, and local property tax, with a $155 food tax credit.",
+   "Taxes change prices, incentives, and your budget, and they pay for shared services."
+  ],
+  "keyWords": [
+   "Tax",
+   "Benefits-received principle",
+   "Ability-to-pay principle",
+   "Progressive tax",
+   "Proportional tax",
+   "Regressive tax",
+   "Tax bracket",
+   "Individual income tax",
+   "Tax return",
+   "W-4",
+   "W-2",
+   "Tax refund",
+   "Withholding",
+   "Corporate income tax",
+   "Estate tax",
+   "Standard deduction",
+   "Tax credit",
+   "Property tax",
+   "Levy",
+   "Tax incidence"
+  ]
+ },
+ {
+  "n": 20,
+  "realm": 7,
+  "title": "Government Spending, Fiscal Policy, and the National Debt",
+  "standards": [
+   "9-12.EC.8",
+   "9-12.EC.9",
+   "9-12.EC.5"
+  ],
+  "sections": [
+   {
+    "heading": "Following the Money",
+    "markdown": "Chapter 19 showed where government money comes from. Now let's see where it goes, and how government uses spending and taxes to steer the whole economy."
+   },
+   {
+    "heading": "Where Federal Money Goes",
+    "markdown": "The federal government spends more than $7 trillion a year. The biggest pieces:\n- **Social Security**: monthly checks for retirees, disabled workers, and survivors. The single largest program.\n- **Health care**: **Medicare** (people 65+) and **Medicaid** (low-income families, shared with states).\n- **National defense**: the military.\n- **Interest on the national debt**: now more than $1 trillion a year, bigger than the defense budget.\n- Everything else: veterans' benefits, food assistance, highways, education aid, national parks, science, and more.\nEconomists split this into two kinds:\n- **Mandatory spending** is set by existing laws and happens automatically, like Social Security and Medicare. It's most of the budget.\n- **Discretionary spending** is decided each year by Congress, like defense, education, and parks.\nSome spending is **transfer payments**: money moved from taxpayers to individuals without buying a good or service, like Social Security checks and unemployment benefits."
+   },
+   {
+    "heading": "State and Local Spending",
+    "markdown": "Idaho's state budget is very different. Its biggest item is **K-12 public schools**, then **health and human services** (including Medicaid), then **colleges**, **prisons and public safety**, and **transportation**. Local governments spend on schools, roads, police, fire, parks, and water.\nOne big difference: **Idaho's constitution requires a balanced budget**. The state can't spend more than it takes in each year. The federal government has no such rule."
+   },
+   {
+    "heading": "Deficits and Debt",
+    "markdown": "- A **budget deficit** happens when the government spends more than it collects in a year.\n- A **budget surplus** is the opposite: more revenue than spending. The federal government last ran a surplus in 2001.\n- The **national debt** is all the past deficits added up (minus surpluses): the total the federal government owes.\nTo cover deficits, the Treasury **borrows** by selling bonds (Chapter 12) to Americans, banks, pension funds, foreign governments, and even the Federal Reserve.\nThe national debt passed **$40 trillion** in 2026. That's more than the whole economy produces in a year.\nWhy does debt matter?\n- **Interest costs** grow and crowd out other spending.\n- Heavy government borrowing can push up interest rates for everyone, which may reduce business investment. Economists call this **crowding out**.\n- Future taxpayers, which means you, inherit the bill.\n- But borrowing can make sense for emergencies (wars, recessions, pandemics) and investments that pay off over decades, like highways or research.\nEconomists and politicians disagree about how big a problem the debt is and how to fix it. The basic choices are raising taxes, cutting spending, growing the economy faster, or some mix. Every option has trade-offs and real people on the other side."
+   },
+   {
+    "heading": "Fiscal Policy: Steering With Spending and Taxes",
+    "markdown": "**Fiscal policy** is Congress and the President using **government spending** and **taxes** to influence the economy. (It's \"fiscal\" because it's about the government's budget.)\n**Expansionary fiscal policy**: used in a recession to boost the economy.\n- Increase government spending (projects, aid).\n- Cut taxes so people and businesses have more to spend.\n- Goal: more spending, more jobs, faster growth.\n- Risk: bigger deficits, and if overdone, inflation.\n**Contractionary fiscal policy**: used when the economy is overheating with high inflation.\n- Cut government spending.\n- Raise taxes.\n- Goal: cool demand and slow inflation.\n- Risk: it's unpopular, and it can slow growth or cause job losses.\nThe economist **John Maynard Keynes** argued government should spend more during recessions to make up for weak private demand. That's the idea behind most expansionary policy. Others argue that tax cuts and lighter regulation work better, by giving people and businesses stronger incentives to work, save, and invest. That's often called **supply-side** economics.\nExamples: in 2009 and again in 2020, Congress passed huge spending and relief bills to fight recessions. Big tax-cut bills, such as those in 2017 and 2025, are fiscal policy too."
+   },
+   {
+    "heading": "Automatic Stabilizers and Time Lags",
+    "markdown": "Some fiscal policy happens on autopilot. **Automatic stabilizers** kick in without Congress voting:\n- In a recession, more people collect **unemployment insurance** and food assistance, which keeps spending from collapsing.\n- Income tax collections fall when incomes fall, leaving people more money.\nPlanned fiscal policy is slow. Congress has to notice the problem, debate, pass a law, and then the money has to reach people. By the time it arrives, the economy may have already changed. That's called a **time lag**, and it's one reason the Federal Reserve (next chapter) often moves first."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "The economy is in a recession: unemployment jumps to 8 percent and businesses are laying people off.\n1. Recommend an **expansionary fiscal policy**: one spending change or one tax change. Explain how it should help using the words **demand** and **jobs**.\n2. Name one **trade-off** or risk of your plan, and explain how it connects to the **national debt**.",
+   "standards": "Idaho standards: 9-12.EC.8, 9-12.EC.9, 9-12.EC.5"
+  },
+  "checklist": [
+   "The biggest federal spending: Social Security, health care, defense, and interest on the debt.",
+   "Mandatory spending happens automatically; discretionary spending is set by Congress each year.",
+   "Deficit = spending more than revenue in a year; the national debt is all past deficits added up (over $40 trillion).",
+   "Fiscal policy uses spending and taxes: expansionary in recessions, contractionary against inflation.",
+   "Automatic stabilizers work without new laws; planned fiscal policy has time lags."
+  ],
+  "keyWords": [
+   "Federal budget",
+   "Mandatory spending",
+   "Discretionary spending",
+   "Transfer payment",
+   "Social Security",
+   "Balanced budget",
+   "Budget deficit",
+   "Budget surplus",
+   "National debt",
+   "Treasury bond",
+   "Crowding out",
+   "Fiscal policy",
+   "Expansionary fiscal policy",
+   "Contractionary fiscal policy",
+   "Aggregate demand",
+   "Keynesian economics",
+   "Supply-side economics",
+   "Automatic stabilizers",
+   "Unemployment insurance",
+   "Time lag"
+  ]
+ },
+ {
+  "n": 21,
+  "realm": 7,
+  "title": "The Federal Reserve and Monetary Policy",
+  "standards": [
+   "9-12.EC.8",
+   "9-12.EC.13"
+  ],
+  "sections": [
+   {
+    "heading": "The Thermostat for Money",
+    "markdown": "Your cabin has a thermostat. Too cold, turn up the heat. Too hot, turn it down. The economy has a thermostat too, and it's run by the **Federal Reserve**.\nWhen the economy's sluggish, the Fed tries to warm it up. When it's overheating with inflation, the Fed cools it down. It does that mostly by changing how expensive it is to borrow money."
+   },
+   {
+    "heading": "What Is the Fed?",
+    "markdown": "The **Federal Reserve System** (the **Fed**) is the **central bank** of the United States. Congress created it in **1913** after a string of banking panics.\nIt's built in three layers:\n- The **Board of Governors** in Washington, D.C.: seven members appointed by the President and confirmed by the Senate for 14-year terms. One is the **chair**, who is often called the second most powerful person in Washington.\n- **Twelve regional Federal Reserve Banks** around the country. Idaho is in the **12th District**, served by the **Federal Reserve Bank of San Francisco**, which has a branch in Salt Lake City.\n- The **Federal Open Market Committee (FOMC)**: the Board plus five regional bank presidents. They meet eight times a year to set monetary policy.\nThe Fed is designed to be **independent**. Its decisions don't need approval from Congress or the President. The idea is to keep short-term politics (like an upcoming election) from pushing it to make choices that feel good now but cause inflation later. That independence is sometimes controversial, and presidents have occasionally pressured Fed leaders publicly."
+   },
+   {
+    "heading": "The Fed's Jobs",
+    "markdown": "1. **Monetary policy:** managing the money supply and interest rates.\n2. **Supervising banks:** making sure banks are safe and follow the rules.\n3. **Lender of last resort:** lending to banks in an emergency so a panic doesn't spread.\n4. **Running the payment system:** clearing checks and electronic payments, and distributing currency. (The Treasury's Bureau of Engraving and Printing actually prints the bills; the Fed puts them into circulation.)\n5. **Banker to the government:** the U.S. Treasury keeps its account at the Fed.\nCongress gave the Fed a **dual mandate**: aim for **maximum employment** and **stable prices**. In practice, \"stable prices\" means about **2 percent inflation** (Chapter 17)."
+   },
+   {
+    "heading": "Monetary Policy Tools",
+    "markdown": "**Monetary policy** is the Fed changing the money supply and interest rates to influence the economy.\nThe Fed's main target is the **federal funds rate**: the interest rate banks charge each other for overnight loans. It ripples out to almost every other rate: car loans, credit cards, mortgages, and savings accounts. In fall 2026, the Fed's target range was **3.75 to 4 percent**.\nThe Fed moves it with these tools:\n- **Interest on reserves:** the Fed pays banks interest on the money they keep at the Fed. Raise that rate, and banks won't lend to others for less. This is now the Fed's main tool.\n- **Open market operations:** buying and selling government bonds. When the Fed **buys** bonds, it pays with new money, adding to the money supply and pushing rates down. When it **sells** bonds, money flows out and rates rise.\n- **The discount rate:** the rate the Fed charges banks that borrow directly from it.\n- **Reserve requirements:** the share of deposits banks must keep in reserve. (The Fed set this to zero in 2020 and relies on the other tools now.)"
+   },
+   {
+    "heading": "Easy Money and Tight Money",
+    "markdown": "**Expansionary (easy-money) policy**: used in a recession.\n- Lower interest rates, add money to the economy.\n- Borrowing gets cheaper, so people buy cars and houses and businesses invest.\n- More spending means more jobs.\n- Risk: if kept too long, it can cause inflation or bubbles.\n**Contractionary (tight-money) policy**: used to fight inflation.\n- Raise interest rates, pull money out.\n- Borrowing gets expensive, spending slows, and price growth cools.\n- Risk: if overdone, it can trigger a recession.\nReal examples: in 2008 and 2020, the Fed cut rates to nearly zero and bought trillions of dollars in bonds to fight recessions. In 2022 and 2023, it raised rates quickly, its fastest hikes in 40 years, to bring down 9 percent inflation. That's why mortgage rates jumped and home sales slowed."
+   },
+   {
+    "heading": "Fed vs. Congress: Comparing the Tools",
+    "markdown": "- **Who:** fiscal is Congress and the President; monetary is the Federal Reserve.\n- **Tools:** fiscal uses spending and taxes; monetary uses interest rates and the money supply.\n- **Speed:** the Fed can change rates in a single meeting, while Congress can take months. But both take time to work through the economy.\n- **Politics:** fiscal policy is decided by elected officials; the Fed is designed to be independent.\nThey work best when they pull in the same direction. When they don't, say, Congress spending heavily while the Fed tries to slow inflation, they can work against each other."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Inflation is 6 percent and the economy is booming. The Fed is meeting next week.\n1. Should the FOMC choose **expansionary** or **contractionary** monetary policy? Which **tool(s)** would it use, and how would the federal funds rate change?\n2. Explain how your decision would affect a family trying to buy a house and a business deciding whether to build a new factory.\n3. Why might it matter that the Fed is **independent** from the President and Congress?",
+   "standards": "Idaho standards: 9-12.EC.8, 9-12.EC.13"
+  },
+  "checklist": [
+   "The Fed is the U.S. central bank, created in 1913; Idaho is in the 12th District (San Francisco).",
+   "Dual mandate: maximum employment and stable prices (about 2% inflation).",
+   "The FOMC targets the federal funds rate using interest on reserves, open market operations, and the discount rate.",
+   "Easy money = lower rates to fight recessions; tight money = higher rates to fight inflation.",
+   "Fiscal policy = Congress and taxes/spending; monetary policy = the Fed and interest rates/money."
+  ],
+  "keyWords": [
+   "Federal Reserve System",
+   "Central bank",
+   "Board of Governors",
+   "Federal Reserve district",
+   "Federal Open Market Committee (FOMC)",
+   "Lender of last resort",
+   "Dual mandate",
+   "Monetary policy",
+   "Federal funds rate",
+   "Interest on reserves",
+   "Open market operations",
+   "Discount rate",
+   "Reserve requirement",
+   "Expansionary monetary policy",
+   "Contractionary monetary policy",
+   "Independence (of the Fed)"
+  ]
+ },
+ {
+  "n": 22,
+  "realm": 8,
+  "title": "Why We Trade: Specialization and Comparative Advantage",
+  "standards": [
+   "9-12.EC.12",
+   "9-12.EC.11",
+   "9-12.EC.10"
+  ],
+  "sections": [
+   {
+    "heading": "Your Breakfast Went Around the World",
+    "markdown": "Look at your morning. Your phone was designed in California and assembled in Asia from parts made in a dozen countries. Your banana came from Ecuador. Your hoodie was sewn in Bangladesh. Your coffee? Colombia or Ethiopia. And the fries at lunch might be made from Idaho potatoes.\nNobody, and no country, makes everything for itself. Trade is how we get far more than we could ever produce alone."
+   },
+   {
+    "heading": "Why Trade at All?",
+    "markdown": "Remember **voluntary exchange** from Chapter 3: people only trade when both sides expect to be better off. The same is true between countries.\n**Imports** are goods and services bought from other countries. **Exports** are goods and services sold to other countries.\nTrade lets countries:\n- get things they can't make at all (Idaho can't grow bananas or coffee),\n- get things more cheaply than they could make them,\n- sell to billions of customers instead of just their own,\n- **specialize** in what they do best and become more productive."
+   },
+   {
+    "heading": "Absolute Advantage",
+    "markdown": "A country has an **absolute advantage** when it can produce more of something than another country using the same resources. If Idaho farmers can grow more potatoes per acre than farmers in another state, Idaho has an absolute advantage in potatoes.\nThat idea, from Adam Smith, explains some trade. But it misses a surprising truth."
+   },
+   {
+    "heading": "Comparative Advantage: The Big Idea",
+    "markdown": "What if one country is better at making *everything*? Should it still trade? Yes. Here's why.\nA country has a **comparative advantage** when it can produce something at a **lower opportunity cost** than another country. Economist **David Ricardo** explained this in 1817.\nTry it with two people. Jordan and Sam are building a campsite.\n- In one hour, **Jordan** can either gather **10 bundles of firewood** or set up **5 tents**.\n- In one hour, **Sam** can either gather **4 bundles of firewood** or set up **4 tents**.\nJordan is faster at both. Jordan has the absolute advantage in both. But look at opportunity costs:\n- For Jordan, 1 tent costs 2 bundles of firewood (10 ÷ 5).\n- For Sam, 1 tent costs only 1 bundle of firewood (4 ÷ 4).\nSam gives up less to set up a tent. So **Sam has the comparative advantage in tents**, and **Jordan has the comparative advantage in firewood**. If Jordan gathers wood and Sam sets up tents, together they get more done than if each tried to do both. Both win.\nThat's the magic of comparative advantage: **every country has a comparative advantage in something**, and specializing and trading lets everyone have more."
+   },
+   {
+    "heading": "Specialization in the Real World",
+    "markdown": "Countries specialize based on their resources, climate, skills, and technology.\n- **Idaho** specializes in potatoes, dairy and cheese, trout, sugar beets, hops, barley, and wheat, plus computer chips, lumber, and food processing.\n- **Brazil:** coffee, soybeans, and orange juice.\n- **Saudi Arabia:** oil.\n- **Taiwan:** advanced computer chips.\n- **Germany:** cars and machinery.\nSpecialization makes countries **interdependent**: they rely on each other. That's efficient, but it also means a problem in one place can ripple everywhere. In 2021, a shortage of computer chips from Asia shut down car factories in the U.S. because modern cars need dozens of chips."
+   },
+   {
+    "heading": "Entrepreneurs and Trade",
+    "markdown": "Trade isn't just countries. It's businesses and entrepreneurs finding customers worldwide. Successful businesses use the same idea: they specialize in what they do best and trade for the rest. A small Idaho trout farm might sell fish to restaurants across the country, a Boise software startup might sell to customers in Japan, and a potato processor in Burley might ship frozen fries to Asia.\nSuccessful entrepreneurs in a global economy:\n- find their **comparative advantage** (what they can do better or cheaper than others),\n- use **specialization** inside the business (Chapter 2's division of labor),\n- reach far-off markets through the internet, shipping, and trade agreements,\n- watch for risks like changing exchange rates and trade rules (Chapter 23)."
+   },
+   {
+    "heading": "Gains and Pains",
+    "markdown": "Trade makes countries richer overall, with lower prices and more variety for consumers. Exporting industries add jobs. Competition pushes businesses to improve.\nBut the gains aren't spread evenly. When imports are cheaper, some domestic industries shrink and workers lose jobs. Many U.S. factory towns lost jobs as manufacturing moved overseas. That's real pain for real families, which is why trade is one of the most debated topics in politics. Programs like job retraining try to help workers move to new industries. You'll see the policy fights in the next chapter."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "In one day, **Idaho** can produce either **100 tons of potatoes** or **50 computer chips**. **Country X** can produce either **60 tons of potatoes** or **60 computer chips**.\n1. Who has the **absolute advantage** in potatoes? In chips?\n2. Calculate each one's **opportunity cost** of 1 chip. Who has the **comparative advantage** in chips? In potatoes?\n3. What should each specialize in, and why does trading make both better off?",
+   "standards": "Idaho standards: 9-12.EC.12, 9-12.EC.11, 9-12.EC.10"
+  },
+  "checklist": [
+   "Imports are bought from other countries; exports are sold to them.",
+   "Absolute advantage = can produce more; comparative advantage = lower opportunity cost.",
+   "Every country has a comparative advantage in something, so specializing and trading helps both sides.",
+   "Specialization makes countries interdependent, for better and worse.",
+   "Trade raises overall wealth, but some workers and industries lose."
+  ],
+  "keyWords": [
+   "International trade",
+   "Imports",
+   "Exports",
+   "Absolute advantage",
+   "Comparative advantage",
+   "Interdependence",
+   "Global supply chain",
+   "Gains from trade",
+   "Domestic",
+   "Job retraining"
+  ]
+ },
+ {
+  "n": 23,
+  "realm": 8,
+  "title": "Trade Policy and Exchange Rates",
+  "standards": [
+   "9-12.EC.11",
+   "9-12.EC.10",
+   "9-12.EC.9"
+  ],
+  "sections": [
+   {
+    "heading": "Who Opens the Gate?",
+    "markdown": "Trade crosses borders, and borders have gates. Governments decide how wide to open them. Some want the gate wide open: **free trade**. Others want to close it partway to protect workers and businesses at home: **protectionism**.\nThis is one of the oldest fights in economics, and it's still front-page news."
+   },
+   {
+    "heading": "Barriers to Trade",
+    "markdown": "Governments limit trade with a few main tools:\n- **Tariff:** a tax on imported goods. A 25 percent tariff on imported steel makes foreign steel cost more, so U.S. steel looks cheaper by comparison. The **importer** pays the tariff to the U.S. government, and much of that cost is usually passed on to buyers through higher prices.\n- **Quota:** a limit on how much of a product can be imported.\n- **Embargo:** a ban on trade with a country, usually for political reasons. The U.S. has had an embargo on Cuba since the early 1960s.\n- **Subsidies:** government payments to domestic producers so they can sell more cheaply at home or abroad.\n- **Rules and standards:** safety, labeling, or environmental rules that can make it harder for foreign goods to enter."
+   },
+   {
+    "heading": "The Case for Protection",
+    "markdown": "Supporters of protectionism argue:\n- **Protecting jobs:** cheaper imports can wipe out domestic industries and the towns that depend on them.\n- **National security:** a country shouldn't depend on rivals for critical things like steel, medicine, energy, and computer chips.\n- **Infant industries:** new industries may need protection until they're strong enough to compete.\n- **Fair play:** some countries break the rules by heavily subsidizing their companies or **dumping** products (selling below cost to drive competitors out)."
+   },
+   {
+    "heading": "The Case for Free Trade",
+    "markdown": "Supporters of free trade argue:\n- **Lower prices and more choices** for consumers. Tariffs work like a tax on shoppers.\n- **Comparative advantage** (Chapter 22): specializing and trading makes everyone richer overall.\n- **Export jobs:** U.S. farmers and manufacturers sell to the world. Idaho exports billions of dollars of goods each year, especially computer chips, food, and farm products.\n- **Retaliation risk:** if the U.S. places tariffs, other countries often fire back with tariffs on U.S. goods. Idaho potato, dairy, and wheat farmers have been hit by retaliatory tariffs in past trade disputes.\nMost economists favor freer trade, while recognizing that some workers and communities are hurt and need help adjusting. Voters and politicians in both major parties are split on how much protection is right, and U.S. tariff policy has swung back and forth in recent years."
+   },
+   {
+    "heading": "Trade Agreements",
+    "markdown": "Countries make deals to lower trade barriers.\n- **USMCA** (United States-Mexico-Canada Agreement, 2020), which replaced **NAFTA** (1994). Canada and Mexico are among Idaho's biggest trading partners.\n- The **World Trade Organization (WTO)** sets rules for trade among more than 160 member countries and settles disputes.\n- **Free trade zones** and agreements with individual countries lower tariffs between partners.\n- The **European Union** goes further: its members trade freely, and most share a common currency, the **euro**."
+   },
+   {
+    "heading": "Balance of Trade",
+    "markdown": "A country's **balance of trade** is its exports minus its imports.\n- **Trade surplus:** exports are bigger than imports.\n- **Trade deficit:** imports are bigger than exports.\nThe U.S. has run a trade deficit almost every year since the 1970s. Is that bad? Economists debate it. A deficit means Americans are buying lots of foreign goods, but it also means foreigners are sending money back to invest in the U.S., buying American stocks, bonds, and businesses. A deficit isn't automatically a sign of a weak economy."
+   },
+   {
+    "heading": "Exchange Rates",
+    "markdown": "To trade, you usually have to swap currencies. An Idaho company selling cheese to Japan gets paid in Japanese **yen**, then trades them for dollars. The **exchange rate** is the price of one currency in terms of another.\nExchange rates change every day based on supply and demand for each currency. This is a **floating exchange rate**.\n- A **strong dollar** (it buys more foreign currency) makes **imports cheaper** for Americans and makes trips abroad cheaper. But it makes **U.S. exports more expensive** for foreigners, which hurts Idaho farmers and manufacturers selling overseas.\n- A **weak dollar** does the opposite: exports get cheaper for foreign buyers and imports get more expensive for Americans.\nExample: if $1 = 150 yen, a $10 pound of Idaho cheese costs a Japanese buyer 1,500 yen. If the dollar strengthens to $1 = 200 yen, the same cheese costs 2,000 yen, and Japanese shoppers may buy less."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "The U.S. places a 25 percent tariff on imported bicycles.\n1. Explain how the tariff affects (a) American shoppers, (b) a U.S. bike factory, and (c) Idaho farmers if the other country **retaliates** with tariffs on U.S. potatoes.\n2. Do you support the tariff? Use one argument from **each side** of the free trade vs. protectionism debate, then explain which one you find stronger.",
+   "standards": "Idaho standards: 9-12.EC.11, 9-12.EC.10, 9-12.EC.9"
+  },
+  "checklist": [
+   "Trade barriers: tariffs, quotas, embargoes, subsidies, and rules.",
+   "Protectionism argues for jobs, national security, and infant industries; free trade argues for lower prices, comparative advantage, and export jobs.",
+   "Trade agreements like USMCA and the WTO lower barriers.",
+   "Balance of trade = exports - imports; the U.S. usually has a trade deficit.",
+   "A strong dollar makes imports cheaper and exports more expensive; a weak dollar does the reverse."
+  ],
+  "keyWords": [
+   "Free trade",
+   "Protectionism",
+   "Trade barrier",
+   "Tariff",
+   "Quota",
+   "Embargo",
+   "Infant industry",
+   "Dumping",
+   "Retaliation",
+   "Trade agreement",
+   "USMCA",
+   "World Trade Organization (WTO)",
+   "European Union (EU)",
+   "Balance of trade",
+   "Trade surplus",
+   "Trade deficit",
+   "Exchange rate",
+   "Floating exchange rate",
+   "Strong dollar",
+   "Weak dollar"
+  ]
+ },
+ {
+  "n": 24,
+  "realm": 8,
+  "title": "The Global Economy and Idaho",
+  "standards": [
+   "9-12.EC.10",
+   "9-12.EC.11",
+   "9-12.EC.12"
+  ],
+  "sections": [
+   {
+    "heading": "The View From the Summit",
+    "markdown": "You made it. From the top of a peak in the Sawtooths, you can see range after range in every direction. Every one connects to the others through valleys, rivers, and passes.\nThat's the **global economy**: every country connected to every other through trade, money, people, and ideas. What happens in a factory in China, an oil field in the Middle East, or a bank in London can change prices in Idaho Falls by next week."
+   },
+   {
+    "heading": "Globalization",
+    "markdown": "**Globalization** is the growing connection of the world's economies. Several things sped it up:\n- **Transportation:** giant container ships, cargo planes, and the humble **shipping container** (invented in the 1950s) cut the cost of moving goods around the world dramatically.\n- **Communication:** the internet and smartphones let a business in Boise work with partners on the other side of the planet in real time.\n- **Trade agreements** lowered tariffs (Chapter 23).\n- **Global finance:** money moves across borders in seconds, so investors can buy stocks and bonds anywhere.\nBusinesses now use **global supply chains**: a product is designed in one country, built from parts made in several others, and sold everywhere. **Multinational corporations** operate in many countries at once.\nGlobalization has helped lift billions of people out of extreme poverty. The World Bank estimates the share of the world living in extreme poverty fell from more than a third in 1990 to under 10 percent in recent years. But it also brings competition for jobs, worries about workers' rights and the environment, and the risk that a crisis in one place spreads everywhere."
+   },
+   {
+    "heading": "Developed and Developing Countries",
+    "markdown": "Countries are often grouped by income and living standards.\n- **Developed countries** (like the U.S., Canada, Japan, Germany) have high GDP per capita, strong industries, good education and health care, and stable institutions.\n- **Developing countries** have lower incomes, more people working in agriculture, and less access to education, clean water, and health care. Many are growing fast. **Emerging economies** like India, Indonesia, and Vietnam are shifting quickly toward industry and services.\nWhat helps a country develop? The same growth ingredients from Chapter 16:\n- **Human capital:** education and health.\n- **Physical capital and infrastructure:** roads, power, internet, ports.\n- **Stable institutions:** property rights, the rule of law, and low corruption.\n- **Open trade** and investment from abroad.\n**Foreign aid** (grants and loans from richer countries) and organizations like the **World Bank** (loans for development projects) and the **International Monetary Fund (IMF)** (helps countries in financial crisis) try to support development. **Microloans** give tiny loans to entrepreneurs in poor areas so they can start small businesses."
+   },
+   {
+    "heading": "Interdependence: When One Domino Falls",
+    "markdown": "Because economies are linked, shocks travel.\n- **Oil prices:** a war or a cut in production by OPEC raises gas prices everywhere, including at your local station.\n- **Financial crises:** the 2008 U.S. housing crisis spread into a worldwide recession.\n- **Pandemics:** COVID-19 shut factories in Asia, which emptied shelves in America.\n- **Supply chain snarls:** in 2021, backed-up ports and a chip shortage delayed everything from cars to game consoles.\nCountries **compete** too: for factories, investment, talent, and customers. Nations race to lead in technologies like computer chips, artificial intelligence, and clean energy. Governments sometimes use subsidies and tariffs to win that race, which can lead to trade tensions."
+   },
+   {
+    "heading": "Idaho in the World",
+    "markdown": "Idaho isn't on the sidelines. It's on the map.\n- **Exports:** Idaho sells billions of dollars of goods abroad each year. The biggest export is usually **computer chips and electronics**, led by Boise-based **Micron Technology**. Food and farm products follow: frozen potatoes and fries, cheese and dairy, wheat, and other crops. Top destinations include Canada, Mexico, and countries across Asia.\n- **Agriculture:** Idaho grows about a third of America's potatoes, ranks among the top dairy states, and leads the nation in farmed trout. Foreign buyers' tastes, exchange rates, and tariffs directly affect Idaho farm income.\n- **Investment:** foreign companies build and buy in Idaho, and Idaho companies invest abroad. Micron has operations around the world and is building major new chip plants in Boise.\n- **Imports:** Idahoans buy cars, phones, clothes, and countless other things made overseas, at prices that would be much higher without trade.\n- **Tourism:** visitors from around the world come to Yellowstone, the Sawtooths, and Sun Valley, and spend money in Idaho businesses.\nSo when you hear about a tariff fight, a strong dollar, or a slowdown in China, ask: **what does this mean for Idaho?** Often, quite a lot."
+   },
+   {
+    "heading": "Your Place in It",
+    "markdown": "You'll compete for jobs in a global economy and buy from a global marketplace. The best preparation is the same advice from the whole course: build your **human capital**, make choices with **opportunity cost** in mind, manage your money with a **budget**, protect your **credit**, and let **compound interest** work for you.\nThat's the summit. Enjoy the view, then pick your next mountain."
+   }
+  ],
+  "thinkLikeAScientist": {
+   "prompt": "Pick one Idaho product (potatoes, cheese, trout, computer chips, wheat, or lumber).\n1. Describe its trip through the **global economy**: who buys it, and what imported parts or inputs might it use?\n2. Name two global events (a war, a tariff, a strong dollar, a pandemic, a recession abroad) and explain how each could help or hurt Idaho workers who make that product.",
+   "standards": "Idaho standards: 9-12.EC.10, 9-12.EC.11, 9-12.EC.12"
+  },
+  "checklist": [
+   "Globalization connects economies through trade, transportation, communication, and finance.",
+   "It has cut extreme poverty sharply but brings job competition and shared risks.",
+   "Development depends on human capital, infrastructure, stable institutions, and trade.",
+   "Interdependence means oil, financial, pandemic, and supply chain shocks spread worldwide.",
+   "Idaho exports computer chips, potatoes, dairy, and more; global events shape Idaho jobs."
+  ],
+  "keyWords": [
+   "Global economy",
+   "Globalization",
+   "Shipping container",
+   "Developed country",
+   "Developing country",
+   "Emerging economy",
+   "Infrastructure",
+   "Foreign aid",
+   "World Bank",
+   "International Monetary Fund (IMF)",
+   "Microloan",
+   "Foreign direct investment",
+   "Extreme poverty"
+  ]
+ }
+]

@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+.env*
+# Answer keys and the private curriculum source never go in this public repo
+*PRIVATE*
+keys*.json
+keys*.sql
+private/

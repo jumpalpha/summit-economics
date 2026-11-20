@@ -1,0 +1,23 @@
+{
+  "id": "/?app=summit-economics",
+  "name": "Summit Economics",
+  "short_name": "Summit",
+  "description": "High school economics as a mountain climb: 24 chapters, 8 units, and a climb from Greenhorn to Summiteer.",
+  "start_url": "/welcome/?source=app",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0a1018",
+  "theme_color": "#0a1018",
+  "categories": ["education"],
+  "icons": [
+    { "src": "/app/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/app/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/app/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Chapters", "url": "/chapters/", "icons": [{ "src": "/app/shortcut-chapters.png", "sizes": "96x96", "type": "image/png" }] },
+    { "name": "My Climb", "url": "/quest/", "icons": [{ "src": "/app/shortcut-quest.png", "sizes": "96x96", "type": "image/png" }] },
+    { "name": "Welcome Back", "url": "/welcome/", "icons": [{ "src": "/app/shortcut-welcome.png", "sizes": "96x96", "type": "image/png" }] }
+  ]
+}

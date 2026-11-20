@@ -1,0 +1,114 @@
+[
+ {
+  "n": 1,
+  "name": "Trailhead",
+  "tagline": "Every climb starts with the same problem: you can't carry everything. Learn to choose.",
+  "unitIntro": "Unit 1: Trailhead. Every climb starts with the same problem: you can't carry everything. Learn to choose.",
+  "chapters": [
+   1,
+   3
+  ],
+  "description": "Pack your bag, read the map, and learn the one rule that runs every economy on Earth: there's never enough of everything.",
+  "badge": "Trail Map Badge",
+  "badgeEarnedBy": "Clearing Chapters 1 to 3",
+  "testTitle": "Unit 1 Test: Trailhead"
+ },
+ {
+  "n": 2,
+  "name": "Market Meadow",
+  "tagline": "Out in the open, buyers and sellers meet. Watch how prices find their own level.",
+  "unitIntro": "Unit 2: Market Meadow. Out in the open, buyers and sellers meet. Watch how prices find their own level.",
+  "chapters": [
+   4,
+   6
+  ],
+  "description": "Demand, supply, and the price where they meet. Why concert tickets sell out and why gas prices jump before a holiday.",
+  "badge": "Wildflower Badge",
+  "badgeEarnedBy": "Clearing Chapters 4 to 6",
+  "testTitle": "Unit 2 Test: Market Meadow"
+ },
+ {
+  "n": 3,
+  "name": "Timber Camp",
+  "tagline": "This is where the work gets done. Businesses, competition, and the paycheck with your name on it.",
+  "unitIntro": "Unit 3: Timber Camp. This is where the work gets done. Businesses, competition, and the paycheck with your name on it.",
+  "chapters": [
+   7,
+   9
+  ],
+  "description": "How businesses compete, how entrepreneurs start them, and what decides how much your job pays.",
+  "badge": "Axe Badge",
+  "badgeEarnedBy": "Clearing Chapters 7 to 9",
+  "testTitle": "Unit 3 Test: Timber Camp"
+ },
+ {
+  "n": 4,
+  "name": "River Crossing",
+  "tagline": "Money flows like a river. Learn where it comes from, where it goes, and how to keep your footing.",
+  "unitIntro": "Unit 4: River Crossing. Money flows like a river. Learn where it comes from, where it goes, and how to keep your footing.",
+  "chapters": [
+   10,
+   12
+  ],
+  "description": "What money really is, how banks work, your first checking account, and how stocks and bonds help money grow.",
+  "badge": "Canoe Badge",
+  "badgeEarnedBy": "Clearing Chapters 10 to 12",
+  "testTitle": "Unit 4 Test: River Crossing"
+ },
+ {
+  "n": 5,
+  "name": "Switchbacks",
+  "tagline": "The steep part. Slow, smart steps now keep you from sliding backward later.",
+  "unitIntro": "Unit 5: Switchbacks. The steep part. Slow, smart steps now keep you from sliding backward later.",
+  "chapters": [
+   13,
+   15
+  ],
+  "description": "Budgets, smart shopping, college costs, credit scores, and insurance. The money skills you'll use the rest of your life.",
+  "badge": "Carabiner Badge",
+  "badgeEarnedBy": "Clearing Chapters 13 to 15",
+  "testTitle": "Unit 5 Test: Switchbacks"
+ },
+ {
+  "n": 6,
+  "name": "The Ridge",
+  "tagline": "Up here you can see the whole valley. Time to measure the entire economy at once.",
+  "unitIntro": "Unit 6: The Ridge. Up here you can see the whole valley. Time to measure the entire economy at once.",
+  "chapters": [
+   16,
+   18
+  ],
+  "description": "GDP, jobs, inflation, and the boom-and-bust ride called the business cycle.",
+  "badge": "Binoculars Badge",
+  "badgeEarnedBy": "Clearing Chapters 16 to 18",
+  "testTitle": "Unit 6 Test: The Ridge"
+ },
+ {
+  "n": 7,
+  "name": "Ranger Station",
+  "tagline": "Somebody maintains the trails. Here's who pays for it, and who steers when the weather turns.",
+  "unitIntro": "Unit 7: Ranger Station. Somebody maintains the trails. Here's who pays for it, and who steers when the weather turns.",
+  "chapters": [
+   19,
+   21
+  ],
+  "description": "Taxes, government spending, the national debt, and the Federal Reserve.",
+  "badge": "Ranger Badge",
+  "badgeEarnedBy": "Clearing Chapters 19 to 21",
+  "testTitle": "Unit 7 Test: Ranger Station"
+ },
+ {
+  "n": 8,
+  "name": "The Summit",
+  "tagline": "From the top you can see other mountains. Every country is connected to every other.",
+  "unitIntro": "Unit 8: The Summit. From the top you can see other mountains. Every country is connected to every other.",
+  "chapters": [
+   22,
+   24
+  ],
+  "description": "Why countries trade, tariffs and exchange rates, and how Idaho fits into the global economy.",
+  "badge": "Summit Flag Badge",
+  "badgeEarnedBy": "Clearing Chapters 22 to 24",
+  "testTitle": "Unit 8 Test: The Summit"
+ }
+]

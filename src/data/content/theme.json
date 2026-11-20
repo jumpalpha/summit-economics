@@ -1,0 +1,127 @@
+{
+ "intro": "Ranks follow a hiking path, from fresh boots at the trailhead to standing on the peak. Students climb one rank for each unit they clear.",
+ "ranks": {
+  "note": "",
+  "list": [
+   {
+    "order": 1,
+    "name": "Greenhorn",
+    "flavor": "Fresh boots. No blisters yet."
+   },
+   {
+    "order": 2,
+    "name": "Trail Walker",
+    "flavor": "You know which way the trail goes."
+   },
+   {
+    "order": 3,
+    "name": "Day Hiker",
+    "flavor": "Water bottle full, snacks packed."
+   },
+   {
+    "order": 4,
+    "name": "Pathfinder",
+    "flavor": "You read the map. Others follow."
+   },
+   {
+    "order": 5,
+    "name": "Backpacker",
+    "flavor": "Carrying your own weight, budget included."
+   },
+   {
+    "order": 6,
+    "name": "Switchback Climber",
+    "flavor": "Steep, slow, smart. Still climbing."
+   },
+   {
+    "order": 7,
+    "name": "Ridge Runner",
+    "flavor": "You can see the whole economy from here."
+   },
+   {
+    "order": 8,
+    "name": "Mountaineer",
+    "flavor": "Ropes, rules, and a plan for bad weather."
+   },
+   {
+    "order": 9,
+    "name": "Summiteer",
+    "flavor": "You made it to the top. Enjoy the view."
+   }
+  ]
+ },
+ "realmBadges": {
+  "note": "Students earn one badge for clearing each unit, by finishing all its chapters and passing the unit test.",
+  "list": [
+   {
+    "realm": 1,
+    "realmName": "Trailhead",
+    "badge": "Trail Map Badge",
+    "earnedBy": "Clearing Chapters 1 to 3"
+   },
+   {
+    "realm": 2,
+    "realmName": "Market Meadow",
+    "badge": "Wildflower Badge",
+    "earnedBy": "Clearing Chapters 4 to 6"
+   },
+   {
+    "realm": 3,
+    "realmName": "Timber Camp",
+    "badge": "Axe Badge",
+    "earnedBy": "Clearing Chapters 7 to 9"
+   },
+   {
+    "realm": 4,
+    "realmName": "River Crossing",
+    "badge": "Canoe Badge",
+    "earnedBy": "Clearing Chapters 10 to 12"
+   },
+   {
+    "realm": 5,
+    "realmName": "Switchbacks",
+    "badge": "Carabiner Badge",
+    "earnedBy": "Clearing Chapters 13 to 15"
+   },
+   {
+    "realm": 6,
+    "realmName": "The Ridge",
+    "badge": "Binoculars Badge",
+    "earnedBy": "Clearing Chapters 16 to 18"
+   },
+   {
+    "realm": 7,
+    "realmName": "Ranger Station",
+    "badge": "Ranger Badge",
+    "earnedBy": "Clearing Chapters 19 to 21"
+   },
+   {
+    "realm": 8,
+    "realmName": "The Summit",
+    "badge": "Summit Flag Badge",
+    "earnedBy": "Clearing Chapters 22 to 24"
+   }
+  ]
+ },
+ "bonusBadges": {
+  "note": "Earned automatically.",
+  "list": [
+   {
+    "badge": "Economist's Eye",
+    "earnedBy": "Finishing 10 Think Like an Economist challenges"
+   },
+   {
+    "badge": "Perfect Score",
+    "earnedBy": "Scoring 100% on a chapter quiz on the first try"
+   },
+   {
+    "badge": "Trail Volunteer",
+    "earnedBy": "Getting a side quest approved"
+   },
+   {
+    "badge": "Summit Legend",
+    "earnedBy": "Clearing all eight units"
+   }
+  ]
+ }
+}

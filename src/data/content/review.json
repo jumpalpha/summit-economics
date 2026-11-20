@@ -1,0 +1,2690 @@
+{
+ "1": [
+  {
+   "id": "r1-1",
+   "q": "What is the basic problem that causes all economic choices?",
+   "a": "Scarcity",
+   "wrong": [
+    "Inflation",
+    "Taxes",
+    "Greed"
+   ],
+   "why": "Wants are unlimited and resources are limited, so everyone has to choose."
+  },
+  {
+   "id": "r1-2",
+   "q": "You pick a hike over a $90 work shift (your next-best choice). What is your opportunity cost?",
+   "a": "The $90 you didn't earn",
+   "wrong": [
+    "The hike itself",
+    "Every other thing you could have done",
+    "Nothing, the hike was free"
+   ],
+   "why": "Opportunity cost is only the single next-best option you gave up."
+  },
+  {
+   "id": "r1-3",
+   "q": "How is a shortage different from scarcity?",
+   "a": "A shortage is temporary; scarcity never goes away",
+   "wrong": [
+    "They mean exactly the same thing",
+    "Scarcity only happens in poor countries",
+    "A shortage is permanent; scarcity is temporary"
+   ],
+   "why": "A store running out this week is a shortage. Limited time and resources are permanent scarcity."
+  },
+  {
+   "id": "r1-4",
+   "q": "Which choice uses marginal thinking?",
+   "a": "Deciding whether to stay at practice 15 more minutes",
+   "wrong": [
+    "Deciding whether to ever play sports",
+    "Learning the rules of basketball",
+    "Counting how many players are on a team"
+   ],
+   "why": "Marginal thinking is about \"a little more or a little less.\""
+  },
+  {
+   "id": "r1-5",
+   "q": "A teacher gives extra credit for turning work in early. That is a:",
+   "a": "Positive incentive",
+   "wrong": [
+    "Negative incentive",
+    "Trade-off",
+    "Shortage"
+   ],
+   "why": "It rewards the behavior, so it pushes people toward it."
+  },
+  {
+   "id": "r1-6",
+   "q": "Which is a service?",
+   "a": "An oil change",
+   "wrong": [
+    "A tire",
+    "A sandwich",
+    "A backpack"
+   ],
+   "why": "Services are actions someone does for you. Goods are things you can hold."
+  },
+  {
+   "id": "r1-7",
+   "q": "What does macroeconomics study?",
+   "a": "The whole economy, like national unemployment",
+   "wrong": [
+    "One family's budget",
+    "One store's prices",
+    "One student's spending"
+   ],
+   "why": "Macro is the big-picture zoom level; micro is individuals and businesses."
+  },
+  {
+   "id": "r1-8",
+   "q": "What are the three basic economic questions?",
+   "a": "What, how, and for whom to produce",
+   "wrong": [
+    "Who, when, and where to sell",
+    "How much, how fast, and how often to buy",
+    "Why, when, and how to save"
+   ],
+   "why": "Every society answers these because of scarcity."
+  },
+  {
+   "id": "r1-9",
+   "q": "Should you eat a fourth slice of pizza if it adds less enjoyment than it costs you?",
+   "a": "No, the marginal cost is bigger than the marginal benefit",
+   "wrong": [
+    "Yes, always finish the pizza",
+    "Yes, because pizza is a need",
+    "It doesn't matter"
+   ],
+   "why": "Rational choices compare extra benefit with extra cost."
+  },
+  {
+   "id": "r1-10",
+   "q": "Why do economists say there's no free lunch?",
+   "a": "Every choice gives something up, even time",
+   "wrong": [
+    "Lunch costs too much",
+    "Restaurants never give free food",
+    "Lunch is a want, not a need"
+   ],
+   "why": "Even \"free\" things have an opportunity cost."
+  }
+ ],
+ "2": [
+  {
+   "id": "r2-1",
+   "q": "What are the four factors of production?",
+   "a": "Land, labor, capital, entrepreneurship",
+   "wrong": [
+    "Money, land, workers, taxes",
+    "Goods, services, wants, needs",
+    "Supply, demand, price, profit"
+   ],
+   "why": "Every good or service is made from some mix of these four."
+  },
+  {
+   "id": "r2-2",
+   "q": "In economics, \"capital\" means:",
+   "a": "Tools, machines, and buildings used to make things",
+   "wrong": [
+    "Money in the bank",
+    "The capital city",
+    "A capital letter"
+   ],
+   "why": "Money can buy capital, but capital itself is the shovel, the truck, the factory."
+  },
+  {
+   "id": "r2-3",
+   "q": "What does a point inside the PPC show?",
+   "a": "Wasted or unused resources",
+   "wrong": [
+    "The most efficient output",
+    "An impossible combination",
+    "Economic growth"
+   ],
+   "why": "The economy could make more of both goods."
+  },
+  {
+   "id": "r2-4",
+   "q": "Why does the PPC bow outward?",
+   "a": "Resources aren't equally good at making everything, so opportunity cost rises",
+   "wrong": [
+    "People always want more",
+    "Governments set limits",
+    "Prices go up over time"
+   ],
+   "why": "That's the law of increasing opportunity cost."
+  },
+  {
+   "id": "r2-5",
+   "q": "What shifts a PPC outward?",
+   "a": "More resources, better technology, or more human capital",
+   "wrong": [
+    "A natural disaster",
+    "High unemployment",
+    "Fewer workers"
+   ],
+   "why": "Outward = growth; the economy can make more of everything."
+  },
+  {
+   "id": "r2-6",
+   "q": "Learning a skill like coding increases your:",
+   "a": "Human capital",
+   "wrong": [
+    "Land",
+    "Opportunity cost",
+    "Interest"
+   ],
+   "why": "Human capital is the knowledge and skill a worker carries."
+  },
+  {
+   "id": "r2-7",
+   "q": "A coffee shop where one worker only steams milk and another only takes orders is using:",
+   "a": "Specialization and division of labor",
+   "wrong": [
+    "Scarcity",
+    "Entrepreneurship only",
+    "Land"
+   ],
+   "why": "Splitting tasks lets each worker get faster at one job."
+  },
+  {
+   "id": "r2-8",
+   "q": "What reward does capital earn?",
+   "a": "Interest",
+   "wrong": [
+    "Rent",
+    "Wages",
+    "Profit"
+   ],
+   "why": "Land earns rent, labor wages, capital interest, entrepreneurs profit."
+  },
+  {
+   "id": "r2-9",
+   "q": "Which is an entrepreneur?",
+   "a": "Someone who starts a rafting company and risks their savings",
+   "wrong": [
+    "A raft guide paid by the hour",
+    "The river itself",
+    "The rafts"
+   ],
+   "why": "Entrepreneurs combine land, labor, and capital and take the risk."
+  },
+  {
+   "id": "r2-10",
+   "q": "A point on the PPC means the economy is:",
+   "a": "Using all resources efficiently",
+   "wrong": [
+    "Wasting resources",
+    "Growing quickly",
+    "Doing something impossible"
+   ],
+   "why": "On the curve, getting more of one good costs some of the other."
+  }
+ ],
+ "3": [
+  {
+   "id": "r3-1",
+   "q": "What are the three basic questions every economic system answers?",
+   "a": "What, how, and for whom to produce",
+   "wrong": [
+    "Who, where, and when to buy",
+    "How much to tax, spend, and save",
+    "What to import, export, and ban"
+   ],
+   "why": "These come from scarcity: every society must decide."
+  },
+  {
+   "id": "r3-2",
+   "q": "Who makes the main decisions in a command economy?",
+   "a": "The central government",
+   "wrong": [
+    "Consumers",
+    "Businesses",
+    "Tradition"
+   ],
+   "why": "Planners decide what's made, how, and who gets it."
+  },
+  {
+   "id": "r3-3",
+   "q": "What did Adam Smith call the force that guides self-interest to help society?",
+   "a": "The invisible hand",
+   "wrong": [
+    "The iron fist",
+    "The free lunch",
+    "The profit tax"
+   ],
+   "why": "People chasing their own interest in markets end up producing what others want."
+  },
+  {
+   "id": "r3-4",
+   "q": "Which system do nearly all countries use today?",
+   "a": "Mixed economy",
+   "wrong": [
+    "Pure market",
+    "Pure command",
+    "Traditional"
+   ],
+   "why": "The debate is about how much market and how much government."
+  },
+  {
+   "id": "r3-5",
+   "q": "What is consumer sovereignty?",
+   "a": "Shoppers' choices decide what gets produced",
+   "wrong": [
+    "The government chooses for shoppers",
+    "Kings own the stores",
+    "Only citizens can shop"
+   ],
+   "why": "Businesses make what people will pay for."
+  },
+  {
+   "id": "r3-6",
+   "q": "Which is a weakness of a command economy?",
+   "a": "Shortages and weak incentives to work harder",
+   "wrong": [
+    "Too much competition",
+    "Too many product choices",
+    "Prices that change too often"
+   ],
+   "why": "The Soviet Union had long bread lines and unwanted goods."
+  },
+  {
+   "id": "r3-7",
+   "q": "Who argued capitalism exploits workers?",
+   "a": "Karl Marx",
+   "wrong": [
+    "Adam Smith",
+    "Milton Friedman",
+    "Friedrich Hayek"
+   ],
+   "why": "Marx's ideas inspired socialism and communism."
+  },
+  {
+   "id": "r3-8",
+   "q": "What does voluntary exchange mean?",
+   "a": "Both sides trade because they expect to be better off",
+   "wrong": [
+    "One side is forced to trade",
+    "Trading only happens with government approval",
+    "Things are given away"
+   ],
+   "why": "Neither side would trade if they thought they'd lose."
+  },
+  {
+   "id": "r3-9",
+   "q": "Which feature lets you own your own car and house?",
+   "a": "Private property",
+   "wrong": [
+    "Command planning",
+    "Tradition",
+    "Laissez-faire"
+   ],
+   "why": "Private property is a pillar of free enterprise."
+  },
+  {
+   "id": "r3-10",
+   "q": "A traditional economy's biggest weakness is usually:",
+   "a": "Slow change and little new technology",
+   "wrong": [
+    "Too much government control",
+    "Too much competition",
+    "Prices that are too high"
+   ],
+   "why": "Doing things the old way brings stability but little growth."
+  }
+ ],
+ "4": [
+  {
+   "id": "r4-1",
+   "q": "What does the law of demand say?",
+   "a": "Higher price, lower quantity demanded",
+   "wrong": [
+    "Higher price, higher quantity demanded",
+    "Prices never change",
+    "Demand always rises"
+   ],
+   "why": "Price and quantity demanded move in opposite directions."
+  },
+  {
+   "id": "r4-2",
+   "q": "What causes a movement ALONG the demand curve?",
+   "a": "A change in the good's own price",
+   "wrong": [
+    "A change in income",
+    "A change in tastes",
+    "More buyers in the market"
+   ],
+   "why": "Only the good's own price moves you along the curve."
+  },
+  {
+   "id": "r4-3",
+   "q": "Peanut butter and jelly are an example of:",
+   "a": "Complements",
+   "wrong": [
+    "Substitutes",
+    "Inferior goods",
+    "Elastic goods"
+   ],
+   "why": "Complements are used together."
+  },
+  {
+   "id": "r4-4",
+   "q": "What does TRIBE stand for?",
+   "a": "Tastes, related goods, income, buyers, expectations",
+   "wrong": [
+    "Taxes, rent, interest, budgets, earnings",
+    "Trade, revenue, income, banks, exports",
+    "Time, risk, investment, bonds, equity"
+   ],
+   "why": "These five things shift the whole demand curve."
+  },
+  {
+   "id": "r4-5",
+   "q": "A good people buy less of when they earn more is called:",
+   "a": "An inferior good",
+   "wrong": [
+    "A normal good",
+    "A complement",
+    "An elastic good"
+   ],
+   "why": "As income rises, people upgrade from things like bus rides and ramen."
+  },
+  {
+   "id": "r4-6",
+   "q": "Why is gasoline demand usually inelastic?",
+   "a": "People need it and have few substitutes in the short run",
+   "wrong": [
+    "It has many substitutes",
+    "It is a luxury",
+    "It is very cheap"
+   ],
+   "why": "People still have to drive to work even when gas costs more."
+  },
+  {
+   "id": "r4-7",
+   "q": "Which shifts demand for a phone to the RIGHT?",
+   "a": "A popular new feature makes everyone want it",
+   "wrong": [
+    "The phone's price goes up",
+    "A rival phone gets much cheaper",
+    "A report says it overheats"
+   ],
+   "why": "Tastes changed in the phone's favor."
+  },
+  {
+   "id": "r4-8",
+   "q": "The first bottle of water on a hot hike is worth more to you than the fifth. This is:",
+   "a": "Diminishing marginal utility",
+   "wrong": [
+    "The law of supply",
+    "Inflation",
+    "A shortage"
+   ],
+   "why": "Each extra unit adds less satisfaction."
+  },
+  {
+   "id": "r4-9",
+   "q": "What three questions predict elasticity?",
+   "a": "Substitutes? Need or want? Big part of the budget?",
+   "wrong": [
+    "Who sells it? Where? When?",
+    "Is it new? Is it red? Is it big?",
+    "Is it taxed? Is it imported? Is it legal?"
+   ],
+   "why": "More substitutes, a want, and a big price tag mean elastic."
+  },
+  {
+   "id": "r4-10",
+   "q": "What is market demand?",
+   "a": "The total demand of all buyers in a market",
+   "wrong": [
+    "One person's demand",
+    "What sellers want to sell",
+    "The government's demand"
+   ],
+   "why": "Add up every buyer at each price."
+  }
+ ],
+ "5": [
+  {
+   "id": "r5-1",
+   "q": "How are price and quantity supplied related?",
+   "a": "They move in the same direction",
+   "wrong": [
+    "They move in opposite directions",
+    "They are not related",
+    "Quantity always stays the same"
+   ],
+   "why": "Higher prices give sellers an incentive to offer more."
+  },
+  {
+   "id": "r5-2",
+   "q": "Which cost stays the same no matter how much you make?",
+   "a": "Fixed cost",
+   "wrong": [
+    "Variable cost",
+    "Marginal cost",
+    "Total cost"
+   ],
+   "why": "Rent and insurance don't change when you make one more item."
+  },
+  {
+   "id": "r5-3",
+   "q": "What causes the supply curve to SHIFT?",
+   "a": "A change in something other than the good's price",
+   "wrong": [
+    "A change in the good's own price",
+    "Buyers wanting more",
+    "A movement along the curve"
+   ],
+   "why": "Own price = movement along. Anything else in ROTTEN = shift."
+  },
+  {
+   "id": "r5-4",
+   "q": "What does a subsidy do to supply?",
+   "a": "Increases it",
+   "wrong": [
+    "Decreases it",
+    "Has no effect",
+    "Turns it into demand"
+   ],
+   "why": "Government help lowers producers' costs."
+  },
+  {
+   "id": "r5-5",
+   "q": "Better technology shifts supply:",
+   "a": "Right",
+   "wrong": [
+    "Left",
+    "Up only",
+    "Nowhere"
+   ],
+   "why": "Lower costs mean more can be offered at every price."
+  },
+  {
+   "id": "r5-6",
+   "q": "Why is supply of houses inelastic in the short run?",
+   "a": "It takes months or years to build more",
+   "wrong": [
+    "Nobody wants houses",
+    "Houses have many substitutes",
+    "Houses are cheap to build"
+   ],
+   "why": "Time is the biggest factor in supply elasticity."
+  },
+  {
+   "id": "r5-7",
+   "q": "A food truck adds a 10th worker and output barely goes up. This is:",
+   "a": "Diminishing marginal returns",
+   "wrong": [
+    "The law of demand",
+    "A subsidy",
+    "A fixed cost"
+   ],
+   "why": "Too many workers in a small space add less and less."
+  },
+  {
+   "id": "r5-8",
+   "q": "A big rise in fuel prices does what to trucking supply?",
+   "a": "Shifts it left",
+   "wrong": [
+    "Shifts it right",
+    "Has no effect",
+    "Makes it elastic"
+   ],
+   "why": "Higher input costs mean less can be offered at each price."
+  },
+  {
+   "id": "r5-9",
+   "q": "What is marginal revenue?",
+   "a": "The money from selling one more unit",
+   "wrong": [
+    "The total cost of production",
+    "The price of a raw material",
+    "A government payment"
+   ],
+   "why": "Firms compare it to marginal cost to decide whether to make one more."
+  },
+  {
+   "id": "r5-10",
+   "q": "Total cost equals:",
+   "a": "Fixed costs plus variable costs",
+   "wrong": [
+    "Price times quantity",
+    "Revenue minus profit",
+    "Variable costs only"
+   ],
+   "why": "Add the costs that don't change to the ones that do."
+  }
+ ],
+ "6": [
+  {
+   "id": "r6-1",
+   "q": "What is equilibrium?",
+   "a": "Where quantity demanded equals quantity supplied",
+   "wrong": [
+    "The highest possible price",
+    "When supply is zero",
+    "A government-set price"
+   ],
+   "why": "It's where the supply and demand curves cross."
+  },
+  {
+   "id": "r6-2",
+   "q": "A price that's too high creates a:",
+   "a": "Surplus",
+   "wrong": [
+    "Shortage",
+    "Ceiling",
+    "Subsidy"
+   ],
+   "why": "Sellers offer more than buyers want, so stuff piles up."
+  },
+  {
+   "id": "r6-3",
+   "q": "A price that's too low creates a:",
+   "a": "Shortage",
+   "wrong": [
+    "Surplus",
+    "Floor",
+    "Recession"
+   ],
+   "why": "Buyers want more than sellers offer, so shelves go empty."
+  },
+  {
+   "id": "r6-4",
+   "q": "If supply increases, what happens to price?",
+   "a": "It falls",
+   "wrong": [
+    "It rises",
+    "It stays the same",
+    "It becomes a ceiling"
+   ],
+   "why": "More available at every price pushes the price down."
+  },
+  {
+   "id": "r6-5",
+   "q": "Rent control is a:",
+   "a": "Price ceiling",
+   "wrong": [
+    "Price floor",
+    "Subsidy",
+    "Tax"
+   ],
+   "why": "It sets a maximum rent."
+  },
+  {
+   "id": "r6-6",
+   "q": "The minimum wage is a:",
+   "a": "Price floor",
+   "wrong": [
+    "Price ceiling",
+    "Shortage",
+    "Tax"
+   ],
+   "why": "It sets the lowest legal pay."
+  },
+  {
+   "id": "r6-7",
+   "q": "What three jobs do prices do?",
+   "a": "Send information, create incentives, and ration goods",
+   "wrong": [
+    "Collect taxes, pay workers, and fund schools",
+    "Set wages, set rent, and set interest",
+    "Nothing; the government does those jobs"
+   ],
+   "why": "Prices coordinate millions of decisions without a planner."
+  },
+  {
+   "id": "r6-8",
+   "q": "What usually happens when a price ceiling causes a shortage?",
+   "a": "Long lines, waiting lists, or black markets",
+   "wrong": [
+    "Huge piles of unsold goods",
+    "Prices fall even more",
+    "Sellers make more"
+   ],
+   "why": "People find other ways to get the scarce good."
+  },
+  {
+   "id": "r6-9",
+   "q": "Demand falls for a product. What happens to price and quantity?",
+   "a": "Both fall",
+   "wrong": [
+    "Both rise",
+    "Price rises, quantity falls",
+    "Nothing changes"
+   ],
+   "why": "The demand curve shifts left and slides down the supply curve."
+  },
+  {
+   "id": "r6-10",
+   "q": "Idaho hunt tags given by drawing are rationed by:",
+   "a": "Lottery",
+   "wrong": [
+    "Price",
+    "Need",
+    "Seniority"
+   ],
+   "why": "A lottery gives everyone a chance, regardless of willingness to pay."
+  }
+ ],
+ "7": [
+  {
+   "id": "r7-1",
+   "q": "What are the four market structures?",
+   "a": "Perfect competition, monopolistic competition, oligopoly, monopoly",
+   "wrong": [
+    "Traditional, command, market, mixed",
+    "Land, labor, capital, entrepreneurship",
+    "Sole proprietorship, partnership, corporation, co-op"
+   ],
+   "why": "They're sorted by number of sellers, product sameness, and ease of entry."
+  },
+  {
+   "id": "r7-2",
+   "q": "A coffee shop that says its latte is special is using:",
+   "a": "Product differentiation",
+   "wrong": [
+    "Price fixing",
+    "A patent",
+    "Collusion"
+   ],
+   "why": "Standing out lets it charge a little more."
+  },
+  {
+   "id": "r7-3",
+   "q": "An oligopoly has:",
+   "a": "A few large sellers",
+   "wrong": [
+    "One seller",
+    "Many small sellers",
+    "No sellers"
+   ],
+   "why": "Airlines and cell carriers are good examples."
+  },
+  {
+   "id": "r7-4",
+   "q": "Why is price fixing a problem?",
+   "a": "It raises prices for consumers by killing competition",
+   "wrong": [
+    "It lowers prices too much",
+    "It helps small businesses",
+    "It's required by law"
+   ],
+   "why": "It's illegal under antitrust laws."
+  },
+  {
+   "id": "r7-5",
+   "q": "Why are utilities often natural monopolies?",
+   "a": "Building duplicate pipes and lines would be wasteful",
+   "wrong": [
+    "People don't need power",
+    "They have patents on electricity",
+    "The Fed requires it"
+   ],
+   "why": "One provider is cheapest, so governments regulate prices instead."
+  },
+  {
+   "id": "r7-6",
+   "q": "A patent rewards inventors by:",
+   "a": "Giving them sole rights for about 20 years",
+   "wrong": [
+    "Paying them a salary",
+    "Lowering their taxes forever",
+    "Making their product free"
+   ],
+   "why": "The reward encourages new inventions."
+  },
+  {
+   "id": "r7-7",
+   "q": "A price taker is:",
+   "a": "A seller who must accept the market price",
+   "wrong": [
+    "A seller who sets prices",
+    "A thief",
+    "A tax collector"
+   ],
+   "why": "In perfect competition, no single seller can change the price."
+  },
+  {
+   "id": "r7-8",
+   "q": "What are antitrust laws for?",
+   "a": "Protecting competition",
+   "wrong": [
+    "Creating monopolies",
+    "Raising taxes",
+    "Setting interest rates"
+   ],
+   "why": "The Sherman Act of 1890 was the first big one."
+  },
+  {
+   "id": "r7-9",
+   "q": "Which is the BEST example of perfect competition?",
+   "a": "Many farmers selling identical wheat",
+   "wrong": [
+    "One water company in a town",
+    "Three major cell carriers",
+    "A famous designer brand"
+   ],
+   "why": "Many sellers, identical product, no control over price."
+  },
+  {
+   "id": "r7-10",
+   "q": "What is a cartel?",
+   "a": "A group of sellers working together to control prices and output",
+   "wrong": [
+    "A single company with a patent",
+    "A government regulator",
+    "A type of bank"
+   ],
+   "why": "OPEC works this way with oil."
+  }
+ ],
+ "8": [
+  {
+   "id": "r8-1",
+   "q": "What is the formula for profit?",
+   "a": "Revenue minus costs",
+   "wrong": [
+    "Costs minus revenue",
+    "Revenue times costs",
+    "Price plus taxes"
+   ],
+   "why": "If costs are bigger than revenue, it's a loss."
+  },
+  {
+   "id": "r8-2",
+   "q": "What is the main risk of a sole proprietorship?",
+   "a": "Unlimited liability",
+   "wrong": [
+    "Double taxation",
+    "Too many owners",
+    "Selling stock"
+   ],
+   "why": "The owner's personal stuff can be taken to pay business debts."
+  },
+  {
+   "id": "r8-3",
+   "q": "Why do big businesses form corporations?",
+   "a": "Limited liability and the ability to raise money by selling stock",
+   "wrong": [
+    "It's cheaper and simpler than other forms",
+    "They avoid all taxes",
+    "They can't be sued"
+   ],
+   "why": "But they face more rules and double taxation."
+  },
+  {
+   "id": "r8-4",
+   "q": "What is a stockholder?",
+   "a": "An owner of part of a corporation",
+   "wrong": [
+    "A store's warehouse manager",
+    "A government official",
+    "A lender"
+   ],
+   "why": "Stock = a small piece of ownership."
+  },
+  {
+   "id": "r8-5",
+   "q": "What is double taxation?",
+   "a": "Corporate profit taxed, then dividends taxed again",
+   "wrong": [
+    "Paying sales tax twice",
+    "Paying tax in two states",
+    "A tax on partnerships"
+   ],
+   "why": "Corporations pay tax, then owners pay tax on their payouts."
+  },
+  {
+   "id": "r8-6",
+   "q": "A franchise lets you:",
+   "a": "Use a big company's name and system for a fee",
+   "wrong": [
+    "Avoid all rules",
+    "Print money",
+    "Own a monopoly"
+   ],
+   "why": "You get a proven brand but follow their rules."
+  },
+  {
+   "id": "r8-7",
+   "q": "Credit unions are an example of a:",
+   "a": "Cooperative",
+   "wrong": [
+    "Monopoly",
+    "Sole proprietorship",
+    "Franchise"
+   ],
+   "why": "They're owned by their members."
+  },
+  {
+   "id": "r8-8",
+   "q": "What does an entrepreneur do?",
+   "a": "Combines resources, takes risks, and innovates",
+   "wrong": [
+    "Only works for a paycheck",
+    "Only lends money",
+    "Sets interest rates"
+   ],
+   "why": "Entrepreneurship is a factor of production."
+  },
+  {
+   "id": "r8-9",
+   "q": "Which business form is easiest to start?",
+   "a": "Sole proprietorship",
+   "wrong": [
+    "Corporation",
+    "Multinational corporation",
+    "Cooperative"
+   ],
+   "why": "One owner, little paperwork."
+  },
+  {
+   "id": "r8-10",
+   "q": "A company with factories and stores in many countries is a:",
+   "a": "Multinational corporation",
+   "wrong": [
+    "Sole proprietorship",
+    "Partnership",
+    "Nonprofit"
+   ],
+   "why": "Big corporations often grow across borders."
+  }
+ ],
+ "9": [
+  {
+   "id": "r9-1",
+   "q": "Who demands labor?",
+   "a": "Employers",
+   "wrong": [
+    "Workers",
+    "Unions",
+    "Consumers directly"
+   ],
+   "why": "Businesses hire workers to make what customers want."
+  },
+  {
+   "id": "r9-2",
+   "q": "Why does more training usually mean higher pay?",
+   "a": "Fewer people have the skills, so supply is lower",
+   "wrong": [
+    "The government requires it",
+    "Training is free",
+    "Employers like diplomas"
+   ],
+   "why": "Low supply plus high demand pushes wages up."
+  },
+  {
+   "id": "r9-3",
+   "q": "What is collective bargaining?",
+   "a": "A union negotiating for all its workers",
+   "wrong": [
+    "One worker asking for a raise",
+    "A store sale",
+    "A government tax"
+   ],
+   "why": "Workers bargain as a group instead of alone."
+  },
+  {
+   "id": "r9-4",
+   "q": "What does right-to-work mean in Idaho?",
+   "a": "No one can be forced to join a union to keep a job",
+   "wrong": [
+    "Unions are banned",
+    "Everyone gets a job",
+    "Employers can't fire anyone"
+   ],
+   "why": "It's a law about union membership and fees."
+  },
+  {
+   "id": "r9-5",
+   "q": "Gross pay minus deductions equals:",
+   "a": "Net pay",
+   "wrong": [
+    "Salary",
+    "Profit",
+    "Revenue"
+   ],
+   "why": "Net pay is what actually lands in your account."
+  },
+  {
+   "id": "r9-6",
+   "q": "FICA pays for:",
+   "a": "Social Security and Medicare",
+   "wrong": [
+    "Roads and bridges",
+    "State parks",
+    "Public schools"
+   ],
+   "why": "It's 6.2% plus 1.45% of your pay."
+  },
+  {
+   "id": "r9-7",
+   "q": "What is derived demand?",
+   "a": "Demand for workers that comes from demand for what they make",
+   "wrong": [
+    "Demand for luxury goods",
+    "Demand set by government",
+    "Demand that never changes"
+   ],
+   "why": "No customers buying houses, no need for carpenters."
+  },
+  {
+   "id": "r9-8",
+   "q": "Which is a job benefit?",
+   "a": "A 401(k) with employer match",
+   "wrong": [
+    "Overtime pay",
+    "A tip",
+    "Sales tax"
+   ],
+   "why": "Benefits are extras beyond wages."
+  },
+  {
+   "id": "r9-9",
+   "q": "Where should you check that your taxes were taken out correctly?",
+   "a": "Your pay stub",
+   "wrong": [
+    "Your report card",
+    "Your bank's website ad",
+    "Your W-2 from five years ago"
+   ],
+   "why": "The pay stub lists every deduction."
+  },
+  {
+   "id": "r9-10",
+   "q": "What happened to U.S. union membership since the 1950s?",
+   "a": "It fell to about 10 percent of workers",
+   "wrong": [
+    "It doubled",
+    "It stayed the same",
+    "Unions became illegal"
+   ],
+   "why": "Union membership has declined over decades."
+  }
+ ],
+ "10": [
+  {
+   "id": "r10-1",
+   "q": "What are the three jobs of money?",
+   "a": "Medium of exchange, store of value, unit of account",
+   "wrong": [
+    "Earn interest, pay taxes, buy stock",
+    "Print, spend, save",
+    "Barter, trade, lend"
+   ],
+   "why": "Money makes trade, saving, and comparing prices easy."
+  },
+  {
+   "id": "r10-2",
+   "q": "Why is barter hard?",
+   "a": "Both people must want exactly what the other has",
+   "wrong": [
+    "It's illegal",
+    "It uses too much money",
+    "Prices are too low"
+   ],
+   "why": "That's the double coincidence of wants."
+  },
+  {
+   "id": "r10-3",
+   "q": "What kind of money is the U.S. dollar today?",
+   "a": "Fiat money",
+   "wrong": [
+    "Commodity money",
+    "Gold-backed money",
+    "Barter money"
+   ],
+   "why": "It's valuable because people trust it and the government accepts it."
+  },
+  {
+   "id": "r10-4",
+   "q": "What is fractional reserve banking?",
+   "a": "Banks keep part of deposits and lend the rest",
+   "wrong": [
+    "Banks keep all deposits locked away",
+    "Banks only lend to friends",
+    "Banks print their own money"
+   ],
+   "why": "Lending deposits out is how banks create money."
+  },
+  {
+   "id": "r10-5",
+   "q": "What does the FDIC do?",
+   "a": "Insures bank deposits up to $250,000",
+   "wrong": [
+    "Sets interest rates",
+    "Prints money",
+    "Collects taxes"
+   ],
+   "why": "No one has lost insured deposits since 1933."
+  },
+  {
+   "id": "r10-6",
+   "q": "How do banks earn a profit?",
+   "a": "Charging borrowers more interest than they pay savers",
+   "wrong": [
+    "Getting paid by the government",
+    "Charging admission",
+    "Printing money"
+   ],
+   "why": "The difference between the two rates is the bank's income."
+  },
+  {
+   "id": "r10-7",
+   "q": "What is a bank run?",
+   "a": "Many people withdrawing money at once out of fear",
+   "wrong": [
+    "A bank's marathon",
+    "A bank opening a new branch",
+    "A loan for running shoes"
+   ],
+   "why": "It happened often in the Great Depression."
+  },
+  {
+   "id": "r10-8",
+   "q": "Which is a credit union?",
+   "a": "A member-owned, nonprofit financial co-op",
+   "wrong": [
+    "A government-run bank",
+    "A stock exchange",
+    "A pawn shop"
+   ],
+   "why": "Members are owners, which often means lower fees."
+  },
+  {
+   "id": "r10-9",
+   "q": "Which characteristic means money can be split into small amounts?",
+   "a": "Divisible",
+   "wrong": [
+    "Durable",
+    "Portable",
+    "Uniform"
+   ],
+   "why": "You can make change for a $20."
+  },
+  {
+   "id": "r10-10",
+   "q": "What is in M1?",
+   "a": "Cash, checking, and savings deposits",
+   "wrong": [
+    "Houses",
+    "Stocks",
+    "Gold bars only"
+   ],
+   "why": "M1 is money you can spend right away."
+  }
+ ],
+ "11": [
+  {
+   "id": "r11-1",
+   "q": "What's the main difference between checking and savings?",
+   "a": "Checking is for spending; savings is for growing money",
+   "wrong": [
+    "Savings has a debit card; checking doesn't",
+    "Checking always pays more interest",
+    "There is no difference"
+   ],
+   "why": "Each account has a different job."
+  },
+  {
+   "id": "r11-2",
+   "q": "How can you avoid overdraft fees?",
+   "a": "Track your balance and opt out of overdraft coverage",
+   "wrong": [
+    "Spend more often",
+    "Use cash only at ATMs",
+    "Never check your balance"
+   ],
+   "why": "Opting out means the card is declined instead of charging a fee."
+  },
+  {
+   "id": "r11-3",
+   "q": "What does APY include?",
+   "a": "Compound interest over a year",
+   "wrong": [
+    "Monthly fees",
+    "Overdraft charges",
+    "Sales tax"
+   ],
+   "why": "It shows the true yearly return on savings."
+  },
+  {
+   "id": "r11-4",
+   "q": "Why does a CD pay more than regular savings?",
+   "a": "You agree to leave your money in for a set time",
+   "wrong": [
+    "It's not insured",
+    "It's a type of stock",
+    "It charges no penalty"
+   ],
+   "why": "Less access, higher reward."
+  },
+  {
+   "id": "r11-5",
+   "q": "What should your first savings goal be?",
+   "a": "An emergency fund",
+   "wrong": [
+    "A sports car",
+    "Cryptocurrency",
+    "A vacation"
+   ],
+   "why": "It keeps a surprise bill from becoming debt."
+  },
+  {
+   "id": "r11-6",
+   "q": "Which is a sign of phishing?",
+   "a": "A surprise text asking you to click a link and enter your PIN",
+   "wrong": [
+    "A monthly statement in your app",
+    "A deposit notification you expected",
+    "Your bank's official app"
+   ],
+   "why": "Banks never ask for PINs or codes."
+  },
+  {
+   "id": "r11-7",
+   "q": "Why compare banks before opening an account?",
+   "a": "Fees and interest rates vary a lot",
+   "wrong": [
+    "All banks are exactly the same",
+    "It's required by law",
+    "It raises your credit score"
+   ],
+   "why": "A no-fee account can save you over $100 a year."
+  },
+  {
+   "id": "r11-8",
+   "q": "What does reconciling an account do?",
+   "a": "Catches errors and fraud by matching your records to the bank's",
+   "wrong": [
+    "Closes the account",
+    "Earns extra interest",
+    "Lowers taxes"
+   ],
+   "why": "Check your statement every month."
+  },
+  {
+   "id": "r11-9",
+   "q": "Is cryptocurrency insured by the FDIC?",
+   "a": "No, and its price can swing a lot",
+   "wrong": [
+    "Yes, up to $250,000",
+    "Yes, without any limit",
+    "Only on weekends"
+   ],
+   "why": "Treat crypto as high-risk."
+  },
+  {
+   "id": "r11-10",
+   "q": "What is direct deposit?",
+   "a": "Your pay going straight into your account",
+   "wrong": [
+    "Cashing a check at a store",
+    "A loan from your boss",
+    "A bank fee"
+   ],
+   "why": "It's faster and safer than paper checks."
+  }
+ ],
+ "12": [
+  {
+   "id": "r12-1",
+   "q": "What's the difference between saving and investing?",
+   "a": "Saving is safe and slow; investing can grow more but has risk",
+   "wrong": [
+    "They're the same thing",
+    "Investing is always safe",
+    "Saving always earns more"
+   ],
+   "why": "Use savings for short-term goals and investing for long-term goals."
+  },
+  {
+   "id": "r12-2",
+   "q": "What does the Rule of 72 estimate?",
+   "a": "How many years it takes money to double",
+   "wrong": [
+    "How much tax you owe",
+    "Your credit score",
+    "The price of a stock"
+   ],
+   "why": "Divide 72 by the interest rate."
+  },
+  {
+   "id": "r12-3",
+   "q": "What is a stock?",
+   "a": "A small piece of ownership in a company",
+   "wrong": [
+    "A loan to the government",
+    "A bank account",
+    "A type of insurance"
+   ],
+   "why": "Stockholders own part of the company."
+  },
+  {
+   "id": "r12-4",
+   "q": "What is a bond?",
+   "a": "A loan to a government or company that pays interest",
+   "wrong": [
+    "A share of ownership",
+    "A credit card",
+    "A tax refund"
+   ],
+   "why": "You get interest and your face value back at maturity."
+  },
+  {
+   "id": "r12-5",
+   "q": "Why diversify?",
+   "a": "So one bad investment doesn't sink you",
+   "wrong": [
+    "To pay more fees",
+    "To guarantee profit",
+    "To avoid taxes"
+   ],
+   "why": "Spread your eggs across many baskets."
+  },
+  {
+   "id": "r12-6",
+   "q": "Why does Ava (who invested from 18 to 28) beat Ben (who invested from 28 to 65)?",
+   "a": "Her money had more years to compound",
+   "wrong": [
+    "She picked a lucky stock",
+    "She paid less in taxes",
+    "She invested more total money"
+   ],
+   "why": "Time is compound interest's superpower."
+  },
+  {
+   "id": "r12-7",
+   "q": "What is an index fund?",
+   "a": "A low-cost fund that buys every stock in an index",
+   "wrong": [
+    "A single company's stock",
+    "A type of loan",
+    "A savings account"
+   ],
+   "why": "It's diversification in one purchase."
+  },
+  {
+   "id": "r12-8",
+   "q": "What should you do with a 401(k) match?",
+   "a": "Contribute enough to get it all",
+   "wrong": [
+    "Skip it",
+    "Spend it",
+    "Give it back"
+   ],
+   "why": "A match is free money."
+  },
+  {
+   "id": "r12-9",
+   "q": "What's a red flag for an investment scam?",
+   "a": "Guaranteed high returns with no risk",
+   "wrong": [
+    "Low fees",
+    "Diversification",
+    "FDIC insurance"
+   ],
+   "why": "Real investments always carry some risk."
+  },
+  {
+   "id": "r12-10",
+   "q": "Which fits money you need in 40 years?",
+   "a": "A diversified, low-cost index fund",
+   "wrong": [
+    "A checking account",
+    "Cash in a drawer",
+    "A 6-month CD"
+   ],
+   "why": "A long time horizon can ride out the ups and downs."
+  }
+ ],
+ "13": [
+  {
+   "id": "r13-1",
+   "q": "What's the difference between fixed and variable expenses?",
+   "a": "Fixed stay the same each month; variable change",
+   "wrong": [
+    "Fixed are wants; variable are needs",
+    "Fixed are taxes; variable are savings",
+    "There is no difference"
+   ],
+   "why": "Rent is fixed; groceries vary."
+  },
+  {
+   "id": "r13-2",
+   "q": "What does the 50/30/20 rule split?",
+   "a": "Needs, wants, savings",
+   "wrong": [
+    "Taxes, rent, food",
+    "Income, expenses, debt",
+    "Stocks, bonds, cash"
+   ],
+   "why": "It's a simple starting guide for a budget."
+  },
+  {
+   "id": "r13-3",
+   "q": "What makes a goal SMART?",
+   "a": "Specific, measurable, achievable, relevant, time-bound",
+   "wrong": [
+    "Small, minor, average, realistic, temporary",
+    "Simple, monthly, annual, regular, total",
+    "Safe, money, account, rate, time"
+   ],
+   "why": "\"Save $1,800 by July\" beats \"save money.\""
+  },
+  {
+   "id": "r13-4",
+   "q": "What does pay yourself first mean?",
+   "a": "Save right when you're paid, before spending",
+   "wrong": [
+    "Buy yourself a treat every payday",
+    "Pay bills before rent",
+    "Borrow from savings"
+   ],
+   "why": "Treat savings like a bill."
+  },
+  {
+   "id": "r13-5",
+   "q": "Why compare unit prices?",
+   "a": "The bigger package isn't always cheaper per ounce",
+   "wrong": [
+    "It lowers sales tax",
+    "Stores require it",
+    "It raises your credit score"
+   ],
+   "why": "Price per unit shows the real deal."
+  },
+  {
+   "id": "r13-6",
+   "q": "What is net price for college?",
+   "a": "Cost after grants and scholarships",
+   "wrong": [
+    "The full sticker price",
+    "The cost of dorm food only",
+    "The price after loans"
+   ],
+   "why": "Use each college's net price calculator."
+  },
+  {
+   "id": "r13-7",
+   "q": "Why fill out the FAFSA?",
+   "a": "To qualify for federal grants, work-study, and loans",
+   "wrong": [
+    "To get a credit card",
+    "To pay taxes",
+    "To get a job"
+   ],
+   "why": "Fill it out every year you're in school."
+  },
+  {
+   "id": "r13-8",
+   "q": "Why do used cars often save money?",
+   "a": "New cars lose value fast in the first few years",
+   "wrong": [
+    "Used cars never need repairs",
+    "Used cars have no insurance",
+    "Used cars are tax-free"
+   ],
+   "why": "Depreciation hits hardest early."
+  },
+  {
+   "id": "r13-9",
+   "q": "What is a personal budget deficit?",
+   "a": "Spending more than you earn",
+   "wrong": [
+    "Earning more than you spend",
+    "Having no debt",
+    "A type of savings account"
+   ],
+   "why": "Cut expenses or earn more to fix it."
+  },
+  {
+   "id": "r13-10",
+   "q": "Which is a common advertising trick?",
+   "a": "\"Only 2 left!\" pressure messages",
+   "wrong": [
+    "A clear unit price label",
+    "An honest review",
+    "A posted return policy"
+   ],
+   "why": "Urgency makes people buy without thinking."
+  }
+ ],
+ "14": [
+  {
+   "id": "r14-1",
+   "q": "What is APR?",
+   "a": "The yearly cost of borrowing, including interest and some fees",
+   "wrong": [
+    "Your credit score",
+    "Your monthly payment",
+    "A type of bank"
+   ],
+   "why": "Use APR to compare loans side by side."
+  },
+  {
+   "id": "r14-2",
+   "q": "What's the golden rule of credit cards?",
+   "a": "Pay the full balance every month",
+   "wrong": [
+    "Only pay the minimum",
+    "Max out your limit",
+    "Open as many as possible"
+   ],
+   "why": "Paying in full means no interest."
+  },
+  {
+   "id": "r14-3",
+   "q": "What is collateral?",
+   "a": "Something the lender can take if you don't pay",
+   "wrong": [
+    "Your interest rate",
+    "A free gift",
+    "A type of credit card"
+   ],
+   "why": "A car backs a car loan; a house backs a mortgage."
+  },
+  {
+   "id": "r14-4",
+   "q": "What is the biggest part of a FICO score?",
+   "a": "Payment history",
+   "wrong": [
+    "Credit mix",
+    "Income",
+    "Number of bank accounts"
+   ],
+   "why": "On-time payments matter most, about 35%."
+  },
+  {
+   "id": "r14-5",
+   "q": "Why does a good credit score matter?",
+   "a": "It gets you lower interest rates and helps with renting",
+   "wrong": [
+    "It lowers your taxes",
+    "It increases your paycheck",
+    "It's required to open savings"
+   ],
+   "why": "A better rate can save thousands."
+  },
+  {
+   "id": "r14-6",
+   "q": "Why avoid payday loans?",
+   "a": "Their huge fees trap people in debt",
+   "wrong": [
+    "They have low rates",
+    "They build credit fast",
+    "They're federally insured"
+   ],
+   "why": "Fees can equal 300%+ APR."
+  },
+  {
+   "id": "r14-7",
+   "q": "What is credit utilization?",
+   "a": "The share of your credit limit you're using",
+   "wrong": [
+    "How many loans you have",
+    "Your total income",
+    "The age of your accounts"
+   ],
+   "why": "Keep it under 30%, lower is better."
+  },
+  {
+   "id": "r14-8",
+   "q": "How can a teen start building credit?",
+   "a": "Authorized user or a secured card paid in full",
+   "wrong": [
+    "A payday loan",
+    "Missing payments on purpose",
+    "Opening ten cards in a week"
+   ],
+   "why": "Small, steady, on-time payments build history."
+  },
+  {
+   "id": "r14-9",
+   "q": "Where can you get free credit reports?",
+   "a": "AnnualCreditReport.com",
+   "wrong": [
+    "A car dealership",
+    "Social media",
+    "The Federal Reserve"
+   ],
+   "why": "Check for errors and signs of identity theft."
+  },
+  {
+   "id": "r14-10",
+   "q": "What's the difference between installment and revolving credit?",
+   "a": "Installment has fixed payments; revolving lets you borrow again up to a limit",
+   "wrong": [
+    "They're the same",
+    "Revolving is only for houses",
+    "Installment has no interest"
+   ],
+   "why": "Car loan vs. credit card."
+  }
+ ],
+ "15": [
+  {
+   "id": "r15-1",
+   "q": "How does insurance work?",
+   "a": "Many people pay premiums so the few who have losses get paid",
+   "wrong": [
+    "The government pays everyone's bills",
+    "You get all your premiums back",
+    "Nobody ever has a loss"
+   ],
+   "why": "It turns a big, uncertain cost into a small, certain one."
+  },
+  {
+   "id": "r15-2",
+   "q": "What's a deductible?",
+   "a": "What you pay before insurance pays",
+   "wrong": [
+    "The monthly payment",
+    "The coverage limit",
+    "The insurance company's name"
+   ],
+   "why": "Pick one you could cover from savings."
+  },
+  {
+   "id": "r15-3",
+   "q": "Higher deductible usually means:",
+   "a": "Lower premium",
+   "wrong": [
+    "Higher premium",
+    "No coverage",
+    "Better coverage"
+   ],
+   "why": "You're keeping more of the risk yourself."
+  },
+  {
+   "id": "r15-4",
+   "q": "What does Idaho require every driver to have?",
+   "a": "Auto liability insurance",
+   "wrong": [
+    "Comprehensive coverage",
+    "Life insurance",
+    "Renters insurance"
+   ],
+   "why": "Liability pays for damage you cause others."
+  },
+  {
+   "id": "r15-5",
+   "q": "What does collision coverage pay for?",
+   "a": "Fixing your own car after a crash",
+   "wrong": [
+    "The other driver's car only",
+    "Theft",
+    "Your medical bills"
+   ],
+   "why": "Comprehensive covers non-crash damage like hail."
+  },
+  {
+   "id": "r15-6",
+   "q": "What's an out-of-pocket maximum?",
+   "a": "The most you pay for covered care in a year",
+   "wrong": [
+    "Your monthly premium",
+    "The cost of one visit",
+    "Your deductible"
+   ],
+   "why": "After you hit it, the plan pays 100% of covered costs."
+  },
+  {
+   "id": "r15-7",
+   "q": "Who usually needs life insurance most?",
+   "a": "People whose income supports others, like parents",
+   "wrong": [
+    "Teenagers with no dependents",
+    "Pets",
+    "Businesses with no employees"
+   ],
+   "why": "It replaces income for people who depend on you."
+  },
+  {
+   "id": "r15-8",
+   "q": "Why get renters insurance?",
+   "a": "The landlord's policy doesn't cover your belongings",
+   "wrong": [
+    "It covers the building's roof",
+    "It's required for a driver's license",
+    "It pays your rent"
+   ],
+   "why": "It's usually cheap and covers your stuff."
+  },
+  {
+   "id": "r15-9",
+   "q": "Who protects consumers from scams and false ads?",
+   "a": "The FTC",
+   "wrong": [
+    "The Federal Reserve",
+    "The FDIC",
+    "The stock exchange"
+   ],
+   "why": "The CFPB handles banking and credit complaints."
+  },
+  {
+   "id": "r15-10",
+   "q": "What's a red flag for a scam?",
+   "a": "Being asked to pay with gift cards",
+   "wrong": [
+    "A posted return policy",
+    "A written warranty",
+    "A receipt"
+   ],
+   "why": "Real businesses and agencies never demand gift cards."
+  }
+ ],
+ "16": [
+  {
+   "id": "r16-1",
+   "q": "What does GDP measure?",
+   "a": "The value of final goods and services made in a country in a year",
+   "wrong": [
+    "The money in all bank accounts",
+    "The national debt",
+    "The stock market"
+   ],
+   "why": "It's the biggest measure of an economy's size."
+  },
+  {
+   "id": "r16-2",
+   "q": "Why don't used goods count in GDP?",
+   "a": "They were already counted when new",
+   "wrong": [
+    "They're worthless",
+    "They're illegal",
+    "They're imported"
+   ],
+   "why": "GDP counts new production only."
+  },
+  {
+   "id": "r16-3",
+   "q": "What's the GDP formula?",
+   "a": "C + I + G + (X - M)",
+   "wrong": [
+    "P x Q",
+    "Revenue - Costs",
+    "Assets - Liabilities"
+   ],
+   "why": "Consumption, investment, government, net exports."
+  },
+  {
+   "id": "r16-4",
+   "q": "What is real GDP?",
+   "a": "GDP adjusted for inflation",
+   "wrong": [
+    "GDP per person",
+    "GDP in current prices",
+    "GDP of the government"
+   ],
+   "why": "It shows if we really made more stuff."
+  },
+  {
+   "id": "r16-5",
+   "q": "What's the biggest part of U.S. GDP?",
+   "a": "Consumer spending",
+   "wrong": [
+    "Government purchases",
+    "Net exports",
+    "Business investment"
+   ],
+   "why": "About two-thirds of GDP."
+  },
+  {
+   "id": "r16-6",
+   "q": "Does buying stock count as investment in GDP?",
+   "a": "No, investment means new capital like machines and buildings",
+   "wrong": [
+    "Yes, always",
+    "Only in Idaho",
+    "Only for big companies"
+   ],
+   "why": "Stocks just change ownership."
+  },
+  {
+   "id": "r16-7",
+   "q": "What does GDP per capita show?",
+   "a": "Average output per person, useful for comparing living standards",
+   "wrong": [
+    "Total output",
+    "Exports per year",
+    "The tax rate"
+   ],
+   "why": "Divide GDP by population."
+  },
+  {
+   "id": "r16-8",
+   "q": "Name one thing GDP leaves out.",
+   "a": "Unpaid work like caring for family",
+   "wrong": [
+    "New cars",
+    "Restaurant meals",
+    "New houses"
+   ],
+   "why": "GDP also misses pollution, leisure, and inequality."
+  },
+  {
+   "id": "r16-9",
+   "q": "What causes long-run growth?",
+   "a": "More capital, more human capital, and better technology",
+   "wrong": [
+    "Higher prices",
+    "Printing more money",
+    "Banning trade"
+   ],
+   "why": "Growth shifts the PPC outward."
+  },
+  {
+   "id": "r16-10",
+   "q": "Is a car made in Mexico by a U.S. company part of U.S. GDP?",
+   "a": "No, it's made outside the U.S.",
+   "wrong": [
+    "Yes, because the company is American",
+    "Yes, if it's sold in Idaho",
+    "Only if it's red"
+   ],
+   "why": "GDP is about where it's produced."
+  }
+ ],
+ "17": [
+  {
+   "id": "r17-1",
+   "q": "How do you calculate the unemployment rate?",
+   "a": "Unemployed ÷ labor force × 100",
+   "wrong": [
+    "Unemployed ÷ total population",
+    "Employed ÷ unemployed",
+    "Labor force × 100"
+   ],
+   "why": "Only people working or looking are in the labor force."
+  },
+  {
+   "id": "r17-2",
+   "q": "Which type of unemployment comes from a recession?",
+   "a": "Cyclical",
+   "wrong": [
+    "Frictional",
+    "Seasonal",
+    "Structural"
+   ],
+   "why": "It rises and falls with the business cycle."
+  },
+  {
+   "id": "r17-3",
+   "q": "What is structural unemployment?",
+   "a": "Skills don't match the jobs available",
+   "wrong": [
+    "Between jobs for a short time",
+    "Jobs that change with the seasons",
+    "Caused by a recession"
+   ],
+   "why": "Retraining is often the fix."
+  },
+  {
+   "id": "r17-4",
+   "q": "What does the CPI measure?",
+   "a": "Price changes for a typical household's basket of goods",
+   "wrong": [
+    "Jobs",
+    "GDP",
+    "Interest rates"
+   ],
+   "why": "The percent change in CPI is the inflation rate."
+  },
+  {
+   "id": "r17-5",
+   "q": "What inflation rate does the Fed aim for?",
+   "a": "About 2 percent",
+   "wrong": [
+    "0 percent",
+    "10 percent",
+    "Whatever Congress picks each year"
+   ],
+   "why": "A little inflation is considered normal."
+  },
+  {
+   "id": "r17-6",
+   "q": "Who is hurt by inflation?",
+   "a": "Savers earning low interest and people on fixed incomes",
+   "wrong": [
+    "Borrowers with fixed-rate loans",
+    "Nobody",
+    "Only businesses"
+   ],
+   "why": "Their money buys less over time."
+  },
+  {
+   "id": "r17-7",
+   "q": "What's demand-pull inflation?",
+   "a": "Too much spending chasing too few goods",
+   "wrong": [
+    "Rising costs of production",
+    "Falling prices",
+    "A tax on spending"
+   ],
+   "why": "Sellers raise prices when demand outruns supply."
+  },
+  {
+   "id": "r17-8",
+   "q": "What's a real wage?",
+   "a": "Pay adjusted for inflation",
+   "wrong": [
+    "Pay before taxes",
+    "Pay in cash",
+    "Pay including tips"
+   ],
+   "why": "A raise smaller than inflation is a real pay cut."
+  },
+  {
+   "id": "r17-9",
+   "q": "Why is the unemployment rate never zero?",
+   "a": "There's always some frictional and structural unemployment",
+   "wrong": [
+    "The government requires it",
+    "Nobody wants to work",
+    "Retirees are counted"
+   ],
+   "why": "That leftover rate is the natural rate."
+  },
+  {
+   "id": "r17-10",
+   "q": "What's hyperinflation?",
+   "a": "Prices rising extremely fast and out of control",
+   "wrong": [
+    "Prices falling",
+    "Low, steady inflation",
+    "High employment"
+   ],
+   "why": "Germany in 1923 and Zimbabwe are famous examples."
+  }
+ ],
+ "18": [
+  {
+   "id": "r18-1",
+   "q": "What are the four phases of the business cycle?",
+   "a": "Expansion, peak, contraction, trough",
+   "wrong": [
+    "Boom, bust, bubble, burst",
+    "Supply, demand, price, quantity",
+    "Save, spend, borrow, invest"
+   ],
+   "why": "The economy rises and falls in waves."
+  },
+  {
+   "id": "r18-2",
+   "q": "What is a recession?",
+   "a": "A significant, widespread decline in economic activity",
+   "wrong": [
+    "A rise in prices",
+    "A strong expansion",
+    "A tax increase"
+   ],
+   "why": "Two quarters of falling real GDP is a common rule of thumb."
+  },
+  {
+   "id": "r18-3",
+   "q": "What ended the Great Depression?",
+   "a": "Massive spending for World War II",
+   "wrong": [
+    "The dot-com bubble",
+    "Lower tariffs alone",
+    "Cryptocurrency"
+   ],
+   "why": "War production put millions back to work."
+  },
+  {
+   "id": "r18-4",
+   "q": "What caused the Great Recession?",
+   "a": "Risky home loans and a financial crisis",
+   "wrong": [
+    "A pandemic",
+    "A world war",
+    "High tariffs"
+   ],
+   "why": "Falling home prices made loans go bad."
+  },
+  {
+   "id": "r18-5",
+   "q": "What's a leading indicator?",
+   "a": "A statistic that changes before the economy does",
+   "wrong": [
+    "The unemployment rate",
+    "A statistic that changes after the economy does",
+    "A tax rate"
+   ],
+   "why": "Building permits and stock prices are examples."
+  },
+  {
+   "id": "r18-6",
+   "q": "What's an external shock?",
+   "a": "A surprise outside event like a pandemic or war",
+   "wrong": [
+    "A planned tax change",
+    "A normal expansion",
+    "A bank holiday"
+   ],
+   "why": "Shocks can push the economy into a recession."
+  },
+  {
+   "id": "r18-7",
+   "q": "What's a bubble?",
+   "a": "Prices rising far above real value, then crashing",
+   "wrong": [
+    "Steady growth",
+    "Falling prices",
+    "A savings account"
+   ],
+   "why": "The dot-com bubble burst in 2000."
+  },
+  {
+   "id": "r18-8",
+   "q": "How can consumer confidence affect the cycle?",
+   "a": "Worried people spend less, which slows the economy",
+   "wrong": [
+    "It has no effect",
+    "Worried people spend more",
+    "It only affects taxes"
+   ],
+   "why": "Expectations can become self-fulfilling."
+  },
+  {
+   "id": "r18-9",
+   "q": "Which recession was the shortest on record?",
+   "a": "The COVID-19 recession of 2020",
+   "wrong": [
+    "The Great Depression",
+    "The Great Recession",
+    "The 1873 panic"
+   ],
+   "why": "It lasted about two months."
+  },
+  {
+   "id": "r18-10",
+   "q": "What is the trough?",
+   "a": "The bottom of the cycle, before recovery",
+   "wrong": [
+    "The top of the cycle",
+    "A long expansion",
+    "A rise in inflation"
+   ],
+   "why": "Recovery starts from the trough."
+  }
+ ],
+ "19": [
+  {
+   "id": "r19-1",
+   "q": "What's a progressive tax?",
+   "a": "Higher incomes pay a higher percentage",
+   "wrong": [
+    "Everyone pays the same percentage",
+    "Lower incomes pay a higher share",
+    "A tax only on businesses"
+   ],
+   "why": "The federal income tax is progressive."
+  },
+  {
+   "id": "r19-2",
+   "q": "What kind of income tax does Idaho have?",
+   "a": "A flat 5.3 percent",
+   "wrong": [
+    "Progressive up to 37 percent",
+    "None",
+    "Regressive"
+   ],
+   "why": "Everyone pays the same rate on taxable income."
+  },
+  {
+   "id": "r19-3",
+   "q": "Why is sales tax regressive?",
+   "a": "It takes a bigger share of lower incomes",
+   "wrong": [
+    "Rich people pay a higher rate",
+    "It only taxes luxury goods",
+    "It's paid once a year"
+   ],
+   "why": "$60 tax is a bigger bite from a smaller income."
+  },
+  {
+   "id": "r19-4",
+   "q": "What does property tax mainly fund?",
+   "a": "Local schools, roads, police, and fire",
+   "wrong": [
+    "The U.S. military",
+    "Social Security",
+    "The Federal Reserve"
+   ],
+   "why": "It's paid to counties, cities, and school districts."
+  },
+  {
+   "id": "r19-5",
+   "q": "What's the benefits-received principle?",
+   "a": "Those who use a service pay for it",
+   "wrong": [
+    "The rich pay more",
+    "Everyone pays the same",
+    "Nobody pays taxes"
+   ],
+   "why": "Gas taxes for roads are the classic example."
+  },
+  {
+   "id": "r19-6",
+   "q": "When are federal tax returns due?",
+   "a": "April 15",
+   "wrong": [
+    "January 1",
+    "Your birthday",
+    "Every month"
+   ],
+   "why": "File Form 1040 each year."
+  },
+  {
+   "id": "r19-7",
+   "q": "What does a W-4 do?",
+   "a": "Tells your employer how much tax to withhold",
+   "wrong": [
+    "Reports your yearly income",
+    "Calculates your refund",
+    "Pays your sales tax"
+   ],
+   "why": "You fill it out when you're hired."
+  },
+  {
+   "id": "r19-8",
+   "q": "What's Idaho's food tax credit for?",
+   "a": "Offsetting the sales tax paid on groceries",
+   "wrong": [
+    "Paying for school lunches",
+    "Lowering gas prices",
+    "Raising the minimum wage"
+   ],
+   "why": "$155 per person, or up to $250 with receipts."
+  },
+  {
+   "id": "r19-9",
+   "q": "What's the biggest federal revenue source?",
+   "a": "Individual income tax",
+   "wrong": [
+    "Tariffs",
+    "Gas tax",
+    "Estate tax"
+   ],
+   "why": "About half of federal revenue."
+  },
+  {
+   "id": "r19-10",
+   "q": "What does tax incidence mean?",
+   "a": "Who actually ends up paying a tax",
+   "wrong": [
+    "How fast taxes are collected",
+    "The tax form name",
+    "A type of tax refund"
+   ],
+   "why": "Businesses may pass taxes on to customers."
+  }
+ ],
+ "20": [
+  {
+   "id": "r20-1",
+   "q": "What's the biggest federal spending program?",
+   "a": "Social Security",
+   "wrong": [
+    "National parks",
+    "Foreign aid",
+    "NASA"
+   ],
+   "why": "Health care and defense are also huge."
+  },
+  {
+   "id": "r20-2",
+   "q": "What's the difference between a deficit and the debt?",
+   "a": "A deficit is one year's shortfall; the debt is all of them added up",
+   "wrong": [
+    "They're the same thing",
+    "The debt is one year; the deficit is the total",
+    "Only states have deficits"
+   ],
+   "why": "Each deficit adds to the debt."
+  },
+  {
+   "id": "r20-3",
+   "q": "What is fiscal policy?",
+   "a": "Using government spending and taxes to steer the economy",
+   "wrong": [
+    "The Fed changing interest rates",
+    "A bank's lending rules",
+    "A personal budget"
+   ],
+   "why": "Congress and the President make fiscal policy."
+  },
+  {
+   "id": "r20-4",
+   "q": "What's expansionary fiscal policy?",
+   "a": "More spending or lower taxes to fight a recession",
+   "wrong": [
+    "Higher taxes to fight inflation",
+    "Higher interest rates",
+    "Selling bonds"
+   ],
+   "why": "The goal is more demand and more jobs."
+  },
+  {
+   "id": "r20-5",
+   "q": "What's one risk of expansionary policy?",
+   "a": "Bigger deficits and more debt",
+   "wrong": [
+    "A budget surplus",
+    "Deflation",
+    "Fewer jobs"
+   ],
+   "why": "Borrowing today is a bill for later."
+  },
+  {
+   "id": "r20-6",
+   "q": "What does Idaho's constitution require?",
+   "a": "A balanced state budget",
+   "wrong": [
+    "Federal deficits",
+    "A state bank",
+    "No property tax"
+   ],
+   "why": "The state can't spend more than it brings in."
+  },
+  {
+   "id": "r20-7",
+   "q": "What's an automatic stabilizer?",
+   "a": "A program like unemployment insurance that kicks in without new laws",
+   "wrong": [
+    "A new tax bill",
+    "A Fed rate cut",
+    "A stock market rule"
+   ],
+   "why": "It supports spending during downturns automatically."
+  },
+  {
+   "id": "r20-8",
+   "q": "What's a transfer payment?",
+   "a": "Government money given to people without buying a good or service",
+   "wrong": [
+    "A bank transfer",
+    "A tax",
+    "A tariff"
+   ],
+   "why": "Social Security checks are an example."
+  },
+  {
+   "id": "r20-9",
+   "q": "Why does a large national debt worry economists?",
+   "a": "Interest costs grow and can crowd out other spending",
+   "wrong": [
+    "It lowers all interest rates",
+    "It creates a surplus",
+    "It has no effect"
+   ],
+   "why": "Interest now tops $1 trillion a year."
+  },
+  {
+   "id": "r20-10",
+   "q": "What's discretionary spending?",
+   "a": "Spending Congress decides each year",
+   "wrong": [
+    "Spending set by existing law",
+    "State spending only",
+    "Interest on the debt"
+   ],
+   "why": "Defense and education are examples."
+  }
+ ],
+ "21": [
+  {
+   "id": "r21-1",
+   "q": "What is the Federal Reserve?",
+   "a": "The central bank of the United States",
+   "wrong": [
+    "A part of Congress",
+    "A private credit card company",
+    "The IRS"
+   ],
+   "why": "It manages money, interest rates, and bank safety."
+  },
+  {
+   "id": "r21-2",
+   "q": "What's the Fed's dual mandate?",
+   "a": "Maximum employment and stable prices",
+   "wrong": [
+    "Low taxes and high spending",
+    "Balanced budgets and low debt",
+    "Free trade and tariffs"
+   ],
+   "why": "Stable prices means about 2% inflation."
+  },
+  {
+   "id": "r21-3",
+   "q": "What's the federal funds rate?",
+   "a": "The rate banks charge each other overnight",
+   "wrong": [
+    "The income tax rate",
+    "A credit card rate",
+    "The inflation rate"
+   ],
+   "why": "It ripples out to almost every other interest rate."
+  },
+  {
+   "id": "r21-4",
+   "q": "To fight inflation, the Fed:",
+   "a": "Raises interest rates",
+   "wrong": [
+    "Lowers interest rates",
+    "Cuts taxes",
+    "Buys more bonds"
+   ],
+   "why": "Tight money slows borrowing and spending."
+  },
+  {
+   "id": "r21-5",
+   "q": "To fight a recession, the Fed:",
+   "a": "Lowers interest rates",
+   "wrong": [
+    "Raises interest rates",
+    "Raises taxes",
+    "Sells bonds"
+   ],
+   "why": "Easy money makes borrowing cheaper."
+  },
+  {
+   "id": "r21-6",
+   "q": "What are open market operations?",
+   "a": "The Fed buying and selling government bonds",
+   "wrong": [
+    "Stores opening early",
+    "Congress passing a budget",
+    "Banks merging"
+   ],
+   "why": "Buying adds money; selling pulls money out."
+  },
+  {
+   "id": "r21-7",
+   "q": "Which Fed district is Idaho in?",
+   "a": "The 12th, San Francisco",
+   "wrong": [
+    "The 1st, Boston",
+    "The 2nd, New York",
+    "Idaho has its own Fed"
+   ],
+   "why": "There's a branch in Salt Lake City."
+  },
+  {
+   "id": "r21-8",
+   "q": "Fiscal vs. monetary policy: who's who?",
+   "a": "Fiscal = Congress and President; monetary = the Fed",
+   "wrong": [
+    "Fiscal = the Fed; monetary = Congress",
+    "Both are run by the Fed",
+    "Both are run by banks"
+   ],
+   "why": "Fiscal uses taxes and spending; monetary uses interest rates."
+  },
+  {
+   "id": "r21-9",
+   "q": "Why is the Fed independent?",
+   "a": "To make tough choices without short-term political pressure",
+   "wrong": [
+    "So it can ignore laws",
+    "So it can collect taxes",
+    "So it can run elections"
+   ],
+   "why": "Critics note it gives an unelected group a lot of power."
+  },
+  {
+   "id": "r21-10",
+   "q": "Who makes up the FOMC?",
+   "a": "The Board of Governors plus five regional bank presidents",
+   "wrong": [
+    "All 100 senators",
+    "The President's cabinet",
+    "Every bank in America"
+   ],
+   "why": "It meets eight times a year."
+  }
+ ],
+ "22": [
+  {
+   "id": "r22-1",
+   "q": "What's the difference between imports and exports?",
+   "a": "Imports are bought from abroad; exports are sold abroad",
+   "wrong": [
+    "They mean the same thing",
+    "Imports are sold abroad; exports are bought",
+    "Exports are only services"
+   ],
+   "why": "Idaho exports potatoes and imports bananas."
+  },
+  {
+   "id": "r22-2",
+   "q": "What's comparative advantage?",
+   "a": "Producing something at a lower opportunity cost",
+   "wrong": [
+    "Producing more of everything",
+    "Having the most money",
+    "Winning a trade war"
+   ],
+   "why": "Specialize in what costs you the least to give up."
+  },
+  {
+   "id": "r22-3",
+   "q": "Who explained comparative advantage?",
+   "a": "David Ricardo",
+   "wrong": [
+    "Karl Marx",
+    "Milton Friedman",
+    "Alexander Hamilton"
+   ],
+   "why": "He wrote about it in 1817."
+  },
+  {
+   "id": "r22-4",
+   "q": "If Jordan is faster at both jobs, why should Jordan still trade with Sam?",
+   "a": "Each has a lower opportunity cost at one task, so both gain",
+   "wrong": [
+    "Jordan shouldn't trade",
+    "Sam is faster at both",
+    "Trading is required"
+   ],
+   "why": "Comparative advantage, not absolute advantage, drives gains."
+  },
+  {
+   "id": "r22-5",
+   "q": "What's interdependence?",
+   "a": "Countries relying on each other for goods",
+   "wrong": [
+    "Countries making everything themselves",
+    "A trade ban",
+    "A type of tax"
+   ],
+   "why": "It's efficient but spreads problems too."
+  },
+  {
+   "id": "r22-6",
+   "q": "What does Idaho specialize in?",
+   "a": "Potatoes, dairy, trout, and computer chips",
+   "wrong": [
+    "Bananas and coffee",
+    "Oil",
+    "Rice and tea"
+   ],
+   "why": "Climate, resources, and skills shape specialization."
+  },
+  {
+   "id": "r22-7",
+   "q": "Who loses from trade?",
+   "a": "Workers in industries that face cheaper imports",
+   "wrong": [
+    "No one ever",
+    "Every consumer",
+    "Every business"
+   ],
+   "why": "Gains are bigger overall but not evenly shared."
+  },
+  {
+   "id": "r22-8",
+   "q": "What's absolute advantage?",
+   "a": "Producing more with the same resources",
+   "wrong": [
+    "Producing at a lower opportunity cost",
+    "Owning more land",
+    "Having more money"
+   ],
+   "why": "Adam Smith's idea."
+  },
+  {
+   "id": "r22-9",
+   "q": "Why did 2021 car factories shut down?",
+   "a": "A global shortage of computer chips",
+   "wrong": [
+    "A ban on car sales",
+    "Too many workers",
+    "Cheap steel"
+   ],
+   "why": "Global supply chains link every country."
+  },
+  {
+   "id": "r22-10",
+   "q": "How does trade help consumers?",
+   "a": "Lower prices and more choices",
+   "wrong": [
+    "Higher prices",
+    "Fewer products",
+    "Less competition"
+   ],
+   "why": "Competition and specialization lower costs."
+  }
+ ],
+ "23": [
+  {
+   "id": "r23-1",
+   "q": "What's a tariff?",
+   "a": "A tax on imported goods",
+   "wrong": [
+    "A ban on trade",
+    "A limit on imports",
+    "A currency"
+   ],
+   "why": "The importer pays it, and the cost is often passed to buyers."
+  },
+  {
+   "id": "r23-2",
+   "q": "What's a quota?",
+   "a": "A limit on how much can be imported",
+   "wrong": [
+    "A tax on imports",
+    "A ban on trade",
+    "A trade agreement"
+   ],
+   "why": "It restricts quantity, not price directly."
+  },
+  {
+   "id": "r23-3",
+   "q": "What's protectionism?",
+   "a": "Using trade barriers to protect domestic industries",
+   "wrong": [
+    "Removing all barriers",
+    "Insurance for imports",
+    "A trade agreement"
+   ],
+   "why": "Supporters cite jobs and national security."
+  },
+  {
+   "id": "r23-4",
+   "q": "Name a free trade argument.",
+   "a": "Lower prices and more choices for consumers",
+   "wrong": [
+    "Protecting infant industries",
+    "National security",
+    "Stopping dumping"
+   ],
+   "why": "Comparative advantage and export jobs are others."
+  },
+  {
+   "id": "r23-5",
+   "q": "What's retaliation in trade?",
+   "a": "Answering tariffs with tariffs",
+   "wrong": [
+    "Lowering tariffs",
+    "Signing a trade deal",
+    "Dumping goods"
+   ],
+   "why": "Idaho farmers have been hit by retaliatory tariffs before."
+  },
+  {
+   "id": "r23-6",
+   "q": "What replaced NAFTA?",
+   "a": "USMCA",
+   "wrong": [
+    "WTO",
+    "EU",
+    "OPEC"
+   ],
+   "why": "It took effect in 2020."
+  },
+  {
+   "id": "r23-7",
+   "q": "What's a trade deficit?",
+   "a": "Imports bigger than exports",
+   "wrong": [
+    "Exports bigger than imports",
+    "A budget shortfall",
+    "A banned import"
+   ],
+   "why": "The U.S. has had one most years since the 1970s."
+  },
+  {
+   "id": "r23-8",
+   "q": "What does a strong dollar do?",
+   "a": "Makes imports cheaper and exports pricier",
+   "wrong": [
+    "Makes imports pricier and exports cheaper",
+    "Nothing",
+    "Bans trade"
+   ],
+   "why": "Good for U.S. shoppers, harder for U.S. exporters."
+  },
+  {
+   "id": "r23-9",
+   "q": "What's an exchange rate?",
+   "a": "The price of one currency in another",
+   "wrong": [
+    "The interest rate",
+    "A tariff rate",
+    "The inflation rate"
+   ],
+   "why": "It changes daily with supply and demand."
+  },
+  {
+   "id": "r23-10",
+   "q": "What's the WTO?",
+   "a": "An organization that sets trade rules and settles disputes",
+   "wrong": [
+    "A U.S. agency",
+    "A bank",
+    "A currency"
+   ],
+   "why": "It has more than 160 member countries."
+  }
+ ],
+ "24": [
+  {
+   "id": "r24-1",
+   "q": "What is globalization?",
+   "a": "The growing connection of the world's economies",
+   "wrong": [
+    "One world government",
+    "A ban on trade",
+    "A U.S. tax"
+   ],
+   "why": "Transportation, communication, trade deals, and finance drove it."
+  },
+  {
+   "id": "r24-2",
+   "q": "What has happened to extreme poverty since 1990?",
+   "a": "It has fallen sharply",
+   "wrong": [
+    "It has doubled",
+    "It has stayed the same",
+    "It disappeared completely"
+   ],
+   "why": "Under 10% of people now, down from more than a third."
+  },
+  {
+   "id": "r24-3",
+   "q": "What helps a country develop?",
+   "a": "Education, infrastructure, stable institutions, and trade",
+   "wrong": [
+    "Corruption",
+    "Isolation",
+    "Banning businesses"
+   ],
+   "why": "These are the same growth ingredients from Chapter 16."
+  },
+  {
+   "id": "r24-4",
+   "q": "What does the World Bank do?",
+   "a": "Lends for development projects",
+   "wrong": [
+    "Sets U.S. interest rates",
+    "Insures deposits",
+    "Collects tariffs"
+   ],
+   "why": "The IMF helps with financial crises."
+  },
+  {
+   "id": "r24-5",
+   "q": "What's Idaho's biggest export?",
+   "a": "Computer chips and electronics",
+   "wrong": [
+    "Bananas",
+    "Oil",
+    "Coffee"
+   ],
+   "why": "Micron is based in Boise."
+  },
+  {
+   "id": "r24-6",
+   "q": "Why do global events matter to Idaho?",
+   "a": "Idaho buys and sells around the world, so shocks reach Idaho jobs and prices",
+   "wrong": [
+    "They don't matter",
+    "Idaho has no trade",
+    "Idaho only trades with Utah"
+   ],
+   "why": "Tariffs, exchange rates, and recessions abroad all hit home."
+  },
+  {
+   "id": "r24-7",
+   "q": "What's a microloan?",
+   "a": "A tiny loan to help an entrepreneur start a business",
+   "wrong": [
+    "A mortgage",
+    "A credit card",
+    "A government bond"
+   ],
+   "why": "Common in developing countries."
+  },
+  {
+   "id": "r24-8",
+   "q": "What's interdependence?",
+   "a": "Countries relying on each other, so shocks spread",
+   "wrong": [
+    "Countries making everything alone",
+    "A trade ban",
+    "A tariff"
+   ],
+   "why": "Oil, pandemics, and financial crises travel fast."
+  },
+  {
+   "id": "r24-9",
+   "q": "What's an emerging economy?",
+   "a": "A developing country growing and industrializing quickly",
+   "wrong": [
+    "A country with no economy",
+    "A developed country",
+    "A traditional economy"
+   ],
+   "why": "India and Vietnam are examples."
+  },
+  {
+   "id": "r24-10",
+   "q": "What's the best way to prepare for a global economy?",
+   "a": "Build human capital and make smart money choices",
+   "wrong": [
+    "Avoid all school",
+    "Spend everything now",
+    "Ignore the news"
+   ],
+   "why": "That's the summit lesson of the whole course."
+  }
+ ]
+}

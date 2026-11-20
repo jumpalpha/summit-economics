@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>You're offline · Summit Economics</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0a1018">
+<link rel="manifest" href="/manifest.webmanifest">
+<link rel="icon" href="/app/icon-32.png">
+<link rel="apple-touch-icon" href="/app/icon-180.png">
+<!-- wave-x7b: shown by public/sw.js when a page isn't saved on this device and there's no internet.
+     Self-contained on purpose (no /_next/ files), so it always works offline. Same look and theme as the site. -->
+<script>try{if(localStorage.getItem('summit_theme')==='light')document.documentElement.classList.add('light')}catch(e){}</script>
+<style>
+  :root { --bg:#0a1018; --bg2:#101824; --line:rgb(226 236 248 / .12); --fg:#eef3f8; --muted:#a3b0c0; --gold:#f6c453; --panel:rgb(255 255 255 / .04); color-scheme:dark; }
+  html.light { --bg:#eef4f7; --bg2:#fbfdfe; --line:rgb(22 40 56 / .14); --fg:#142131; --muted:#536476; --gold:#c98510; --panel:rgb(255 255 255 / .8); color-scheme:light; }
+  * { box-sizing:border-box; }
+  body { margin:0; min-height:100vh; background:var(--bg); color:var(--fg); font:16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+    background-image:radial-gradient(closest-side at 20% 0%, rgba(56,189,248,.16), transparent), radial-gradient(closest-side at 90% 20%, rgba(52,211,153,.12), transparent); }
+  main { max-width:720px; margin:0 auto; padding:56px 16px 40px; text-align:center; }
+  img.hero { width:132px; height:132px; filter:grayscale(.35); }
+  h1 { font-size:clamp(2rem, 7vw, 3rem); line-height:1.05; margin:12px 0 8px; letter-spacing:-.02em; }
+  p { color:var(--muted); margin:0 auto 18px; max-width:520px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill, minmax(150px, 1fr)); gap:10px; margin:22px 0; text-align:left; }
+  .grid a { display:block; padding:12px 14px; border:1px solid var(--line); border-radius:14px; background:var(--panel); color:var(--fg); text-decoration:none; font-weight:700; overflow-wrap:anywhere; }
+  .grid a small { display:block; color:var(--muted); font-weight:500; font-size:12px; }
+  .grid a:hover { border-color:var(--gold); }
+  h2 { font-size:13px; letter-spacing:.2em; text-transform:uppercase; color:var(--gold); margin:28px 0 0; }
+  button { font:800 16px system-ui, sans-serif; background:#f6c453; color:#10140e; border:0; border-radius:14px; padding:12px 22px; cursor:pointer; box-shadow:0 8px 24px -10px rgba(246,196,83,.9); }
+  .empty { color:var(--muted); font-size:14px; }
+</style>
+</head>
+<body>
+<main>
+  <img class="hero" src="/art/realm-1.png" alt="">
+  <h1>📴 You're offline</h1>
+  <p>This page isn't saved on this device yet. Pages and games you've opened before still work without internet. Your progress saves again once you're back online.</p>
+  <button type="button" onclick="location.reload()">↻ Try again</button>
+  <h2>Saved on this device</h2>
+  <div class="grid" id="saved"><div class="empty">Looking…</div></div>
+</main>
+<script>
+(function () {
+  var NAMES = { '/': ['🏔️', 'Home'], '/welcome/': ['👋', 'Welcome Back'], '/quest/': ['🏔️', 'My Climb'], '/chapters/': ['📖', 'All chapters'],
+    '/glossary/': ['🔤', 'Glossary'], '/review/': ['🃏', 'Review Deck'], '/vocab/': ['🧠', 'Vocab Games'], '/timer/': ['⏱', 'Station Timer'], '/print-quest/': ['🖨', 'Print Quest Sheet'] };
+  function label(path) {
+    if (NAMES[path]) return NAMES[path];
+    var m;
+    if ((m = path.match(/^\/chapters\/(\w+)\/$/))) return ['📖', 'Chapter ' + m[1].toUpperCase()];
+    if ((m = path.match(/^\/arcade\/play\/([\w-]+)\/$/))) return ['🎮', m[1].replace(/-/g, ' ').replace(/\b\w/g, function (c) { return c.toUpperCase(); })];
+    if ((m = path.match(/^\/realms\/(\d+)\/$/))) return ['🗺️', 'Realm ' + m[1]];
+    return ['📄', path.replace(/^\/|\/$/g, '').replace(/[-/]/g, ' ')];
+  }
+  var box = document.getElementById('saved');
+  if (!('caches' in window)) { box.innerHTML = '<div class="empty">Nothing saved yet.</div>'; return; }
+  caches.keys().then(function (keys) {
+    return Promise.all(keys.filter(function (k) { return k.indexOf('summit-') === 0; }).map(function (k) { return caches.open(k).then(function (c) { return c.keys(); }); }));
+  }).then(function (lists) {
+    var seen = {}, pages = [];
+    lists.forEach(function (l) { l.forEach(function (r) {
+      var u = new URL(r.url);
+      if (u.origin !== location.origin || !/\/$/.test(u.pathname) || seen[u.pathname] || /^\/(teacher|live\/host)\//.test(u.pathname)) return;
+      seen[u.pathname] = 1; pages.push(u.pathname);
+    }); });
+    pages.sort(function (a, b) { return (NAMES[b] ? 1 : 0) - (NAMES[a] ? 1 : 0) || a.localeCompare(b, undefined, { numeric: true }); });
+    box.innerHTML = pages.length ? pages.map(function (p) { var l = label(p); return '<a href="' + p + '"><span>' + l[0] + '</span> ' + l[1] + '<small>' + p + '</small></a>'; }).join('')
+      : '<div class="empty">Nothing saved yet. Open a few pages while you have internet and they will work offline next time.</div>';
+  }).catch(function () { box.innerHTML = '<div class="empty">Nothing saved yet.</div>'; });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,348 @@
+{
+ "intro": "Quick polls for the Survey of the Day. There's no right answer. Vote, then see how your class voted and talk about the economics behind it.",
+ "questions": [
+  {
+   "n": 1,
+   "question": "Would you rather have $1,000 today or $1,500 in two years?",
+   "options": [
+    "$1,000 today",
+    "$1,500 in two years"
+   ]
+  },
+  {
+   "n": 2,
+   "question": "Would you rather get paid hourly or a set salary?",
+   "options": [
+    "Hourly",
+    "Salary"
+   ]
+  },
+  {
+   "n": 3,
+   "question": "Would you rather work for a big company or start your own business?",
+   "options": [
+    "Big company",
+    "My own business"
+   ]
+  },
+  {
+   "n": 4,
+   "question": "Which would you buy first: a car, a phone upgrade, or nothing (save it)?",
+   "options": [
+    "A car",
+    "A phone upgrade",
+    "Save it"
+   ]
+  },
+  {
+   "n": 5,
+   "question": "Would you rather rent an apartment in a city or own a small house in the country?",
+   "options": [
+    "Rent in a city",
+    "Own in the country"
+   ]
+  },
+  {
+   "n": 6,
+   "question": "Do you track where your money goes?",
+   "options": [
+    "Always",
+    "Sometimes",
+    "Never"
+   ]
+  },
+  {
+   "n": 7,
+   "question": "Would you rather have a job you love that pays less, or a job you're OK with that pays a lot more?",
+   "options": [
+    "Love it, less pay",
+    "OK job, more pay"
+   ]
+  },
+  {
+   "n": 8,
+   "question": "Cash, debit card, or phone payment?",
+   "options": [
+    "Cash",
+    "Debit card",
+    "Phone payment"
+   ]
+  },
+  {
+   "n": 9,
+   "question": "Would you rather go to a 4-year college, a technical program, or straight to work?",
+   "options": [
+    "4-year college",
+    "Technical program",
+    "Straight to work"
+   ]
+  },
+  {
+   "n": 10,
+   "question": "If you found $100, would you spend it or save it?",
+   "options": [
+    "Spend it",
+    "Save it",
+    "Split it"
+   ]
+  },
+  {
+   "n": 11,
+   "question": "Would you rather live in Idaho your whole life or move somewhere else?",
+   "options": [
+    "Stay in Idaho",
+    "Move away"
+   ]
+  },
+  {
+   "n": 12,
+   "question": "Would you pay $5 more for something made in the U.S.?",
+   "options": [
+    "Yes",
+    "No",
+    "Depends what it is"
+   ]
+  },
+  {
+   "n": 13,
+   "question": "Would you rather invest in one company you love or a fund of 500 companies?",
+   "options": [
+    "One company I love",
+    "500-company fund"
+   ]
+  },
+  {
+   "n": 14,
+   "question": "Which is the bigger money mistake: impulse buying or never treating yourself?",
+   "options": [
+    "Impulse buying",
+    "Never treating yourself"
+   ]
+  },
+  {
+   "n": 15,
+   "question": "Would you rather get a $5,000 raise or two extra weeks of vacation?",
+   "options": [
+    "$5,000 raise",
+    "Two weeks vacation"
+   ]
+  },
+  {
+   "n": 16,
+   "question": "Should teens have a credit card?",
+   "options": [
+    "Yes, to build credit",
+    "No, too risky",
+    "Only with a parent"
+   ]
+  },
+  {
+   "n": 17,
+   "question": "Brand-name or store brand?",
+   "options": [
+    "Brand-name",
+    "Store brand",
+    "Depends on the item"
+   ]
+  },
+  {
+   "n": 18,
+   "question": "Would you rather be a boss or an employee?",
+   "options": [
+    "Boss",
+    "Employee"
+   ]
+  },
+  {
+   "n": 19,
+   "question": "Would you rather buy a new car or a used one with cash?",
+   "options": [
+    "New car with a loan",
+    "Used car with cash"
+   ]
+  },
+  {
+   "n": 20,
+   "question": "Which costs you the most money each month?",
+   "options": [
+    "Food and drinks",
+    "Gas and car",
+    "Entertainment and games",
+    "Clothes"
+   ]
+  },
+  {
+   "n": 21,
+   "question": "Would you rather earn money from a job or from a side hustle?",
+   "options": [
+    "A regular job",
+    "A side hustle"
+   ]
+  },
+  {
+   "n": 22,
+   "question": "Is a college degree worth the cost for most people?",
+   "options": [
+    "Yes",
+    "No",
+    "Depends on the career"
+   ]
+  },
+  {
+   "n": 23,
+   "question": "Would you rather know the price of everything or the value of everything?",
+   "options": [
+    "The price",
+    "The value"
+   ]
+  },
+  {
+   "n": 24,
+   "question": "Do you have a savings goal right now?",
+   "options": [
+    "Yes",
+    "No",
+    "Working on one"
+   ]
+  },
+  {
+   "n": 25,
+   "question": "Would you rather shop online or in person?",
+   "options": [
+    "Online",
+    "In person"
+   ]
+  },
+  {
+   "n": 26,
+   "question": "Should the minimum wage be raised?",
+   "options": [
+    "Yes",
+    "No",
+    "Not sure"
+   ]
+  },
+  {
+   "n": 27,
+   "question": "Would you rather split a bill evenly or pay for exactly what you ordered?",
+   "options": [
+    "Split evenly",
+    "Pay for mine"
+   ]
+  },
+  {
+   "n": 28,
+   "question": "Would you rather have a high-paying job with a long commute or a lower-paying job close to home?",
+   "options": [
+    "High pay, long commute",
+    "Lower pay, close to home"
+   ]
+  },
+  {
+   "n": 29,
+   "question": "Would you rather be famous or rich?",
+   "options": [
+    "Famous",
+    "Rich",
+    "Neither"
+   ]
+  },
+  {
+   "n": 30,
+   "question": "Which would you rather invest in: stocks, real estate, or your own skills?",
+   "options": [
+    "Stocks",
+    "Real estate",
+    "My own skills"
+   ]
+  },
+  {
+   "n": 31,
+   "question": "If prices went up 10% tomorrow, what would you cut first?",
+   "options": [
+    "Eating out",
+    "Subscriptions",
+    "Clothes",
+    "Gas and driving"
+   ]
+  },
+  {
+   "n": 32,
+   "question": "Would you rather work 4 ten-hour days or 5 eight-hour days?",
+   "options": [
+    "4 x 10 hours",
+    "5 x 8 hours"
+   ]
+  },
+  {
+   "n": 33,
+   "question": "Should Idaho stop charging sales tax on groceries?",
+   "options": [
+    "Yes",
+    "No",
+    "Not sure"
+   ]
+  },
+  {
+   "n": 34,
+   "question": "Would you rather buy experiences or things?",
+   "options": [
+    "Experiences",
+    "Things"
+   ]
+  },
+  {
+   "n": 35,
+   "question": "Would you rather have a high credit score or no debt at all?",
+   "options": [
+    "High credit score",
+    "No debt"
+   ]
+  },
+  {
+   "n": 36,
+   "question": "Is it smarter to buy the cheapest version or pay more for quality?",
+   "options": [
+    "Cheapest",
+    "Pay for quality",
+    "Depends"
+   ]
+  },
+  {
+   "n": 37,
+   "question": "Would you rather work in Idaho's tech, farming, health care, or construction industry?",
+   "options": [
+    "Tech",
+    "Farming",
+    "Health care",
+    "Construction"
+   ]
+  },
+  {
+   "n": 38,
+   "question": "Should schools require a personal finance class to graduate?",
+   "options": [
+    "Yes",
+    "No"
+   ]
+  },
+  {
+   "n": 39,
+   "question": "Would you rather travel the world cheaply or one big luxury trip?",
+   "options": [
+    "Travel cheap, go lots of places",
+    "One luxury trip"
+   ]
+  },
+  {
+   "n": 40,
+   "question": "After this class, how confident are you about managing money?",
+   "options": [
+    "Very confident",
+    "Somewhat confident",
+    "Not yet"
+   ]
+  }
+ ],
+ "optionsNote": "Rotate one per school day."
+}

@@ -1,0 +1,111 @@
+{
+ "intro": "Real-world economics, outside the classroom. Pick from this menu. Each approved side quest earns the Trail Volunteer badge plus 50 XP. Each one ends with a short write-up (or slideshow) explaining the economics, with photos or documents as evidence.",
+ "safetyNotes": "**Ground rules:** never share real account numbers, passwords, Social Security numbers, or anyone's private financial details. Black out personal info on any document you photograph. Get a parent or guardian's OK before interviewing anyone or visiting a business.",
+ "quests": [
+  {
+   "n": 1,
+   "title": "Price Detective",
+   "realm": "Market Meadow",
+   "task": "Track the price of 5 items (gas, milk, eggs, a fast-food meal, one item you choose) at two stores for 3 weeks. Explain any changes with supply and demand.",
+   "proof": "Price table or chart plus a one-page explanation"
+  },
+  {
+   "n": 2,
+   "title": "Interview an Entrepreneur",
+   "realm": "Timber Camp",
+   "task": "Interview a local small-business owner: how they started, their biggest risk, their business form (sole proprietorship, LLC, etc.), and their competition.",
+   "proof": "Interview notes or recording summary plus a photo with the owner (with permission)"
+  },
+  {
+   "n": 3,
+   "title": "Career Trail Map",
+   "realm": "Timber Camp",
+   "task": "Research one career: training required, typical Idaho pay, job outlook, and the human capital it takes. Talk to someone who works in it if you can.",
+   "proof": "One-page career map with sources"
+  },
+  {
+   "n": 4,
+   "title": "Real Budget Month",
+   "realm": "Switchbacks",
+   "task": "Track every dollar you spend for 30 days, then build a 50/30/20 budget for next month based on what you learned.",
+   "proof": "Spending log plus your new budget and three things you'd change"
+  },
+  {
+   "n": 5,
+   "title": "Grocery Challenge",
+   "realm": "Switchbacks",
+   "task": "Plan a week of dinners for a family of four for $120 or less, using real prices and unit prices from a local store. Include Idaho's 6% sales tax.",
+   "proof": "Menu, shopping list with prices, and receipt or screenshots"
+  },
+  {
+   "n": 6,
+   "title": "Car Cost Showdown",
+   "realm": "Switchbacks",
+   "task": "Compare a new car and a 4-year-old used version of the same model: price, loan payment at a credit union rate, insurance quote, gas, and depreciation over 5 years.",
+   "proof": "Comparison table and your recommendation"
+  },
+  {
+   "n": 7,
+   "title": "Bank Account Shopper",
+   "realm": "River Crossing",
+   "task": "Compare checking and savings accounts at three institutions (include one credit union and one online bank): fees, minimums, APY, ATM access.",
+   "proof": "Comparison chart and which you'd pick and why"
+  },
+  {
+   "n": 8,
+   "title": "Compound Interest Lab",
+   "realm": "River Crossing",
+   "task": "Build a spreadsheet that shows $50 a month invested from age 16 to 65 at 4%, 7%, and 10%. Compare starting at 16 vs. 26.",
+   "proof": "Spreadsheet screenshot plus three conclusions"
+  },
+  {
+   "n": 9,
+   "title": "College Net Price Check",
+   "realm": "Switchbacks",
+   "task": "Use the net price calculator for two Idaho schools (a university and a community or technical college). Compare net price, aid, and likely loan debt for your planned career.",
+   "proof": "Screenshots of results plus a short comparison"
+  },
+  {
+   "n": 10,
+   "title": "Where My Taxes Go",
+   "realm": "Ranger Station",
+   "task": "Find your school district's or city's budget online. Report where the money comes from (property tax, state funds, levies) and the three biggest spending areas.",
+   "proof": "Pie chart or table with the source link"
+  },
+  {
+   "n": 11,
+   "title": "Made Where?",
+   "realm": "The Summit",
+   "task": "Check the labels on 25 items in your home. Map which countries they came from and explain one item's global supply chain.",
+   "proof": "Map or chart plus a photo of labels"
+  },
+  {
+   "n": 12,
+   "title": "Idaho Export Story",
+   "realm": "The Summit",
+   "task": "Research one Idaho export (potatoes, cheese, trout, chips, lumber, wheat): who buys it, how it gets there, and how tariffs or exchange rates affect it.",
+   "proof": "One-page report or slideshow with sources"
+  },
+  {
+   "n": 13,
+   "title": "Economic Indicator Watch",
+   "realm": "The Ridge",
+   "task": "Follow the unemployment rate, inflation (CPI), and one leading indicator for a month using BLS or FRED. Predict which phase of the business cycle we're in.",
+   "proof": "Charts or screenshots plus your prediction with reasons"
+  },
+  {
+   "n": 14,
+   "title": "Fed Meeting Reporter",
+   "realm": "Ranger Station",
+   "task": "Read the summary of the most recent FOMC decision. Explain in your own words what the Fed decided, why, and how it could affect a family buying a car.",
+   "proof": "Your news-style write-up with the source link"
+  },
+  {
+   "n": 15,
+   "title": "Scam Spotter",
+   "realm": "Switchbacks",
+   "task": "Collect 5 real examples of scam texts, emails, or ads (from your family, with personal info blacked out, or from FTC alerts). Label the red flags in each.",
+   "proof": "Screenshots with red flags circled and explained"
+  }
+ ]
+}

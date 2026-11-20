@@ -1,0 +1,7270 @@
+{
+ "chapter": {
+  "1": [
+   {
+    "id": "c01-43eb72",
+    "q": "Scarcity exists because:",
+    "choices": [
+     "prices are too high",
+     "wants are unlimited but resources are limited",
+     "some people are greedy",
+     "stores do not order enough products"
+    ]
+   },
+   {
+    "id": "c01-badcc1",
+    "q": "Which is the BEST example of a shortage rather than scarcity?",
+    "choices": [
+     "Earth has a limited amount of fresh water",
+     "A store sells out of a popular game the week it launches",
+     "Land in Idaho is limited",
+     "There are only 24 hours in a day"
+    ]
+   },
+   {
+    "id": "c01-bd6715",
+    "q": "Maya can work a shift for $80, go hiking, or watch movies. She chooses to hike, and working was her second choice. Her opportunity cost is:",
+    "choices": [
+     "watching movies and working",
+     "the hike",
+     "nothing, because hiking is free",
+     "the $80 she could have earned"
+    ]
+   },
+   {
+    "id": "c01-d7df0d",
+    "q": "Which of these is a service?",
+    "choices": [
+     "A new climbing rope",
+     "A pair of hiking boots",
+     "A bag of trail mix",
+     "A guide teaching you to rock climb"
+    ]
+   },
+   {
+    "id": "c01-bafd81",
+    "q": "\"There's no such thing as a free lunch\" means:",
+    "choices": [
+     "restaurants never give away food",
+     "lunch should never be skipped",
+     "free things are always low quality",
+     "every choice costs something, even if it's just time"
+    ]
+   },
+   {
+    "id": "c01-c43a56",
+    "q": "A $25 late fee on a library book is an example of:",
+    "choices": [
+     "a positive incentive",
+     "a marginal benefit",
+     "opportunity cost",
+     "a negative incentive"
+    ]
+   },
+   {
+    "id": "c01-7c356d",
+    "q": "Which question is about MARGINAL thinking?",
+    "choices": [
+     "Why do people need water?",
+     "Should I study one more hour tonight?",
+     "Should I go to college or not?",
+     "What is the capital of Idaho?"
+    ]
+   },
+   {
+    "id": "c01-76ed3d",
+    "q": "When the marginal cost of one more slice of pizza is bigger than its marginal benefit, a rational person should:",
+    "choices": [
+     "eat one more slice",
+     "eat the whole pizza",
+     "buy another pizza",
+     "stop eating"
+    ]
+   },
+   {
+    "id": "c01-0d6ede",
+    "q": "Which is a NEED?",
+    "choices": [
+     "Name-brand shoes",
+     "A streaming subscription",
+     "Clean drinking water",
+     "A gaming console"
+    ]
+   },
+   {
+    "id": "c01-996811",
+    "q": "Microeconomics would study:",
+    "choices": [
+     "total output of the U.S. economy",
+     "the national inflation rate",
+     "whether a local coffee shop should raise prices",
+     "the unemployment rate for the whole country"
+    ]
+   },
+   {
+    "id": "c01-744f69",
+    "q": "Macroeconomics would study:",
+    "choices": [
+     "how fast prices are rising across the whole country",
+     "how one family plans its grocery budget",
+     "why a single store cut its hours",
+     "what one student buys for lunch"
+    ]
+   },
+   {
+    "id": "c01-3ea0ec",
+    "q": "Gas prices jump to $5 a gallon. Economists would predict that people will:",
+    "choices": [
+     "ignore the price change",
+     "stop buying gas completely",
+     "drive less and carpool more",
+     "drive more to use up gas faster"
+    ]
+   },
+   {
+    "id": "c01-944d87",
+    "q": "Which of the three basic economic questions does \"Should we build cars by hand or with robots?\" answer?",
+    "choices": [
+     "For whom to produce",
+     "What to produce",
+     "Why to produce",
+     "How to produce"
+    ]
+   },
+   {
+    "id": "c01-c7eba0",
+    "q": "To economists, acting \"rationally\" means:",
+    "choices": [
+     "choosing the option where benefits outweigh costs, based on what you know",
+     "doing what everyone else is doing",
+     "never making a mistake",
+     "always choosing the cheapest option"
+    ]
+   },
+   {
+    "id": "c01-a23ab5",
+    "q": "A trade-off is:",
+    "choices": [
+     "a type of tax",
+     "trading items with a friend",
+     "giving up one thing to get another",
+     "a store's return policy"
+    ]
+   },
+   {
+    "id": "c01-217ea0",
+    "q": "A free concert in the park still has an opportunity cost because:",
+    "choices": [
+     "free things have no value",
+     "you give up whatever else you could have done with that time",
+     "the band has to be paid by the city",
+     "the tickets cost money"
+    ]
+   },
+   {
+    "id": "c01-8a6cdf",
+    "q": "Even very rich people face scarcity because:",
+    "choices": [
+     "they are taxed more",
+     "their time and some resources are still limited",
+     "they spend all their money",
+     "prices are higher for them"
+    ]
+   },
+   {
+    "id": "c01-7dc30a",
+    "q": "A store gives a free drink with every purchase over $10. This is:",
+    "choices": [
+     "a shortage",
+     "scarcity",
+     "a negative incentive",
+     "a positive incentive"
+    ]
+   },
+   {
+    "id": "c01-ea31af",
+    "q": "Which item is a good, not a service?",
+    "choices": [
+     "A tent",
+     "A haircut",
+     "Tutoring",
+     "A car wash"
+    ]
+   },
+   {
+    "id": "c01-f4f28b",
+    "q": "Why does economics exist as a subject?",
+    "choices": [
+     "Because governments need taxes",
+     "Because money was invented",
+     "Because businesses want profit",
+     "Because scarcity forces people to make choices"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "c02-09d3a2",
+    "q": "Which is an example of CAPITAL as a factor of production?",
+    "choices": [
+     "The money in a bakery's bank account",
+     "The wheat used to make flour",
+     "The bakery's employees",
+     "A delivery truck owned by a bakery"
+    ]
+   },
+   {
+    "id": "c02-8f32ff",
+    "q": "Which is an example of LAND as a factor of production?",
+    "choices": [
+     "A farm worker",
+     "The water in the Snake River used to irrigate potatoes",
+     "A tractor",
+     "A new farm business owner"
+    ]
+   },
+   {
+    "id": "c02-124b5b",
+    "q": "A welder takes a two-year training program. She is increasing her:",
+    "choices": [
+     "land",
+     "opportunity cost",
+     "human capital",
+     "physical capital"
+    ]
+   },
+   {
+    "id": "c02-d7cd2a",
+    "q": "Which factor of production organizes the others and takes on risk?",
+    "choices": [
+     "Capital",
+     "Land",
+     "Labor",
+     "Entrepreneurship"
+    ]
+   },
+   {
+    "id": "c02-c73b9d",
+    "q": "Workers earn wages. What do entrepreneurs earn if their business succeeds?",
+    "choices": [
+     "Taxes",
+     "Rent",
+     "Profit",
+     "Interest"
+    ]
+   },
+   {
+    "id": "c02-d93eb3",
+    "q": "A sandwich shop has one person take orders, one make sandwiches, and one run the register. This is:",
+    "choices": [
+     "scarcity",
+     "an inward shift of the PPC",
+     "division of labor",
+     "a shortage"
+    ]
+   },
+   {
+    "id": "c02-08cb93",
+    "q": "A point INSIDE a production possibilities curve shows:",
+    "choices": [
+     "the economy is producing as much as possible",
+     "resources are not being fully or efficiently used",
+     "economic growth",
+     "a combination that is impossible"
+    ]
+   },
+   {
+    "id": "c02-7539e6",
+    "q": "A point OUTSIDE a production possibilities curve shows:",
+    "choices": [
+     "unemployment",
+     "wasted resources",
+     "a combination the economy cannot make with its current resources",
+     "the most efficient combination"
+    ]
+   },
+   {
+    "id": "c02-52bd93",
+    "q": "When an economy is ON its production possibilities curve, making more of one good means:",
+    "choices": [
+     "making less of both goods",
+     "making less of the other good",
+     "nothing else changes",
+     "making more of both goods"
+    ]
+   },
+   {
+    "id": "c02-a33ba9",
+    "q": "The PPC usually bows outward because of:",
+    "choices": [
+     "the law of demand",
+     "the law of increasing opportunity cost",
+     "unlimited resources",
+     "government rules"
+    ]
+   },
+   {
+    "id": "c02-c080eb",
+    "q": "Which would shift a country's PPC OUTWARD?",
+    "choices": [
+     "Many workers leaving the country",
+     "An earthquake that destroys factories",
+     "A wildfire that destroys forests",
+     "A new technology that makes factories faster"
+    ]
+   },
+   {
+    "id": "c02-31094d",
+    "q": "Which would shift a country's PPC INWARD?",
+    "choices": [
+     "New machines being built",
+     "A flood that wipes out farmland and factories",
+     "More students graduating from college",
+     "Discovering new oil fields"
+    ]
+   },
+   {
+    "id": "c02-c3f528",
+    "q": "Productivity means:",
+    "choices": [
+     "how much money a business has",
+     "the amount of output made from a given amount of resources",
+     "the total number of workers in a country",
+     "how many hours people work"
+    ]
+   },
+   {
+    "id": "c02-4f48d9",
+    "q": "Why can't a town make every mix of skis and rods it wants?",
+    "choices": [
+     "Fishing rods are illegal",
+     "People only want skis",
+     "The government will not allow it",
+     "It has limited resources, so it faces trade-offs"
+    ]
+   },
+   {
+    "id": "c02-340155",
+    "q": "Which is NOT one of the four factors of production?",
+    "choices": [
+     "Land",
+     "Money",
+     "Labor",
+     "Capital"
+    ]
+   },
+   {
+    "id": "c02-75ce73",
+    "q": "A town is making 60 skis and 30 rods, but the PPC shows it could make 60 skis and 50 rods. The most likely reason is:",
+    "choices": [
+     "the law of demand",
+     "some workers are unemployed or machines sit unused",
+     "the town has better technology than its neighbors",
+     "the town is producing outside its curve"
+    ]
+   },
+   {
+    "id": "c02-218637",
+    "q": "Economic growth is shown on a PPC as:",
+    "choices": [
+     "a point moving inside the curve",
+     "the curve moving inward",
+     "the whole curve moving outward",
+     "a point moving along the curve"
+    ]
+   },
+   {
+    "id": "c02-179434",
+    "q": "Henry Ford's assembly line is a famous example of:",
+    "choices": [
+     "an inward PPC shift",
+     "entrepreneurs earning rent",
+     "division of labor raising productivity",
+     "scarcity"
+    ]
+   },
+   {
+    "id": "c02-5fb5e2",
+    "q": "A computer programmer writing code at Micron is providing:",
+    "choices": [
+     "land",
+     "capital",
+     "rent",
+     "labor"
+    ]
+   },
+   {
+    "id": "c02-a70b9f",
+    "q": "Landowners earn which reward for letting others use their land?",
+    "choices": [
+     "Profit",
+     "Interest",
+     "Rent",
+     "Wages"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "c03-05e744",
+    "q": "An economic system is best described as:",
+    "choices": [
+     "the total amount of money in a country",
+     "a country's banking system",
+     "the way a society answers what, how, and for whom to produce",
+     "a list of a country's businesses"
+    ]
+   },
+   {
+    "id": "c03-9b3558",
+    "q": "In a traditional economy, economic decisions are mostly based on:",
+    "choices": [
+     "customs and habits passed down through generations",
+     "profit",
+     "prices in the market",
+     "government plans"
+    ]
+   },
+   {
+    "id": "c03-dd37d3",
+    "q": "In a command economy, who makes most economic decisions?",
+    "choices": [
+     "Individual consumers",
+     "The central government",
+     "Private businesses",
+     "Families following tradition"
+    ]
+   },
+   {
+    "id": "c03-b87d60",
+    "q": "Which country ran a command economy for most of the 1900s?",
+    "choices": [
+     "The United States",
+     "Australia",
+     "The Soviet Union",
+     "Canada"
+    ]
+   },
+   {
+    "id": "c03-3f28da",
+    "q": "A major weakness of command economies is that:",
+    "choices": [
+     "planners can't know what millions of people want, and workers have weak incentives",
+     "businesses compete too much",
+     "prices change too quickly",
+     "people have too many choices"
+    ]
+   },
+   {
+    "id": "c03-bcf82a",
+    "q": "In a market economy, what sends signals about what to produce?",
+    "choices": [
+     "Government planners",
+     "Prices",
+     "Religious leaders",
+     "Tradition"
+    ]
+   },
+   {
+    "id": "c03-087b2c",
+    "q": "Adam Smith's \"invisible hand\" means:",
+    "choices": [
+     "people pursuing self-interest in markets end up helping society",
+     "the government secretly controls prices",
+     "businesses hide their profits",
+     "workers are not paid fairly"
+    ]
+   },
+   {
+    "id": "c03-746b1b",
+    "q": "Adam Smith wrote:",
+    "choices": [
+     "The Communist Manifesto",
+     "The Wealth of Nations",
+     "The General Theory",
+     "The Road to Serfdom"
+    ]
+   },
+   {
+    "id": "c03-c957ba",
+    "q": "Which economic system describes nearly every country today?",
+    "choices": [
+     "Pure market economy",
+     "Pure command economy",
+     "Traditional economy",
+     "Mixed economy"
+    ]
+   },
+   {
+    "id": "c03-f1de6a",
+    "q": "Which is NOT a key feature of U.S. free enterprise?",
+    "choices": [
+     "Government sets the price of most goods",
+     "Private property",
+     "Competition",
+     "Profit motive"
+    ]
+   },
+   {
+    "id": "c03-f97674",
+    "q": "Consumer sovereignty means:",
+    "choices": [
+     "the government rules over consumers",
+     "shoppers' spending decides what businesses produce",
+     "only rich people can buy things",
+     "consumers must buy American products"
+    ]
+   },
+   {
+    "id": "c03-40a8b2",
+    "q": "Voluntary exchange happens when:",
+    "choices": [
+     "one side is tricked",
+     "buyers and sellers trade freely because both expect to be better off",
+     "the government forces a sale",
+     "goods are given away for free"
+    ]
+   },
+   {
+    "id": "c03-d0d4a0",
+    "q": "Karl Marx argued that:",
+    "choices": [
+     "government should never own businesses",
+     "taxes should be eliminated",
+     "free markets always help everyone",
+     "capitalism lets owners take advantage of workers"
+    ]
+   },
+   {
+    "id": "c03-fb9532",
+    "q": "John Maynard Keynes believed that during a recession the government should:",
+    "choices": [
+     "take over every business",
+     "cut all spending",
+     "spend more to boost the economy",
+     "do nothing"
+    ]
+   },
+   {
+    "id": "c03-d357f4",
+    "q": "Laissez-faire means:",
+    "choices": [
+     "workers should form unions",
+     "tradition should guide decisions",
+     "the government should control all prices",
+     "the government should leave the economy alone"
+    ]
+   },
+   {
+    "id": "c03-a78382",
+    "q": "A small village where children fish because their parents and grandparents always fished is an example of a:",
+    "choices": [
+     "traditional economy",
+     "mixed economy",
+     "command economy",
+     "market economy"
+    ]
+   },
+   {
+    "id": "c03-1783bc",
+    "q": "Competition between businesses usually leads to:",
+    "choices": [
+     "fewer products to choose from",
+     "government control",
+     "higher prices and lower quality",
+     "lower prices and better quality"
+    ]
+   },
+   {
+    "id": "c03-e7278a",
+    "q": "The profit motive is:",
+    "choices": [
+     "the desire to earn money that drives people to start businesses",
+     "the price of a product",
+     "a tax on profits",
+     "a law requiring businesses to earn money"
+    ]
+   },
+   {
+    "id": "c03-0ff38b",
+    "q": "Which statement about the U.S. economy is TRUE?",
+    "choices": [
+     "The government owns most businesses",
+     "It is a traditional economy",
+     "It is a pure command economy",
+     "It is a mixed economy that leans strongly toward free markets"
+    ]
+   },
+   {
+    "id": "c03-dce6b3",
+    "q": "A strength of market economies is:",
+    "choices": [
+     "there are never booms or busts",
+     "strong incentives to work hard and invent new things",
+     "the government decides what everyone needs",
+     "everyone receives exactly the same income"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "c04-4ad8ad",
+    "q": "The law of demand states that when price goes up:",
+    "choices": [
+     "quantity demanded goes up",
+     "quantity demanded goes down",
+     "supply goes down",
+     "demand shifts right"
+    ]
+   },
+   {
+    "id": "c04-401582",
+    "q": "To count as demand, a buyer must be:",
+    "choices": [
+     "able to buy only",
+     "willing and able to buy",
+     "a business owner",
+     "willing to buy only"
+    ]
+   },
+   {
+    "id": "c04-48445d",
+    "q": "A demand curve slopes:",
+    "choices": [
+     "flat across",
+     "upward from left to right",
+     "straight up and down",
+     "downward from left to right"
+    ]
+   },
+   {
+    "id": "c04-1848d5",
+    "q": "On a demand graph, price goes on the:",
+    "choices": [
+     "title",
+     "horizontal axis",
+     "vertical axis",
+     "both axes"
+    ]
+   },
+   {
+    "id": "c04-0d4ff3",
+    "q": "The price of movie tickets falls, and people buy more tickets. This is:",
+    "choices": [
+     "a change in quantity demanded (a movement along the curve)",
+     "a shift of the demand curve to the left",
+     "a change in supply",
+     "a shift of the demand curve to the right"
+    ]
+   },
+   {
+    "id": "c04-4f5947",
+    "q": "A new study says avocados make you smarter, and demand for avocados rises at every price. This shift is caused by:",
+    "choices": [
+     "the price of avocados",
+     "income",
+     "tastes and preferences",
+     "the number of sellers"
+    ]
+   },
+   {
+    "id": "c04-4080cb",
+    "q": "Hot dogs and hot dog buns are:",
+    "choices": [
+     "elastic goods",
+     "complements",
+     "substitutes",
+     "inferior goods"
+    ]
+   },
+   {
+    "id": "c04-c0ee7e",
+    "q": "If the price of Pepsi drops, what happens to demand for Coke?",
+    "choices": [
+     "It increases, because they are complements",
+     "It decreases, because they are substitutes",
+     "It doesn't change",
+     "It shifts right"
+    ]
+   },
+   {
+    "id": "c04-4d7fe4",
+    "q": "Ramen noodles are an inferior good for many people. When their income rises, demand for ramen:",
+    "choices": [
+     "falls",
+     "stays the same",
+     "rises",
+     "becomes elastic"
+    ]
+   },
+   {
+    "id": "c04-c008be",
+    "q": "Thousands of new families move to Meridian. Demand for houses in Meridian will:",
+    "choices": [
+     "move along the curve",
+     "shift left",
+     "stay the same",
+     "shift right"
+    ]
+   },
+   {
+    "id": "c04-fc58eb",
+    "q": "People hear gas prices will rise sharply next week. Today, demand for gas:",
+    "choices": [
+     "decreases",
+     "becomes elastic",
+     "increases, because of expectations",
+     "stays the same"
+    ]
+   },
+   {
+    "id": "c04-615fd5",
+    "q": "The substitution effect explains why:",
+    "choices": [
+     "people buy more when they get a raise",
+     "prices always rise",
+     "people switch to tacos when burger prices rise",
+     "businesses compete"
+    ]
+   },
+   {
+    "id": "c04-ccd243",
+    "q": "Demand for a product is elastic when:",
+    "choices": [
+     "a small price change causes a big change in quantity demanded",
+     "people keep buying the same amount no matter the price",
+     "the product is a necessity",
+     "there are no substitutes"
+    ]
+   },
+   {
+    "id": "c04-10bb51",
+    "q": "Which product most likely has INELASTIC demand?",
+    "choices": [
+     "A vacation cruise",
+     "One brand of potato chips",
+     "Insulin for a diabetic",
+     "A designer handbag"
+    ]
+   },
+   {
+    "id": "c04-06aae6",
+    "q": "Which product most likely has ELASTIC demand?",
+    "choices": [
+     "Electricity",
+     "Life-saving medicine",
+     "Gasoline for commuting to work",
+     "One brand of bottled water"
+    ]
+   },
+   {
+    "id": "c04-d3b5e2",
+    "q": "Diminishing marginal utility means:",
+    "choices": [
+     "each additional unit brings less satisfaction than the one before",
+     "people never get tired of things",
+     "prices always go down",
+     "supply decreases over time"
+    ]
+   },
+   {
+    "id": "c04-f3270b",
+    "q": "A demand schedule is:",
+    "choices": [
+     "a table showing quantity demanded at each price",
+     "a graph of supply",
+     "a list of store hours",
+     "a business plan"
+    ]
+   },
+   {
+    "id": "c04-01816e",
+    "q": "Which would shift the demand curve for concert tickets to the LEFT?",
+    "choices": [
+     "The band goes viral online",
+     "The price of the tickets falls",
+     "The band announces it is breaking up after a scandal",
+     "Fans get a raise at work"
+    ]
+   },
+   {
+    "id": "c04-eb3e3b",
+    "q": "If demand for a product is inelastic, raising the price will most likely:",
+    "choices": [
+     "lower total money for the seller",
+     "bring in more total money for the seller",
+     "shift the demand curve left",
+     "cause buyers to stop buying almost completely"
+    ]
+   },
+   {
+    "id": "c04-4f2cad",
+    "q": "Which is NOT a factor that shifts demand?",
+    "choices": [
+     "Consumer income",
+     "Consumer expectations",
+     "Prices of related goods",
+     "The price of the good itself"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "id": "c05-e88a92",
+    "q": "The law of supply states that when price rises:",
+    "choices": [
+     "demand falls",
+     "quantity supplied falls",
+     "supply shifts left",
+     "quantity supplied rises"
+    ]
+   },
+   {
+    "id": "c05-85ad4a",
+    "q": "A supply curve slopes:",
+    "choices": [
+     "straight down",
+     "flat",
+     "upward from left to right",
+     "downward from left to right"
+    ]
+   },
+   {
+    "id": "c05-2a5a1f",
+    "q": "Why do sellers offer more at higher prices?",
+    "choices": [
+     "Buyers demand less",
+     "The government requires it",
+     "Higher prices mean more chance for profit",
+     "Costs fall when prices rise"
+    ]
+   },
+   {
+    "id": "c05-f3c1d7",
+    "q": "Which is a FIXED cost for a pizza shop?",
+    "choices": [
+     "Monthly rent for the building",
+     "Cheese",
+     "Delivery gas",
+     "Pizza boxes"
+    ]
+   },
+   {
+    "id": "c05-4de27c",
+    "q": "Which is a VARIABLE cost for a pizza shop?",
+    "choices": [
+     "Insurance",
+     "Building rent",
+     "The loan payment on the ovens",
+     "Flour and cheese"
+    ]
+   },
+   {
+    "id": "c05-6f815a",
+    "q": "Total cost equals:",
+    "choices": [
+     "price times quantity",
+     "fixed costs minus variable costs",
+     "marginal cost times two",
+     "fixed costs plus variable costs"
+    ]
+   },
+   {
+    "id": "c05-299f49",
+    "q": "The price of pizza rises and the shop makes more pizzas. This is:",
+    "choices": [
+     "a change in demand",
+     "a shift of supply to the right",
+     "a movement along the supply curve",
+     "a shift of supply to the left"
+    ]
+   },
+   {
+    "id": "c05-49ccfe",
+    "q": "A new machine lets a bakery make bread twice as fast. Supply of bread will:",
+    "choices": [
+     "not change",
+     "shift right",
+     "shift left",
+     "move along the curve"
+    ]
+   },
+   {
+    "id": "c05-0142d5",
+    "q": "The government places a new tax on every gallon of gasoline sold. Gas supply will:",
+    "choices": [
+     "not change",
+     "shift left",
+     "shift right",
+     "become elastic"
+    ]
+   },
+   {
+    "id": "c05-f97e01",
+    "q": "A subsidy given to solar panel makers will most likely:",
+    "choices": [
+     "raise the price of solar panels",
+     "decrease the supply of solar panels",
+     "increase demand for coal",
+     "increase the supply of solar panels"
+    ]
+   },
+   {
+    "id": "c05-5942cd",
+    "q": "An early frost destroys much of Idaho's potato crop. Potato supply:",
+    "choices": [
+     "is unaffected",
+     "shifts right",
+     "moves along the curve",
+     "shifts left"
+    ]
+   },
+   {
+    "id": "c05-9de203",
+    "q": "A farmer can grow wheat or barley. If the price of wheat jumps, the supply of barley will likely:",
+    "choices": [
+     "decrease",
+     "double",
+     "stay the same",
+     "increase"
+    ]
+   },
+   {
+    "id": "c05-66e4f8",
+    "q": "Ten new coffee shops open in town. The supply of coffee drinks:",
+    "choices": [
+     "becomes inelastic",
+     "decreases",
+     "increases",
+     "stays the same"
+    ]
+   },
+   {
+    "id": "c05-c4a9d1",
+    "q": "Diminishing marginal returns means:",
+    "choices": [
+     "each worker adds more output than the last",
+     "prices always fall",
+     "costs never change",
+     "each additional worker eventually adds less output than the one before"
+    ]
+   },
+   {
+    "id": "c05-7ad45e",
+    "q": "Marginal revenue is:",
+    "choices": [
+     "the extra money from selling one more unit",
+     "total money from all sales",
+     "profit after taxes",
+     "the cost of one more unit"
+    ]
+   },
+   {
+    "id": "c05-781b68",
+    "q": "Which product has the most INELASTIC supply in the short run?",
+    "choices": [
+     "Stickers",
+     "Phone cases",
+     "T-shirts",
+     "Houses"
+    ]
+   },
+   {
+    "id": "c05-d04dce",
+    "q": "What makes supply MORE elastic?",
+    "choices": [
+     "More time for producers to adjust",
+     "Fewer sellers",
+     "Less time to adjust",
+     "Higher taxes"
+    ]
+   },
+   {
+    "id": "c05-353bb1",
+    "q": "ROTTEN is a memory aid for:",
+    "choices": [
+     "things that shift supply",
+     "types of taxes",
+     "types of businesses",
+     "things that shift demand"
+    ]
+   },
+   {
+    "id": "c05-8cb1de",
+    "q": "Sellers expect the price of their product to rise next month. Today they will likely:",
+    "choices": [
+     "sell everything immediately",
+     "hold back some supply",
+     "lower prices",
+     "stop producing forever"
+    ]
+   },
+   {
+    "id": "c05-0dc6cb",
+    "q": "To count as supply, a producer must be:",
+    "choices": [
+     "able only",
+     "willing only",
+     "willing and able to sell",
+     "a large corporation"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "id": "c06-066fcc",
+    "q": "Equilibrium is where:",
+    "choices": [
+     "demand is zero",
+     "price is highest",
+     "quantity demanded equals quantity supplied",
+     "supply is greatest"
+    ]
+   },
+   {
+    "id": "c06-d53c9f",
+    "q": "If the price of a product is set ABOVE equilibrium, the result is a:",
+    "choices": [
+     "shortage",
+     "price ceiling",
+     "black market",
+     "surplus"
+    ]
+   },
+   {
+    "id": "c06-687454",
+    "q": "If the price of a product is set BELOW equilibrium, the result is a:",
+    "choices": [
+     "surplus",
+     "recession",
+     "shortage",
+     "price floor"
+    ]
+   },
+   {
+    "id": "c06-a9b4f2",
+    "q": "Stores have piles of unsold winter coats in March. What will most likely happen?",
+    "choices": [
+     "Supply will rise",
+     "Prices will rise",
+     "Demand will rise",
+     "Prices will fall"
+    ]
+   },
+   {
+    "id": "c06-565bad",
+    "q": "Demand for space heaters rises during a cold snap. What happens to equilibrium price and quantity?",
+    "choices": [
+     "Price rises, quantity falls",
+     "Both rise",
+     "Price falls, quantity rises",
+     "Both fall"
+    ]
+   },
+   {
+    "id": "c06-aef924",
+    "q": "A record potato harvest increases supply. What happens to potato prices?",
+    "choices": [
+     "They double",
+     "They rise",
+     "They fall",
+     "They stay the same"
+    ]
+   },
+   {
+    "id": "c06-96d6fc",
+    "q": "A wildfire closes several sawmills. What happens to lumber?",
+    "choices": [
+     "Price falls and quantity rises",
+     "Both rise",
+     "Price rises and quantity falls",
+     "Both fall"
+    ]
+   },
+   {
+    "id": "c06-34427a",
+    "q": "Which is a job that prices do in a market economy?",
+    "choices": [
+     "Send signals about what people want",
+     "Prevent all shortages forever",
+     "Guarantee everyone gets what they need",
+     "Keep supply fixed"
+    ]
+   },
+   {
+    "id": "c06-124478",
+    "q": "A price ceiling is:",
+    "choices": [
+     "a tax on luxury goods",
+     "a legal minimum price",
+     "a legal maximum price",
+     "the equilibrium price"
+    ]
+   },
+   {
+    "id": "c06-6036f0",
+    "q": "A price floor is:",
+    "choices": [
+     "a legal maximum price",
+     "a legal minimum price",
+     "the lowest price in a store",
+     "a type of subsidy"
+    ]
+   },
+   {
+    "id": "c06-f4397a",
+    "q": "Rent control is an example of a:",
+    "choices": [
+     "price ceiling",
+     "surplus",
+     "price floor",
+     "subsidy"
+    ]
+   },
+   {
+    "id": "c06-2ad7c2",
+    "q": "The minimum wage is an example of a:",
+    "choices": [
+     "price floor",
+     "price ceiling",
+     "shortage",
+     "black market"
+    ]
+   },
+   {
+    "id": "c06-43cd4b",
+    "q": "A price ceiling set below the equilibrium price usually causes:",
+    "choices": [
+     "a shortage",
+     "a surplus",
+     "lower demand",
+     "more supply"
+    ]
+   },
+   {
+    "id": "c06-00f626",
+    "q": "Long waiting lists and illegal resale often appear when:",
+    "choices": [
+     "a price ceiling causes a shortage",
+     "a price floor causes a surplus",
+     "supply increases",
+     "markets are at equilibrium"
+    ]
+   },
+   {
+    "id": "c06-69c944",
+    "q": "Idaho's controlled hunt tags are handed out by drawing names. This rationing method is a:",
+    "choices": [
+     "black market",
+     "lottery",
+     "price system",
+     "first come, first served line"
+    ]
+   },
+   {
+    "id": "c06-becdf5",
+    "q": "Rising prices attract new sellers into a market because:",
+    "choices": [
+     "costs always fall",
+     "higher prices create an incentive to earn profit",
+     "demand always falls",
+     "the government requires it"
+    ]
+   },
+   {
+    "id": "c06-f19c94",
+    "q": "According to many economists, a minimum wage set far above local market wages can lead to:",
+    "choices": [
+     "lower prices for everyone",
+     "a shortage of workers",
+     "fewer jobs for some workers",
+     "no effect at all"
+    ]
+   },
+   {
+    "id": "c06-b18c51",
+    "q": "The federal minimum wage, which Idaho also uses, is:",
+    "choices": [
+     "$7.25 an hour",
+     "$5.15 an hour",
+     "$10.00 an hour",
+     "$15.00 an hour"
+    ]
+   },
+   {
+    "id": "c06-62017e",
+    "q": "Concert tickets sell out in minutes and are resold for five times the price. The original price was most likely:",
+    "choices": [
+     "below equilibrium",
+     "at equilibrium",
+     "a price floor",
+     "above equilibrium"
+    ]
+   },
+   {
+    "id": "c06-0d9e87",
+    "q": "Who decides the equilibrium price in a competitive market?",
+    "choices": [
+     "The Federal Reserve",
+     "The combined choices of many buyers and sellers",
+     "The biggest company",
+     "The government"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "id": "c07-d3ae39",
+    "q": "Which market structure has many sellers of identical products?",
+    "choices": [
+     "Oligopoly",
+     "Monopoly",
+     "Perfect competition",
+     "Monopolistic competition"
+    ]
+   },
+   {
+    "id": "c07-b9bfff",
+    "q": "A wheat farmer who must accept whatever price the market offers is a:",
+    "choices": [
+     "monopolist",
+     "price maker",
+     "price taker",
+     "cartel member"
+    ]
+   },
+   {
+    "id": "c07-ddc452",
+    "q": "Restaurants, hair salons, and clothing brands are examples of:",
+    "choices": [
+     "perfect competition",
+     "monopoly",
+     "natural monopoly",
+     "monopolistic competition"
+    ]
+   },
+   {
+    "id": "c07-ce4d63",
+    "q": "Product differentiation means:",
+    "choices": [
+     "refusing to advertise",
+     "selling the exact same product as everyone else",
+     "making your product seem different from competitors' products",
+     "charging the same price as everyone else"
+    ]
+   },
+   {
+    "id": "c07-f5016f",
+    "q": "Businesses in monopolistic competition spend a lot on:",
+    "choices": [
+     "patents for wheat",
+     "government lobbying for monopolies",
+     "price fixing",
+     "advertising and branding"
+    ]
+   },
+   {
+    "id": "c07-b24349",
+    "q": "A market controlled by a few large sellers is a(n):",
+    "choices": [
+     "oligopoly",
+     "monopoly",
+     "traditional market",
+     "perfect competition"
+    ]
+   },
+   {
+    "id": "c07-335e2b",
+    "q": "Which industry is the best example of an oligopoly?",
+    "choices": [
+     "Farmers markets",
+     "Hair salons",
+     "Airlines",
+     "Corner lemonade stands"
+    ]
+   },
+   {
+    "id": "c07-7b2670",
+    "q": "Barriers to entry are:",
+    "choices": [
+     "laws that require competition",
+     "fences around a store",
+     "taxes on imports only",
+     "obstacles that make it hard for new businesses to start in a market"
+    ]
+   },
+   {
+    "id": "c07-cf6e6f",
+    "q": "When competing companies secretly agree to set prices, it is called:",
+    "choices": [
+     "a merger",
+     "product differentiation",
+     "collusion or price fixing",
+     "perfect competition"
+    ]
+   },
+   {
+    "id": "c07-c8d24b",
+    "q": "OPEC is an example of a:",
+    "choices": [
+     "perfectly competitive market",
+     "government agency in the U.S.",
+     "cartel",
+     "monopoly granted by patent"
+    ]
+   },
+   {
+    "id": "c07-06deea",
+    "q": "A market with only one seller and no close substitutes is a:",
+    "choices": [
+     "cartel",
+     "monopolistic competition",
+     "monopoly",
+     "oligopoly"
+    ]
+   },
+   {
+    "id": "c07-53da3a",
+    "q": "Compared with competitive firms, monopolies tend to:",
+    "choices": [
+     "spend more on helping customers",
+     "charge higher prices and produce less",
+     "charge lower prices and produce more",
+     "have no control over price"
+    ]
+   },
+   {
+    "id": "c07-308c55",
+    "q": "Power and water companies are often natural monopolies because:",
+    "choices": [
+     "the government owns every business",
+     "nobody wants electricity",
+     "it's cheaper for one company to build the pipes and lines for everyone",
+     "they hold patents on water"
+    ]
+   },
+   {
+    "id": "c07-8c4da7",
+    "q": "Idaho Power's prices are regulated by the:",
+    "choices": [
+     "Federal Reserve",
+     "Idaho Public Utilities Commission",
+     "Supreme Court",
+     "Idaho Department of Education"
+    ]
+   },
+   {
+    "id": "c07-651e70",
+    "q": "A patent gives an inventor sole rights to an invention for about:",
+    "choices": [
+     "100 years",
+     "20 years",
+     "forever",
+     "2 years"
+    ]
+   },
+   {
+    "id": "c07-92982c",
+    "q": "Copyright protects:",
+    "choices": [
+     "books, songs, and movies",
+     "machines and inventions",
+     "land",
+     "bank accounts"
+    ]
+   },
+   {
+    "id": "c07-a751ae",
+    "q": "Antitrust laws are designed to:",
+    "choices": [
+     "create monopolies",
+     "promote competition and stop unfair monopolies",
+     "control the money supply",
+     "set the minimum wage"
+    ]
+   },
+   {
+    "id": "c07-5f9001",
+    "q": "The only gas station for 60 miles is an example of a:",
+    "choices": [
+     "cartel",
+     "geographic monopoly",
+     "perfect competitor",
+     "technological monopoly"
+    ]
+   },
+   {
+    "id": "c07-3da83d",
+    "q": "A merger happens when:",
+    "choices": [
+     "two companies combine into one",
+     "a company goes out of business",
+     "a company splits in two",
+     "two companies compete"
+    ]
+   },
+   {
+    "id": "c07-9adb26",
+    "q": "Which is generally TRUE about competition?",
+    "choices": [
+     "It is illegal in the United States",
+     "It reduces choices for consumers",
+     "It always raises prices",
+     "It leads to lower prices, better quality, and new ideas"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "id": "c08-52b457",
+    "q": "Profit is calculated as:",
+    "choices": [
+     "revenue plus costs",
+     "revenue minus costs",
+     "costs minus revenue",
+     "price times taxes"
+    ]
+   },
+   {
+    "id": "c08-03dc4e",
+    "q": "Which is NOT usually a trait of an entrepreneur?",
+    "choices": [
+     "Spotting a need",
+     "Innovating",
+     "Organizing resources",
+     "Avoiding all risk"
+    ]
+   },
+   {
+    "id": "c08-0db588",
+    "q": "Revenue is:",
+    "choices": [
+     "the cost of supplies",
+     "money owed to the bank",
+     "the money left after costs",
+     "all the money a business takes in from sales"
+    ]
+   },
+   {
+    "id": "c08-bf4639",
+    "q": "A business owned by one person is a:",
+    "choices": [
+     "partnership",
+     "cooperative",
+     "sole proprietorship",
+     "corporation"
+    ]
+   },
+   {
+    "id": "c08-148844",
+    "q": "The biggest disadvantage of a sole proprietorship is:",
+    "choices": [
+     "double taxation",
+     "unlimited liability",
+     "the owner must share profits",
+     "it is hard to start"
+    ]
+   },
+   {
+    "id": "c08-1d18ca",
+    "q": "Unlimited liability means:",
+    "choices": [
+     "the business lasts forever",
+     "the owner pays no taxes",
+     "the business can borrow unlimited money",
+     "the owner's personal property can be taken to pay business debts"
+    ]
+   },
+   {
+    "id": "c08-033ba2",
+    "q": "Two friends who own a bakery together have a:",
+    "choices": [
+     "sole proprietorship",
+     "partnership",
+     "corporation",
+     "franchise"
+    ]
+   },
+   {
+    "id": "c08-6c9791",
+    "q": "Partners should write a partnership agreement to:",
+    "choices": [
+     "avoid paying any taxes",
+     "spell out who does what and how money is shared",
+     "get limited liability automatically",
+     "sell stock to the public"
+    ]
+   },
+   {
+    "id": "c08-d5f8db",
+    "q": "A business that is a legal entity separate from its owners is a:",
+    "choices": [
+     "sole proprietorship",
+     "franchise",
+     "corporation",
+     "partnership"
+    ]
+   },
+   {
+    "id": "c08-bc3b10",
+    "q": "Limited liability means owners can lose:",
+    "choices": [
+     "only the money they invested",
+     "their job",
+     "nothing at all",
+     "their house and car"
+    ]
+   },
+   {
+    "id": "c08-b31871",
+    "q": "Double taxation affects:",
+    "choices": [
+     "partnerships only",
+     "sole proprietors only",
+     "nonprofits",
+     "corporations and their stockholders"
+    ]
+   },
+   {
+    "id": "c08-eb2654",
+    "q": "A dividend is:",
+    "choices": [
+     "a type of tax",
+     "the price of a stock",
+     "a share of a corporation's profit paid to stockholders",
+     "a loan from a bank"
+    ]
+   },
+   {
+    "id": "c08-48814d",
+    "q": "A major advantage of a corporation is:",
+    "choices": [
+     "it has no rules to follow",
+     "it is cheap and easy to start",
+     "its profits are never taxed",
+     "it can raise large amounts of money by selling stock"
+    ]
+   },
+   {
+    "id": "c08-56fe2e",
+    "q": "A fast-food restaurant owner who pays a big company to use its name and recipes owns a:",
+    "choices": [
+     "nonprofit",
+     "franchise",
+     "cooperative",
+     "partnership agreement"
+    ]
+   },
+   {
+    "id": "c08-8960ea",
+    "q": "A group of farmers who jointly own a business to sell their crops form a:",
+    "choices": [
+     "monopoly",
+     "corporation",
+     "cooperative",
+     "franchise"
+    ]
+   },
+   {
+    "id": "c08-335a6d",
+    "q": "A food bank that helps families and does not try to earn profit for owners is a:",
+    "choices": [
+     "corporation",
+     "franchise",
+     "sole proprietorship",
+     "nonprofit organization"
+    ]
+   },
+   {
+    "id": "c08-db90d0",
+    "q": "An LLC gives owners:",
+    "choices": [
+     "no taxes at all",
+     "unlimited liability",
+     "the right to print money",
+     "limited liability, with taxes more like a partnership"
+    ]
+   },
+   {
+    "id": "c08-4c98b5",
+    "q": "About what share of new businesses close within their first five years?",
+    "choices": [
+     "All of them",
+     "About half",
+     "About 1 in 100",
+     "Almost none"
+    ]
+   },
+   {
+    "id": "c08-4ab288",
+    "q": "Micron, Melaleuca, and Chobani's Twin Falls plant are examples of:",
+    "choices": [
+     "cooperatives",
+     "Idaho businesses that grew from an entrepreneur's idea",
+     "government-run monopolies",
+     "nonprofits"
+    ]
+   },
+   {
+    "id": "c08-964729",
+    "q": "A business plan describes:",
+    "choices": [
+     "the government's tax rules",
+     "what you'll sell, to whom, your costs, and how you'll earn a profit",
+     "your college plans",
+     "your family's monthly budget"
+    ]
+   }
+  ],
+  "9": [
+   {
+    "id": "c09-7a6306",
+    "q": "In the labor market, who supplies labor?",
+    "choices": [
+     "The government",
+     "Workers",
+     "Banks",
+     "Employers"
+    ]
+   },
+   {
+    "id": "c09-8d3447",
+    "q": "The \"price\" in the labor market is the:",
+    "choices": [
+     "wage",
+     "interest rate",
+     "rent",
+     "dividend"
+    ]
+   },
+   {
+    "id": "c09-edf3e5",
+    "q": "Demand for carpenters rises when people buy more houses. This shows labor demand is:",
+    "choices": [
+     "an inferior good",
+     "a price ceiling",
+     "inelastic demand",
+     "derived demand"
+    ]
+   },
+   {
+    "id": "c09-940955",
+    "q": "Which person is part of the labor force?",
+    "choices": [
+     "A 20-year-old looking for work",
+     "A 10-year-old student",
+     "A person who stopped looking for work",
+     "A retired 70-year-old not looking for work"
+    ]
+   },
+   {
+    "id": "c09-b789a0",
+    "q": "Why do surgeons usually earn more than lifeguards?",
+    "choices": [
+     "Lifeguards don't work hard",
+     "The government sets surgeon pay",
+     "Surgeons work more hours",
+     "Fewer people have the training to be surgeons, and their work produces high value"
+    ]
+   },
+   {
+    "id": "c09-73e176",
+    "q": "Which job most likely pays extra because of danger?",
+    "choices": [
+     "Power lineworker in winter storms",
+     "Library assistant",
+     "Cashier",
+     "Office receptionist"
+    ]
+   },
+   {
+    "id": "c09-0ed277",
+    "q": "Bureau of Labor Statistics data show that people with more education, on average:",
+    "choices": [
+     "are unemployed more often",
+     "earn the same as everyone else",
+     "earn more and are unemployed less often",
+     "earn less"
+    ]
+   },
+   {
+    "id": "c09-329fbd",
+    "q": "A labor union is:",
+    "choices": [
+     "a type of bank",
+     "a business that hires workers",
+     "a government agency that sets wages",
+     "a group of workers who bargain together with employers"
+    ]
+   },
+   {
+    "id": "c09-650403",
+    "q": "Collective bargaining is:",
+    "choices": [
+     "a government setting prices",
+     "workers buying stock",
+     "one worker asking for a raise",
+     "negotiation between a union and an employer"
+    ]
+   },
+   {
+    "id": "c09-f33c99",
+    "q": "A strike is when workers:",
+    "choices": [
+     "join a union",
+     "quit and start their own businesses",
+     "work extra hours",
+     "refuse to work until an agreement is reached"
+    ]
+   },
+   {
+    "id": "c09-d0a5f2",
+    "q": "Idaho is a right-to-work state, which means:",
+    "choices": [
+     "employers must hire everyone who applies",
+     "everyone has the right to a government job",
+     "unions are illegal",
+     "workers can't be forced to join a union to keep a job"
+    ]
+   },
+   {
+    "id": "c09-ab48c8",
+    "q": "Gross pay is:",
+    "choices": [
+     "money for overtime only",
+     "pay after taxes",
+     "the employer's profit",
+     "total earnings before deductions"
+    ]
+   },
+   {
+    "id": "c09-d9ce0d",
+    "q": "Net pay is:",
+    "choices": [
+     "total pay before deductions",
+     "the tax rate",
+     "a worker's yearly salary",
+     "take-home pay after deductions"
+    ]
+   },
+   {
+    "id": "c09-e2cfe3",
+    "q": "FICA taxes pay for:",
+    "choices": [
+     "schools and roads",
+     "Social Security and Medicare",
+     "state parks",
+     "the military"
+    ]
+   },
+   {
+    "id": "c09-fc84ce",
+    "q": "You earn $15 an hour and work 20 hours. Your gross pay is:",
+    "choices": [
+     "$150",
+     "$35",
+     "$300",
+     "$3,000"
+    ]
+   },
+   {
+    "id": "c09-a84996",
+    "q": "A 401(k) is a:",
+    "choices": [
+     "tax form",
+     "retirement savings plan through an employer",
+     "type of loan",
+     "union contract"
+    ]
+   },
+   {
+    "id": "c09-6fdf05",
+    "q": "Which is an example of a job benefit?",
+    "choices": [
+     "A speeding ticket",
+     "Your hourly wage",
+     "Employer-paid health insurance",
+     "Sales tax"
+    ]
+   },
+   {
+    "id": "c09-b46bc8",
+    "q": "An apprenticeship lets you:",
+    "choices": [
+     "join a union automatically",
+     "avoid paying taxes",
+     "skip all training",
+     "train on the job under a skilled worker while getting paid"
+    ]
+   },
+   {
+    "id": "c09-2f522f",
+    "q": "Employers often rank which skills near the top of what they want?",
+    "choices": [
+     "Video game skills",
+     "Only math skills",
+     "Knowing every state capital",
+     "Soft skills like communication, reliability, and teamwork"
+    ]
+   },
+   {
+    "id": "c09-5cff30",
+    "q": "Idaho's state income tax is a flat rate of about:",
+    "choices": [
+     "15 percent",
+     "0 percent",
+     "25 percent",
+     "5.3 percent"
+    ]
+   }
+  ],
+  "10": [
+   {
+    "id": "c10-24c574",
+    "q": "Barter is difficult mainly because of:",
+    "choices": [
+     "taxes",
+     "inflation",
+     "interest rates",
+     "the double coincidence of wants"
+    ]
+   },
+   {
+    "id": "c10-6b9d70",
+    "q": "When you use money to buy a sandwich, money is acting as a:",
+    "choices": [
+     "store of value",
+     "unit of account",
+     "medium of exchange",
+     "reserve"
+    ]
+   },
+   {
+    "id": "c10-c41bc0",
+    "q": "When you save money in a jar for next summer, money is acting as a:",
+    "choices": [
+     "unit of account",
+     "medium of exchange",
+     "store of value",
+     "commodity"
+    ]
+   },
+   {
+    "id": "c10-e24fc7",
+    "q": "Being able to compare a $40 reel and a $12 pizza shows money as a:",
+    "choices": [
+     "unit of account",
+     "medium of exchange",
+     "store of value",
+     "barter tool"
+    ]
+   },
+   {
+    "id": "c10-9092f2",
+    "q": "Which is NOT a characteristic of good money?",
+    "choices": [
+     "Divisible",
+     "Durable",
+     "Unlimited supply",
+     "Portable"
+    ]
+   },
+   {
+    "id": "c10-5ff607",
+    "q": "Money that has value because the government declares it legal and people trust it is:",
+    "choices": [
+     "representative money",
+     "barter",
+     "fiat money",
+     "commodity money"
+    ]
+   },
+   {
+    "id": "c10-a5432d",
+    "q": "Gold coins and salt used as money are examples of:",
+    "choices": [
+     "fiat money",
+     "representative money",
+     "M2",
+     "commodity money"
+    ]
+   },
+   {
+    "id": "c10-261c06",
+    "q": "The U.S. completely ended the gold standard in:",
+    "choices": [
+     "1913",
+     "2008",
+     "1971",
+     "1776"
+    ]
+   },
+   {
+    "id": "c10-af063f",
+    "q": "Today's U.S. dollar is:",
+    "choices": [
+     "representative money",
+     "commodity money",
+     "backed by gold",
+     "fiat money"
+    ]
+   },
+   {
+    "id": "c10-d720db",
+    "q": "M1 includes:",
+    "choices": [
+     "stocks and bonds",
+     "only gold",
+     "houses and cars",
+     "cash, checking accounts, and savings deposits"
+    ]
+   },
+   {
+    "id": "c10-374302",
+    "q": "Banks make money mainly by:",
+    "choices": [
+     "printing money",
+     "selling stock to the government",
+     "charging borrowers more interest than they pay savers",
+     "charging no fees"
+    ]
+   },
+   {
+    "id": "c10-52e43b",
+    "q": "Interest is:",
+    "choices": [
+     "a bank's building",
+     "the price of borrowing money",
+     "a tax on banks",
+     "a type of fiat money"
+    ]
+   },
+   {
+    "id": "c10-92e22d",
+    "q": "Fractional reserve banking means banks:",
+    "choices": [
+     "keep only part of deposits and lend the rest",
+     "only lend to the government",
+     "lend money they don't have",
+     "keep all deposits in a vault"
+    ]
+   },
+   {
+    "id": "c10-f9bdba",
+    "q": "When banks lend out deposits, the money supply:",
+    "choices": [
+     "disappears",
+     "stays exactly the same",
+     "shrinks",
+     "grows"
+    ]
+   },
+   {
+    "id": "c10-954124",
+    "q": "A credit union is:",
+    "choices": [
+     "a monopoly bank",
+     "a government agency",
+     "a nonprofit financial co-op owned by its members",
+     "a type of stock"
+    ]
+   },
+   {
+    "id": "c10-01bac7",
+    "q": "When many people rush to withdraw their money because they fear a bank will fail, it is a:",
+    "choices": [
+     "bank run",
+     "bank holiday",
+     "deposit",
+     "reserve requirement"
+    ]
+   },
+   {
+    "id": "c10-a7c97d",
+    "q": "The FDIC was created in 1933 to:",
+    "choices": [
+     "set the minimum wage",
+     "print money",
+     "collect taxes",
+     "insure bank deposits so people don't lose their savings"
+    ]
+   },
+   {
+    "id": "c10-121308",
+    "q": "The FDIC insures deposits up to:",
+    "choices": [
+     "$250,000 per person, per bank, per account type",
+     "an unlimited amount",
+     "$1,000",
+     "$25,000"
+    ]
+   },
+   {
+    "id": "c10-18bb5b",
+    "q": "Deposits at credit unions are insured by the:",
+    "choices": [
+     "Federal Reserve Bank of Idaho",
+     "NCUA",
+     "IRS",
+     "FDIC only"
+    ]
+   },
+   {
+    "id": "c10-f9e497",
+    "q": "Fur traders in early Idaho used which as money?",
+    "choices": [
+     "Bitcoin",
+     "Paper checks",
+     "Credit cards",
+     "Beaver pelts"
+    ]
+   }
+  ],
+  "11": [
+   {
+    "id": "c11-7c9c63",
+    "q": "A checking account is mainly used for:",
+    "choices": [
+     "buying stocks",
+     "borrowing money",
+     "long-term investing",
+     "everyday spending and paying bills"
+    ]
+   },
+   {
+    "id": "c11-ba85c7",
+    "q": "A debit card:",
+    "choices": [
+     "takes money directly from your checking account",
+     "borrows money from the bank",
+     "builds a credit score by itself",
+     "only works at ATMs"
+    ]
+   },
+   {
+    "id": "c11-ad8cf9",
+    "q": "An overdraft happens when you:",
+    "choices": [
+     "open a new account",
+     "earn interest",
+     "deposit a paycheck",
+     "spend more money than you have in your account"
+    ]
+   },
+   {
+    "id": "c11-5b31a1",
+    "q": "What is a simple way to avoid overdraft fees?",
+    "choices": [
+     "Use your debit card more often",
+     "Ignore your bank app",
+     "Opt out of overdraft coverage and track your balance",
+     "Close your savings account"
+    ]
+   },
+   {
+    "id": "c11-e9cb29",
+    "q": "Direct deposit means:",
+    "choices": [
+     "your bank pays you a bonus",
+     "you deposit coins at a machine",
+     "you cash your paycheck at a store",
+     "your paycheck goes straight into your bank account"
+    ]
+   },
+   {
+    "id": "c11-cc155f",
+    "q": "Reconciling your account means:",
+    "choices": [
+     "borrowing from your account",
+     "comparing your records with the bank's to make sure they match",
+     "moving to a new bank",
+     "closing your account"
+    ]
+   },
+   {
+    "id": "c11-b9797e",
+    "q": "APY stands for:",
+    "choices": [
+     "account payment year",
+     "annual percentage yield",
+     "annual payment yearly",
+     "automatic purchase yield"
+    ]
+   },
+   {
+    "id": "c11-f2d027",
+    "q": "Compound interest is:",
+    "choices": [
+     "a fee charged on loans",
+     "interest earned on both your deposit and past interest",
+     "a type of tax",
+     "interest earned only on the original deposit"
+    ]
+   },
+   {
+    "id": "c11-e45aa9",
+    "q": "A certificate of deposit (CD):",
+    "choices": [
+     "is a credit card",
+     "is a type of stock",
+     "can be withdrawn any time with no penalty",
+     "pays a higher rate if you leave money in for a set time"
+    ]
+   },
+   {
+    "id": "c11-fb888c",
+    "q": "Generally, when you give up more access to your money:",
+    "choices": [
+     "you get a lower interest rate",
+     "the FDIC stops insuring it",
+     "the bank charges more fees",
+     "you get a higher interest rate"
+    ]
+   },
+   {
+    "id": "c11-02e2dc",
+    "q": "An emergency fund is:",
+    "choices": [
+     "a government program",
+     "money for vacations",
+     "a loan from the bank",
+     "money saved for unexpected expenses"
+    ]
+   },
+   {
+    "id": "c11-274d2b",
+    "q": "A common emergency fund target for adults is:",
+    "choices": [
+     "10 years of expenses",
+     "one week of expenses",
+     "3 to 6 months of expenses",
+     "$10"
+    ]
+   },
+   {
+    "id": "c11-30f966",
+    "q": "Which savings account usually pays the highest interest?",
+    "choices": [
+     "A typical checking account",
+     "A high-yield savings account",
+     "A coin jar",
+     "A prepaid debit card"
+    ]
+   },
+   {
+    "id": "c11-5a9dd4",
+    "q": "Sending money on a payment app to a stranger is risky because:",
+    "choices": [
+     "it builds your credit",
+     "the bank always refunds it",
+     "the app charges no fees",
+     "it can be hard or impossible to get the money back"
+    ]
+   },
+   {
+    "id": "c11-49c9fe",
+    "q": "Cryptocurrency is:",
+    "choices": [
+     "insured by the FDIC",
+     "printed by the Federal Reserve",
+     "the same as a savings account",
+     "digital money not issued by a government, with prices that swing widely"
+    ]
+   },
+   {
+    "id": "c11-33b018",
+    "q": "Buy now, pay later plans can be risky because:",
+    "choices": [
+     "they always lower your credit score",
+     "they never charge anything",
+     "they are illegal",
+     "they make it easy to overspend and missed payments bring fees"
+    ]
+   },
+   {
+    "id": "c11-2dbf62",
+    "q": "Phishing is:",
+    "choices": [
+     "fake messages that try to trick you into giving personal information",
+     "a type of savings account",
+     "a bank's welcome email",
+     "a fishing license"
+    ]
+   },
+   {
+    "id": "c11-841eae",
+    "q": "Your bank will never ask you to share your:",
+    "choices": [
+     "PIN or one-time security code",
+     "branch location",
+     "name",
+     "account type"
+    ]
+   },
+   {
+    "id": "c11-e47450",
+    "q": "Identity theft is:",
+    "choices": [
+     "someone using your personal information to commit fraud",
+     "losing your wallet with no cash in it",
+     "a bank error",
+     "forgetting your password"
+    ]
+   },
+   {
+    "id": "c11-258771",
+    "q": "If you see a charge you didn't make, you should:",
+    "choices": [
+     "wait a few months",
+     "post your card number online to warn others",
+     "report it to your bank right away",
+     "ignore it"
+    ]
+   }
+  ],
+  "12": [
+   {
+    "id": "c12-caff13",
+    "q": "The basic rule of investing is:",
+    "choices": [
+     "higher possible returns come with higher risk",
+     "all investments are equally safe",
+     "higher returns come with lower risk",
+     "risk and return are unrelated"
+    ]
+   },
+   {
+    "id": "c12-1a89f0",
+    "q": "Compound interest is earned on:",
+    "choices": [
+     "the principal only",
+     "taxes",
+     "the principal plus interest already earned",
+     "loans only"
+    ]
+   },
+   {
+    "id": "c12-5847fb",
+    "q": "$1,000 at 8 percent compound interest for 30 years grows to about:",
+    "choices": [
+     "$10,000",
+     "$1,000,000",
+     "$1,080",
+     "$3,400"
+    ]
+   },
+   {
+    "id": "c12-c29bb2",
+    "q": "Using the Rule of 72, money earning 6 percent doubles in about:",
+    "choices": [
+     "72 years",
+     "6 years",
+     "12 years",
+     "3 years"
+    ]
+   },
+   {
+    "id": "c12-2fc0b5",
+    "q": "Why does starting to invest early matter so much?",
+    "choices": [
+     "Early investments are tax-free forever",
+     "Stocks are cheaper for teenagers",
+     "Compound interest has more time to grow your money",
+     "Banks pay young people more"
+    ]
+   },
+   {
+    "id": "c12-cfbf20",
+    "q": "Owning a share of stock means you:",
+    "choices": [
+     "loaned money to a corporation",
+     "own a small part of a corporation",
+     "owe the corporation money",
+     "work for the corporation"
+    ]
+   },
+   {
+    "id": "c12-37a9f7",
+    "q": "A capital gain is:",
+    "choices": [
+     "a bank fee",
+     "a dividend",
+     "profit from selling an investment for more than you paid",
+     "a type of bond"
+    ]
+   },
+   {
+    "id": "c12-50c6de",
+    "q": "A bond is:",
+    "choices": [
+     "a loan to a government or company that pays interest",
+     "a savings account",
+     "a type of credit card",
+     "ownership in a company"
+    ]
+   },
+   {
+    "id": "c12-aaa4aa",
+    "q": "Which bond is considered the safest?",
+    "choices": [
+     "Cryptocurrency",
+     "U.S. Treasury bond",
+     "Corporate bond from a new startup",
+     "A friend's IOU"
+    ]
+   },
+   {
+    "id": "c12-8501d0",
+    "q": "A bear market is:",
+    "choices": [
+     "a type of bond",
+     "a farmers market",
+     "when stock prices fall 20 percent or more",
+     "a long period of rising stock prices"
+    ]
+   },
+   {
+    "id": "c12-f78fb1",
+    "q": "The S&P 500 is a:",
+    "choices": [
+     "bank",
+     "tax form",
+     "government bond",
+     "stock market index"
+    ]
+   },
+   {
+    "id": "c12-edf423",
+    "q": "Diversification means:",
+    "choices": [
+     "putting all your money in one stock",
+     "spreading money across many investments to lower risk",
+     "borrowing to invest",
+     "keeping money under your mattress"
+    ]
+   },
+   {
+    "id": "c12-84d3d3",
+    "q": "An index fund:",
+    "choices": [
+     "is a type of loan",
+     "buys only one stock",
+     "guarantees you never lose money",
+     "buys all the stocks in an index, like the S&P 500"
+    ]
+   },
+   {
+    "id": "c12-6ec7ce",
+    "q": "A fund's expense ratio is:",
+    "choices": [
+     "how risky it is",
+     "its rate of return",
+     "the yearly fee it charges",
+     "its number of stocks"
+    ]
+   },
+   {
+    "id": "c12-1b296c",
+    "q": "If your employer offers a 401(k) match, you should usually:",
+    "choices": [
+     "only use it after age 50",
+     "ignore it",
+     "contribute enough to get the full match, because it's free money",
+     "withdraw it immediately"
+    ]
+   },
+   {
+    "id": "c12-e8d618",
+    "q": "A Roth IRA is especially good for young workers because:",
+    "choices": [
+     "it can never lose value",
+     "it is insured by the FDIC",
+     "money grows tax-free after you pay taxes on it now",
+     "you don't need earned income"
+    ]
+   },
+   {
+    "id": "c12-b35cc2",
+    "q": "Money you'll need next year is best kept in:",
+    "choices": [
+     "cryptocurrency",
+     "a safe place like savings or a short CD",
+     "a 30-year bond",
+     "a single risky stock"
+    ]
+   },
+   {
+    "id": "c12-7f9b4a",
+    "q": "Time horizon means:",
+    "choices": [
+     "how fast prices rise",
+     "how long until you need the money",
+     "the length of a loan",
+     "the time the stock market opens"
+    ]
+   },
+   {
+    "id": "c12-aa859e",
+    "q": "An investment that promises big returns with \"no risk\" is most likely:",
+    "choices": [
+     "a U.S. Treasury bond",
+     "a scam such as a Ponzi scheme",
+     "an index fund",
+     "a savings account"
+    ]
+   },
+   {
+    "id": "c12-5fa0c5",
+    "q": "Historically, U.S. stocks have averaged roughly what return per year over the long run, before inflation?",
+    "choices": [
+     "0 percent",
+     "About 50 percent every year",
+     "Exactly 2 percent every year",
+     "About 10 percent, with big ups and downs"
+    ]
+   }
+  ],
+  "13": [
+   {
+    "id": "c13-fdda4c",
+    "q": "A budget is:",
+    "choices": [
+     "a loan",
+     "a plan for spending and saving income",
+     "a type of bank account",
+     "a list of things you already bought"
+    ]
+   },
+   {
+    "id": "c13-9a2194",
+    "q": "Which goal is SMART?",
+    "choices": [
+     "Save more money",
+     "Save $600 for a laptop by May 1 by saving $50 a week",
+     "Be rich someday",
+     "Spend less"
+    ]
+   },
+   {
+    "id": "c13-4f16bd",
+    "q": "Rent and a car insurance payment are examples of:",
+    "choices": [
+     "variable expenses",
+     "fixed expenses",
+     "income",
+     "savings"
+    ]
+   },
+   {
+    "id": "c13-012757",
+    "q": "Groceries and gas are usually:",
+    "choices": [
+     "fixed expenses",
+     "income",
+     "variable expenses",
+     "assets"
+    ]
+   },
+   {
+    "id": "c13-26224b",
+    "q": "\"Pay yourself first\" means:",
+    "choices": [
+     "buying something fun with each paycheck",
+     "moving money into savings as soon as you get paid",
+     "paying your bills last",
+     "borrowing from yourself"
+    ]
+   },
+   {
+    "id": "c13-837bb9",
+    "q": "Under the 50/30/20 rule, what share goes to needs?",
+    "choices": [
+     "30 percent",
+     "20 percent",
+     "100 percent",
+     "50 percent"
+    ]
+   },
+   {
+    "id": "c13-abfcc7",
+    "q": "Under the 50/30/20 rule, someone taking home $2,000 should save about:",
+    "choices": [
+     "$200",
+     "$1,000",
+     "$600",
+     "$400"
+    ]
+   },
+   {
+    "id": "c13-fcf2fa",
+    "q": "If your expenses are greater than your income, you have a:",
+    "choices": [
+     "deficit",
+     "dividend",
+     "balanced budget",
+     "surplus"
+    ]
+   },
+   {
+    "id": "c13-9dcae1",
+    "q": "A zero-based budget means:",
+    "choices": [
+     "you spend all your money",
+     "you have zero savings",
+     "every dollar of income is given a job",
+     "you earn no income"
+    ]
+   },
+   {
+    "id": "c13-b6ecda",
+    "q": "Lifestyle creep is:",
+    "choices": [
+     "a budgeting app",
+     "a type of insurance",
+     "saving more as income rises",
+     "spending more as your income rises"
+    ]
+   },
+   {
+    "id": "c13-cca66f",
+    "q": "A good way to avoid impulse buying is to:",
+    "choices": [
+     "buy everything on sale immediately",
+     "wait 24 hours before an unplanned purchase",
+     "shop when you're bored",
+     "leave your budget at home"
+    ]
+   },
+   {
+    "id": "c13-483023",
+    "q": "Comparing the price per ounce of two cereals means comparing:",
+    "choices": [
+     "unit prices",
+     "net price",
+     "sales tax",
+     "depreciation"
+    ]
+   },
+   {
+    "id": "c13-4daf1a",
+    "q": "Idaho's state sales tax rate is:",
+    "choices": [
+     "10 percent",
+     "0 percent",
+     "2 percent",
+     "6 percent"
+    ]
+   },
+   {
+    "id": "c13-a34409",
+    "q": "Idaho's food tax credit in 2026 is:",
+    "choices": [
+     "$5 per person",
+     "$1,000 per family",
+     "zero, groceries aren't taxed",
+     "$155 per person"
+    ]
+   },
+   {
+    "id": "c13-00208f",
+    "q": "Depreciation is:",
+    "choices": [
+     "the loss of value over time",
+     "a sales tax",
+     "a type of loan",
+     "an increase in value"
+    ]
+   },
+   {
+    "id": "c13-c3575e",
+    "q": "The total cost of owning a car includes:",
+    "choices": [
+     "only gas",
+     "only the sticker price",
+     "price, loan interest, insurance, gas, and repairs",
+     "only the monthly payment"
+    ]
+   },
+   {
+    "id": "c13-693cb6",
+    "q": "The net price of college is:",
+    "choices": [
+     "tuition only",
+     "the cost of books",
+     "the sticker price",
+     "the cost after grants and scholarships"
+    ]
+   },
+   {
+    "id": "c13-c9f2de",
+    "q": "The FAFSA is used to apply for:",
+    "choices": [
+     "a credit card",
+     "federal grants, work-study, and student loans",
+     "a driver's license",
+     "a passport"
+    ]
+   },
+   {
+    "id": "c13-41ce80",
+    "q": "Which type of college aid does NOT have to be paid back?",
+    "choices": [
+     "A private loan",
+     "A grant or scholarship",
+     "A credit card",
+     "A federal student loan"
+    ]
+   },
+   {
+    "id": "c13-03b41a",
+    "q": "Which is a fair warning sign when comparing college costs?",
+    "choices": [
+     "Using a net price calculator",
+     "Applying for scholarships",
+     "Borrowing far more than you're likely to earn in your first year on the job",
+     "Filling out the FAFSA"
+    ]
+   }
+  ],
+  "14": [
+   {
+    "id": "c14-0a9a51",
+    "q": "Credit means:",
+    "choices": [
+     "a tax refund",
+     "money given as a gift",
+     "money you've saved",
+     "borrowing money now and paying it back later, usually with interest"
+    ]
+   },
+   {
+    "id": "c14-70e270",
+    "q": "The best number for comparing the cost of loans is the:",
+    "choices": [
+     "APR",
+     "credit limit",
+     "principal only",
+     "minimum payment"
+    ]
+   },
+   {
+    "id": "c14-20af5e",
+    "q": "A car loan repaid in equal monthly payments over 5 years is:",
+    "choices": [
+     "a grant",
+     "installment credit",
+     "a payday loan",
+     "revolving credit"
+    ]
+   },
+   {
+    "id": "c14-f92632",
+    "q": "A credit card is an example of:",
+    "choices": [
+     "collateral",
+     "revolving credit",
+     "installment credit",
+     "a mortgage"
+    ]
+   },
+   {
+    "id": "c14-945193",
+    "q": "Collateral is:",
+    "choices": [
+     "the interest rate",
+     "a credit score",
+     "a type of bank account",
+     "property the lender can take if you don't repay"
+    ]
+   },
+   {
+    "id": "c14-d63600",
+    "q": "A loan backed by collateral is a:",
+    "choices": [
+     "payday loan",
+     "secured loan",
+     "grant",
+     "unsecured loan"
+    ]
+   },
+   {
+    "id": "c14-f2abe2",
+    "q": "If you stop making payments on a mortgage, you may face:",
+    "choices": [
+     "a tax credit",
+     "repossession of your phone",
+     "a raise in your credit score",
+     "foreclosure"
+    ]
+   },
+   {
+    "id": "c14-ea8751",
+    "q": "If you pay your full credit card statement balance every month, you usually pay:",
+    "choices": [
+     "double interest",
+     "no interest",
+     "the minimum payment only",
+     "a foreclosure fee"
+    ]
+   },
+   {
+    "id": "c14-b7be9c",
+    "q": "Why are payday loans dangerous?",
+    "choices": [
+     "Their fees can equal APRs of 300 percent or more",
+     "They're insured by the FDIC",
+     "They have very low interest",
+     "They raise your credit score fast"
+    ]
+   },
+   {
+    "id": "c14-78d4cb",
+    "q": "The three major credit bureaus are:",
+    "choices": [
+     "Visa, Mastercard, and Discover",
+     "FDIC, NCUA, and IRS",
+     "Equifax, Experian, and TransUnion",
+     "Chase, Wells Fargo, and Zions"
+    ]
+   },
+   {
+    "id": "c14-36dca5",
+    "q": "FICO credit scores range from:",
+    "choices": [
+     "500 to 1,000",
+     "300 to 850",
+     "0 to 100",
+     "1 to 10"
+    ]
+   },
+   {
+    "id": "c14-7192e6",
+    "q": "The biggest factor in a FICO credit score is:",
+    "choices": [
+     "your income",
+     "new credit",
+     "payment history",
+     "credit mix"
+    ]
+   },
+   {
+    "id": "c14-247383",
+    "q": "Credit utilization means:",
+    "choices": [
+     "your total income",
+     "your interest rate",
+     "how much of your available credit you are using",
+     "how many cards you own"
+    ]
+   },
+   {
+    "id": "c14-07111c",
+    "q": "To help your score, experts suggest keeping credit utilization under about:",
+    "choices": [
+     "90 percent",
+     "75 percent",
+     "100 percent",
+     "30 percent"
+    ]
+   },
+   {
+    "id": "c14-df57ad",
+    "q": "A higher credit score usually means:",
+    "choices": [
+     "you can't get a loan",
+     "you pay more taxes",
+     "higher interest rates on loans",
+     "lower interest rates on loans"
+    ]
+   },
+   {
+    "id": "c14-027760",
+    "q": "You can check your credit reports for free at:",
+    "choices": [
+     "AnnualCreditReport.com",
+     "any store checkout",
+     "your school's website",
+     "the DMV"
+    ]
+   },
+   {
+    "id": "c14-a90fc9",
+    "q": "A secured credit card:",
+    "choices": [
+     "can't be used to build credit",
+     "is a type of mortgage",
+     "uses a cash deposit as the credit limit and helps build credit",
+     "has no limit"
+    ]
+   },
+   {
+    "id": "c14-7e6e2c",
+    "q": "Paying only the minimum on a large credit card balance usually means:",
+    "choices": [
+     "paying no interest",
+     "paying much more in interest over a long time",
+     "raising your credit limit automatically",
+     "paying the debt off in one month"
+    ]
+   },
+   {
+    "id": "c14-bed057",
+    "q": "For college, which loans should usually be used before private loans?",
+    "choices": [
+     "Payday loans",
+     "Federal student loans",
+     "Title loans",
+     "Credit card cash advances"
+    ]
+   },
+   {
+    "id": "c14-8c7f11",
+    "q": "Bankruptcy can stay on your credit report for:",
+    "choices": [
+     "30 days",
+     "1 year",
+     "7 to 10 years",
+     "forever, with no limit"
+    ]
+   }
+  ],
+  "15": [
+   {
+    "id": "c15-d42fb6",
+    "q": "Insurance works by:",
+    "choices": [
+     "loaning money at high interest",
+     "pooling the risk of many people who pay premiums",
+     "giving everyone their premiums back",
+     "guaranteeing nothing bad will happen"
+    ]
+   },
+   {
+    "id": "c15-415ecf",
+    "q": "A premium is:",
+    "choices": [
+     "what you pay before insurance pays",
+     "the insurance company's profit",
+     "the regular payment to keep insurance active",
+     "a request for payment"
+    ]
+   },
+   {
+    "id": "c15-310abb",
+    "q": "A deductible is:",
+    "choices": [
+     "the most the policy will pay",
+     "a tax break",
+     "the amount you pay before insurance starts paying",
+     "the monthly cost of insurance"
+    ]
+   },
+   {
+    "id": "c15-047c8d",
+    "q": "Choosing a higher deductible usually means:",
+    "choices": [
+     "a higher premium",
+     "better coverage",
+     "no premium",
+     "a lower premium"
+    ]
+   },
+   {
+    "id": "c15-e43826",
+    "q": "A claim is:",
+    "choices": [
+     "a type of policy",
+     "a car accident",
+     "the monthly payment",
+     "a request for the insurance company to pay"
+    ]
+   },
+   {
+    "id": "c15-e8a9b6",
+    "q": "Wearing a helmet while biking is an example of:",
+    "choices": [
+     "keeping risk",
+     "transferring risk",
+     "reducing risk",
+     "avoiding risk completely"
+    ]
+   },
+   {
+    "id": "c15-583b4e",
+    "q": "Buying insurance is an example of:",
+    "choices": [
+     "keeping risk",
+     "increasing risk",
+     "transferring risk",
+     "avoiding risk"
+    ]
+   },
+   {
+    "id": "c15-0f9791",
+    "q": "What does auto liability insurance pay for?",
+    "choices": [
+     "Your own medical bills only",
+     "Theft of your car",
+     "Repairs to your own car",
+     "Injuries and damage you cause to others"
+    ]
+   },
+   {
+    "id": "c15-f9ca01",
+    "q": "Idaho's minimum auto liability coverage is often written as:",
+    "choices": [
+     "25/50/15",
+     "100/300/100",
+     "0/0/0",
+     "10/20/5"
+    ]
+   },
+   {
+    "id": "c15-ce9d4b",
+    "q": "Hitting a deer and hail damage are usually covered by:",
+    "choices": [
+     "comprehensive coverage",
+     "life insurance",
+     "liability only",
+     "collision coverage"
+    ]
+   },
+   {
+    "id": "c15-cfcf79",
+    "q": "A copay is:",
+    "choices": [
+     "the total hospital bill",
+     "the yearly premium",
+     "a fixed fee for a doctor visit or prescription",
+     "a type of deductible"
+    ]
+   },
+   {
+    "id": "c15-326cf8",
+    "q": "After the deductible, paying 20 percent of medical costs is called:",
+    "choices": [
+     "liability",
+     "a premium",
+     "a copay",
+     "coinsurance"
+    ]
+   },
+   {
+    "id": "c15-00a9b5",
+    "q": "The out-of-pocket maximum is:",
+    "choices": [
+     "the highest premium allowed",
+     "the most a doctor can charge",
+     "your deductible",
+     "the most you'll pay for covered health care in a year"
+    ]
+   },
+   {
+    "id": "c15-4a5f8e",
+    "q": "Young adults can usually stay on a parent's health plan until age:",
+    "choices": [
+     "18",
+     "21",
+     "30",
+     "26"
+    ]
+   },
+   {
+    "id": "c15-06a99b",
+    "q": "Medicare mainly covers:",
+    "choices": [
+     "people with high incomes",
+     "children only",
+     "pets",
+     "people 65 and older"
+    ]
+   },
+   {
+    "id": "c15-06c96d",
+    "q": "Renters insurance protects:",
+    "choices": [
+     "the renter's belongings",
+     "the landlord's building",
+     "the apartment's roof",
+     "the landlord's income"
+    ]
+   },
+   {
+    "id": "c15-dee5e8",
+    "q": "A beneficiary is:",
+    "choices": [
+     "the person who receives life insurance money",
+     "the insured person's doctor",
+     "a type of premium",
+     "the person who sells insurance"
+    ]
+   },
+   {
+    "id": "c15-5193c3",
+    "q": "Which agency handles complaints about banks, loans, and credit cards?",
+    "choices": [
+     "Department of Education",
+     "Idaho Fish and Game",
+     "National Park Service",
+     "Consumer Financial Protection Bureau"
+    ]
+   },
+   {
+    "id": "c15-4d7465",
+    "q": "A warranty is:",
+    "choices": [
+     "a type of insurance premium",
+     "a seller's promise to repair or replace a faulty product",
+     "a store coupon",
+     "a credit report"
+    ]
+   },
+   {
+    "id": "c15-5d362e",
+    "q": "Someone demands you pay a \"government fee\" with gift cards. This is most likely:",
+    "choices": [
+     "a scam",
+     "a normal tax payment",
+     "a warranty claim",
+     "an insurance premium"
+    ]
+   }
+  ],
+  "16": [
+   {
+    "id": "c16-ce43dc",
+    "q": "GDP measures:",
+    "choices": [
+     "the total market value of final goods and services made within a country in a year",
+     "the value of all stocks",
+     "the total money in banks",
+     "the government's yearly budget"
+    ]
+   },
+   {
+    "id": "c16-edfc00",
+    "q": "Which is counted in U.S. GDP?",
+    "choices": [
+     "A share of stock",
+     "Unpaid babysitting for your sibling",
+     "A used car sold this year",
+     "A new car built in Ohio"
+    ]
+   },
+   {
+    "id": "c16-ab9d34",
+    "q": "Flour bought by a bakery to make bread is an example of:",
+    "choices": [
+     "net exports",
+     "an intermediate good",
+     "a final good",
+     "a service"
+    ]
+   },
+   {
+    "id": "c16-6c4345",
+    "q": "Why aren't intermediate goods counted separately in GDP?",
+    "choices": [
+     "It would cause double counting",
+     "They are not important",
+     "They are always imported",
+     "They are illegal"
+    ]
+   },
+   {
+    "id": "c16-294bd5",
+    "q": "A car built in Indiana by a Japanese company is counted in:",
+    "choices": [
+     "Japan's GDP only",
+     "U.S. GDP",
+     "both countries' GDP equally",
+     "no country's GDP"
+    ]
+   },
+   {
+    "id": "c16-d8d789",
+    "q": "In GDP = C + I + G + (X - M), what does C stand for?",
+    "choices": [
+     "Credit",
+     "Currency",
+     "Consumption",
+     "Capital"
+    ]
+   },
+   {
+    "id": "c16-6f3494",
+    "q": "The largest part of U.S. GDP is:",
+    "choices": [
+     "government purchases",
+     "consumption",
+     "investment",
+     "net exports"
+    ]
+   },
+   {
+    "id": "c16-b06bd8",
+    "q": "In GDP, \"investment\" means:",
+    "choices": [
+     "putting money in savings",
+     "government spending",
+     "buying stocks and bonds",
+     "business spending on capital and new housing"
+    ]
+   },
+   {
+    "id": "c16-65fa60",
+    "q": "Net exports are:",
+    "choices": [
+     "all imports",
+     "all exports",
+     "imports minus exports",
+     "exports minus imports"
+    ]
+   },
+   {
+    "id": "c16-4fa78c",
+    "q": "Because the U.S. usually imports more than it exports, U.S. net exports are:",
+    "choices": [
+     "zero",
+     "negative",
+     "not counted",
+     "positive"
+    ]
+   },
+   {
+    "id": "c16-b0eea1",
+    "q": "Real GDP is:",
+    "choices": [
+     "GDP adjusted for inflation",
+     "GDP in current prices",
+     "GDP of exports only",
+     "GDP per person"
+    ]
+   },
+   {
+    "id": "c16-d3b04b",
+    "q": "GDP per capita is:",
+    "choices": [
+     "GDP times population",
+     "real GDP minus nominal GDP",
+     "GDP minus imports",
+     "GDP divided by population"
+    ]
+   },
+   {
+    "id": "c16-385322",
+    "q": "Which is NOT measured by GDP?",
+    "choices": [
+     "Restaurant meals",
+     "Pollution and environmental damage",
+     "New houses built",
+     "Government purchases of equipment"
+    ]
+   },
+   {
+    "id": "c16-7ed1e5",
+    "q": "Activity that is illegal or not reported is called the:",
+    "choices": [
+     "underground economy",
+     "market economy",
+     "command economy",
+     "formal economy"
+    ]
+   },
+   {
+    "id": "c16-6e5f8e",
+    "q": "Economic growth is best defined as a steady increase in:",
+    "choices": [
+     "prices",
+     "the money supply",
+     "real GDP per capita",
+     "nominal GDP only"
+    ]
+   },
+   {
+    "id": "c16-9fee94",
+    "q": "Which would MOST help long-run economic growth?",
+    "choices": [
+     "Better education and new technology",
+     "Burning down factories",
+     "Banning new businesses",
+     "Fewer workers learning skills"
+    ]
+   },
+   {
+    "id": "c16-65b994",
+    "q": "Using the Rule of 72, an economy growing 3 percent a year doubles in about:",
+    "choices": [
+     "3 years",
+     "10 years",
+     "24 years",
+     "72 years"
+    ]
+   },
+   {
+    "id": "c16-b4e69f",
+    "q": "The income approach to GDP adds up:",
+    "choices": [
+     "wages, rent, interest, and profit",
+     "all exports",
+     "only government spending",
+     "the money supply"
+    ]
+   },
+   {
+    "id": "c16-982fca",
+    "q": "Why do economists prefer real GDP when comparing years?",
+    "choices": [
+     "It is always larger",
+     "It counts stocks",
+     "It includes used goods",
+     "It removes the effect of rising prices"
+    ]
+   },
+   {
+    "id": "c16-cdd333",
+    "q": "The Human Development Index combines:",
+    "choices": [
+     "income, education, and life expectancy",
+     "exports, imports, and tariffs",
+     "taxes, spending, and debt",
+     "stocks, bonds, and savings"
+    ]
+   }
+  ],
+  "17": [
+   {
+    "id": "c17-f2f449",
+    "q": "The unemployment rate measures:",
+    "choices": [
+     "the number of job openings",
+     "the number of retirees",
+     "the percent of the labor force without a job and looking for one",
+     "the percent of all people without jobs"
+    ]
+   },
+   {
+    "id": "c17-71c0c7",
+    "q": "A town has a labor force of 20,000 and 1,000 unemployed people. The unemployment rate is:",
+    "choices": [
+     "1 percent",
+     "20 percent",
+     "10 percent",
+     "5 percent"
+    ]
+   },
+   {
+    "id": "c17-12142d",
+    "q": "A worker who has given up looking for a job is called a:",
+    "choices": [
+     "seasonal worker",
+     "discouraged worker",
+     "full-time worker",
+     "frictionally unemployed worker"
+    ]
+   },
+   {
+    "id": "c17-e48bb1",
+    "q": "A college graduate searching for her first job is an example of:",
+    "choices": [
+     "structural unemployment",
+     "frictional unemployment",
+     "cyclical unemployment",
+     "seasonal unemployment"
+    ]
+   },
+   {
+    "id": "c17-df52b9",
+    "q": "A factory worker replaced by robots who needs new skills faces:",
+    "choices": [
+     "seasonal unemployment",
+     "cyclical unemployment",
+     "structural unemployment",
+     "frictional unemployment"
+    ]
+   },
+   {
+    "id": "c17-48e887",
+    "q": "A ski instructor with no work in July faces:",
+    "choices": [
+     "structural unemployment",
+     "seasonal unemployment",
+     "cyclical unemployment",
+     "frictional unemployment"
+    ]
+   },
+   {
+    "id": "c17-cb6e4f",
+    "q": "Job losses caused by a recession are:",
+    "choices": [
+     "frictional unemployment",
+     "structural unemployment",
+     "seasonal unemployment",
+     "cyclical unemployment"
+    ]
+   },
+   {
+    "id": "c17-f30a9b",
+    "q": "Full employment means:",
+    "choices": [
+     "there is no cyclical unemployment",
+     "everyone has a job",
+     "the unemployment rate is zero",
+     "no one is looking for work"
+    ]
+   },
+   {
+    "id": "c17-e72dea",
+    "q": "Inflation is:",
+    "choices": [
+     "a general rise in prices over time",
+     "a fall in prices",
+     "a rise in the stock market",
+     "an increase in jobs"
+    ]
+   },
+   {
+    "id": "c17-73e948",
+    "q": "When inflation rises, the purchasing power of a dollar:",
+    "choices": [
+     "stays the same",
+     "rises",
+     "doubles",
+     "falls"
+    ]
+   },
+   {
+    "id": "c17-f222cd",
+    "q": "The Consumer Price Index measures:",
+    "choices": [
+     "the stock market",
+     "the unemployment rate",
+     "changes in the prices of a typical household's market basket",
+     "GDP"
+    ]
+   },
+   {
+    "id": "c17-bc576f",
+    "q": "The Federal Reserve aims for an inflation rate of about:",
+    "choices": [
+     "25 percent",
+     "10 percent",
+     "2 percent",
+     "0 percent"
+    ]
+   },
+   {
+    "id": "c17-182f2d",
+    "q": "A basket of goods costs $200 one year and $210 the next. The inflation rate is:",
+    "choices": [
+     "10 percent",
+     "210 percent",
+     "5 percent",
+     "2 percent"
+    ]
+   },
+   {
+    "id": "c17-0ad6af",
+    "q": "Demand-pull inflation happens when:",
+    "choices": [
+     "prices fall",
+     "production costs rise",
+     "spending grows faster than the economy can produce",
+     "people save more"
+    ]
+   },
+   {
+    "id": "c17-7ad452",
+    "q": "A sudden jump in oil prices that raises the cost of making and shipping goods causes:",
+    "choices": [
+     "deflation",
+     "cost-push inflation",
+     "frictional unemployment",
+     "demand-pull inflation"
+    ]
+   },
+   {
+    "id": "c17-6e7296",
+    "q": "Germany in 1923 is a famous example of:",
+    "choices": [
+     "hyperinflation",
+     "full employment",
+     "structural unemployment",
+     "deflation"
+    ]
+   },
+   {
+    "id": "c17-4e2e7e",
+    "q": "Which group is usually HURT by unexpected inflation?",
+    "choices": [
+     "Everyone equally",
+     "People on fixed incomes",
+     "No one",
+     "People with fixed-rate loans"
+    ]
+   },
+   {
+    "id": "c17-f250be",
+    "q": "Which group may be HELPED by inflation?",
+    "choices": [
+     "Borrowers with fixed-rate loans",
+     "Retirees on fixed pensions",
+     "Savers earning low interest",
+     "Lenders"
+    ]
+   },
+   {
+    "id": "c17-f7d209",
+    "q": "You get a 3 percent raise, but inflation is 5 percent. Your real wage:",
+    "choices": [
+     "rises by about 8 percent",
+     "falls by about 2 percent",
+     "stays the same",
+     "rises by about 2 percent"
+    ]
+   },
+   {
+    "id": "c17-7f3360",
+    "q": "In 2022, U.S. inflation reached about:",
+    "choices": [
+     "9 percent, the highest in 40 years",
+     "0 percent",
+     "50 percent",
+     "2 percent, right at the target"
+    ]
+   }
+  ],
+  "18": [
+   {
+    "id": "c18-54c310",
+    "q": "The four phases of the business cycle are:",
+    "choices": [
+     "saving, investing, spending, borrowing",
+     "expansion, peak, contraction, trough",
+     "supply, demand, price, profit",
+     "spring, summer, fall, winter"
+    ]
+   },
+   {
+    "id": "c18-024382",
+    "q": "During an expansion:",
+    "choices": [
+     "real GDP shrinks and layoffs rise",
+     "prices always fall",
+     "the stock market closes",
+     "real GDP grows and unemployment falls"
+    ]
+   },
+   {
+    "id": "c18-9c2af1",
+    "q": "The lowest point of the business cycle is the:",
+    "choices": [
+     "peak",
+     "trough",
+     "expansion",
+     "recession"
+    ]
+   },
+   {
+    "id": "c18-41d1b5",
+    "q": "A common rule of thumb says a recession is:",
+    "choices": [
+     "any month with inflation",
+     "two quarters in a row of falling real GDP",
+     "a rise in the unemployment rate of 0.1 percent",
+     "one bad day in the stock market"
+    ]
+   },
+   {
+    "id": "c18-a8adbb",
+    "q": "Who officially decides when U.S. recessions begin and end?",
+    "choices": [
+     "The New York Stock Exchange",
+     "The National Bureau of Economic Research",
+     "The President",
+     "The Supreme Court"
+    ]
+   },
+   {
+    "id": "c18-a52eee",
+    "q": "A very long and severe recession is called a:",
+    "choices": [
+     "peak",
+     "boom",
+     "depression",
+     "trough"
+    ]
+   },
+   {
+    "id": "c18-4a6e88",
+    "q": "When consumer confidence drops, people tend to:",
+    "choices": [
+     "borrow more",
+     "spend less, which can slow the economy further",
+     "spend more",
+     "invest in new factories"
+    ]
+   },
+   {
+    "id": "c18-189746",
+    "q": "A pandemic, a war, or an oil price spike is an example of an:",
+    "choices": [
+     "external shock",
+     "expansion",
+     "leading indicator",
+     "automatic stabilizer"
+    ]
+   },
+   {
+    "id": "c18-3eda9b",
+    "q": "How did World War II affect the U.S. economy?",
+    "choices": [
+     "It had no effect",
+     "War spending put millions to work and ended the Depression",
+     "It caused deflation and mass unemployment",
+     "It caused the Great Depression"
+    ]
+   },
+   {
+    "id": "c18-b254a6",
+    "q": "The dot-com bubble burst in about 2000 when:",
+    "choices": [
+     "overhyped internet stocks crashed",
+     "the railroads were built",
+     "banks made risky home loans",
+     "a pandemic shut down businesses"
+    ]
+   },
+   {
+    "id": "c18-c5aa0b",
+    "q": "During the Great Depression, U.S. unemployment reached about:",
+    "choices": [
+     "2 percent",
+     "25 percent",
+     "5 percent",
+     "60 percent"
+    ]
+   },
+   {
+    "id": "c18-a4847e",
+    "q": "The Great Recession (2007-2009) was mainly caused by:",
+    "choices": [
+     "a pandemic",
+     "a world war",
+     "the invention of the internet",
+     "risky home loans and a housing and financial crisis"
+    ]
+   },
+   {
+    "id": "c18-514032",
+    "q": "The COVID-19 recession in 2020 was:",
+    "choices": [
+     "the longest recession in history",
+     "a time of falling unemployment",
+     "very short but very sharp",
+     "caused by the dot-com bubble"
+    ]
+   },
+   {
+    "id": "c18-16faf8",
+    "q": "Railroads, steel, and factories in the late 1800s are examples of:",
+    "choices": [
+     "industrialization",
+     "deflation",
+     "a leading indicator",
+     "a trough"
+    ]
+   },
+   {
+    "id": "c18-f72954",
+    "q": "A bubble happens when:",
+    "choices": [
+     "prices fall gently",
+     "the government balances its budget",
+     "asset prices rise far above their real value and then crash",
+     "the economy grows steadily"
+    ]
+   },
+   {
+    "id": "c18-e985ef",
+    "q": "Which is a LEADING indicator?",
+    "choices": [
+     "Retirements",
+     "The unemployment rate",
+     "New building permits",
+     "Last year's inflation"
+    ]
+   },
+   {
+    "id": "c18-b3dc25",
+    "q": "The unemployment rate is often a:",
+    "choices": [
+     "leading indicator",
+     "coincident indicator",
+     "trough",
+     "lagging indicator"
+    ]
+   },
+   {
+    "id": "c18-5350ab",
+    "q": "Which program was created in response to the Great Depression?",
+    "choices": [
+     "The FDIC",
+     "The internet",
+     "Credit cards",
+     "The interstate highway system"
+    ]
+   },
+   {
+    "id": "c18-aeaadf",
+    "q": "The longest expansion in U.S. history lasted from about:",
+    "choices": [
+     "2009 to 2020",
+     "1929 to 1933",
+     "2007 to 2009",
+     "1999 to 2000"
+    ]
+   },
+   {
+    "id": "c18-47fe12",
+    "q": "Wars can cause inflation because:",
+    "choices": [
+     "banks close",
+     "government spending rises while consumer goods are scarce",
+     "people stop working",
+     "prices are always controlled"
+    ]
+   }
+  ],
+  "19": [
+   {
+    "id": "c19-bad78f",
+    "q": "Taxes are:",
+    "choices": [
+     "loans to the government",
+     "voluntary donations",
+     "fees paid to private businesses",
+     "required payments to the government that pay for public services"
+    ]
+   },
+   {
+    "id": "c19-700af3",
+    "q": "Gas taxes used to pay for roads follow the:",
+    "choices": [
+     "ability-to-pay principle",
+     "benefits-received principle",
+     "regressive principle",
+     "law of demand"
+    ]
+   },
+   {
+    "id": "c19-b146e4",
+    "q": "The idea that people with higher incomes should pay more is the:",
+    "choices": [
+     "benefits-received principle",
+     "ability-to-pay principle",
+     "invisible hand",
+     "law of supply"
+    ]
+   },
+   {
+    "id": "c19-953b20",
+    "q": "A tax that takes a higher percentage from higher incomes is:",
+    "choices": [
+     "regressive",
+     "proportional",
+     "excise",
+     "progressive"
+    ]
+   },
+   {
+    "id": "c19-f208c7",
+    "q": "The federal income tax is:",
+    "choices": [
+     "progressive",
+     "proportional",
+     "a sales tax",
+     "regressive"
+    ]
+   },
+   {
+    "id": "c19-8c9789",
+    "q": "Idaho's state income tax is:",
+    "choices": [
+     "progressive with rates up to 37 percent",
+     "zero",
+     "a flat (proportional) tax of 5.3 percent",
+     "regressive"
+    ]
+   },
+   {
+    "id": "c19-170695",
+    "q": "Sales tax is usually called regressive because:",
+    "choices": [
+     "it takes a bigger share of income from lower-income people",
+     "it is only charged on luxuries",
+     "it is not paid by anyone",
+     "it has a higher rate for rich people"
+    ]
+   },
+   {
+    "id": "c19-922906",
+    "q": "Idaho's statewide sales tax rate is:",
+    "choices": [
+     "3 percent",
+     "0 percent",
+     "9 percent",
+     "6 percent"
+    ]
+   },
+   {
+    "id": "c19-f1789b",
+    "q": "A $50 item in Idaho costs how much in sales tax?",
+    "choices": [
+     "$0.30",
+     "$6.00",
+     "$3.00",
+     "$5.00"
+    ]
+   },
+   {
+    "id": "c19-60b6a7",
+    "q": "The largest source of federal revenue is the:",
+    "choices": [
+     "estate tax",
+     "tariff",
+     "gas tax",
+     "individual income tax"
+    ]
+   },
+   {
+    "id": "c19-975f40",
+    "q": "FICA payroll taxes fund:",
+    "choices": [
+     "city parks",
+     "the Idaho Legislature",
+     "Social Security and Medicare",
+     "public schools"
+    ]
+   },
+   {
+    "id": "c19-b1af41",
+    "q": "Federal tax returns are usually due on:",
+    "choices": [
+     "April 15",
+     "January 1",
+     "December 31",
+     "July 4"
+    ]
+   },
+   {
+    "id": "c19-3d7358",
+    "q": "A W-2 form shows:",
+    "choices": [
+     "your credit score",
+     "your property value",
+     "how much tax to withhold",
+     "your yearly earnings and taxes withheld"
+    ]
+   },
+   {
+    "id": "c19-326618",
+    "q": "If too much tax was withheld from your paychecks, you get a:",
+    "choices": [
+     "refund",
+     "levy",
+     "penalty",
+     "tariff"
+    ]
+   },
+   {
+    "id": "c19-c15232",
+    "q": "Property taxes in Idaho mainly pay for:",
+    "choices": [
+     "local services like schools, roads, police, and fire",
+     "the U.S. military",
+     "Social Security",
+     "foreign aid"
+    ]
+   },
+   {
+    "id": "c19-52c207",
+    "q": "School districts that ask voters to approve a levy are asking for:",
+    "choices": [
+     "a tax for a specific local purpose",
+     "a loan from the Federal Reserve",
+     "a federal grant",
+     "a grocery credit"
+    ]
+   },
+   {
+    "id": "c19-5cd595",
+    "q": "Idaho's food tax credit gives residents:",
+    "choices": [
+     "free groceries",
+     "nothing; groceries aren't taxed in Idaho",
+     "a tax on restaurants",
+     "$155 per person, or up to $250 with grocery receipts"
+    ]
+   },
+   {
+    "id": "c19-777403",
+    "q": "A tax credit:",
+    "choices": [
+     "adds to the tax you owe",
+     "is the same as a sales tax",
+     "is a type of loan",
+     "subtracts directly from the tax you owe"
+    ]
+   },
+   {
+    "id": "c19-6bccfa",
+    "q": "Tax incidence describes:",
+    "choices": [
+     "who actually bears the cost of a tax",
+     "how often taxes are paid",
+     "the tax rate",
+     "where taxes are spent"
+    ]
+   },
+   {
+    "id": "c19-2edcb2",
+    "q": "A high tax on cigarettes is meant partly to:",
+    "choices": [
+     "lower prices",
+     "encourage smoking",
+     "discourage people from smoking",
+     "pay for the military only"
+    ]
+   }
+  ],
+  "20": [
+   {
+    "id": "c20-7ba022",
+    "q": "The largest single federal spending program is:",
+    "choices": [
+     "foreign aid",
+     "national parks",
+     "the Department of Education",
+     "Social Security"
+    ]
+   },
+   {
+    "id": "c20-feaf6b",
+    "q": "Interest on the national debt now costs more than:",
+    "choices": [
+     "$1 million a year",
+     "$1 trillion a year",
+     "$10 a year",
+     "nothing"
+    ]
+   },
+   {
+    "id": "c20-9ef163",
+    "q": "Mandatory spending is:",
+    "choices": [
+     "spending by states only",
+     "money spent on taxes",
+     "spending required by existing laws, like Social Security",
+     "spending decided by Congress each year"
+    ]
+   },
+   {
+    "id": "c20-faf90a",
+    "q": "Defense and national parks are examples of:",
+    "choices": [
+     "discretionary spending",
+     "transfer payments",
+     "mandatory spending",
+     "revenue"
+    ]
+   },
+   {
+    "id": "c20-92db63",
+    "q": "A Social Security check is an example of a:",
+    "choices": [
+     "tariff",
+     "tax",
+     "bond",
+     "transfer payment"
+    ]
+   },
+   {
+    "id": "c20-47481e",
+    "q": "Idaho's biggest state spending area is:",
+    "choices": [
+     "K-12 public schools",
+     "foreign aid",
+     "the military",
+     "Social Security"
+    ]
+   },
+   {
+    "id": "c20-2e5a49",
+    "q": "Idaho's constitution requires the state to:",
+    "choices": [
+     "print its own money",
+     "balance its budget",
+     "set national interest rates",
+     "run deficits"
+    ]
+   },
+   {
+    "id": "c20-b92cac",
+    "q": "A budget deficit happens when the government:",
+    "choices": [
+     "collects more than it spends",
+     "spends more than it collects in a year",
+     "lowers interest rates",
+     "balances the budget"
+    ]
+   },
+   {
+    "id": "c20-6715c1",
+    "q": "The national debt is:",
+    "choices": [
+     "the amount of money in circulation",
+     "the total of all past deficits minus surpluses",
+     "money owed by states",
+     "one year's deficit"
+    ]
+   },
+   {
+    "id": "c20-9da0f2",
+    "q": "The U.S. national debt passed:",
+    "choices": [
+     "$40 million in 2026",
+     "$40 trillion in 2026",
+     "$400 billion in 2026",
+     "$4 trillion in 2026"
+    ]
+   },
+   {
+    "id": "c20-80a150",
+    "q": "The federal government covers deficits mainly by:",
+    "choices": [
+     "printing coins",
+     "raising the minimum wage",
+     "selling national parks",
+     "selling Treasury bonds to borrow money"
+    ]
+   },
+   {
+    "id": "c20-436582",
+    "q": "Crowding out happens when:",
+    "choices": [
+     "the government cuts spending",
+     "too many people are in a store",
+     "heavy government borrowing raises interest rates and reduces private investment",
+     "taxes fall"
+    ]
+   },
+   {
+    "id": "c20-a269e5",
+    "q": "Fiscal policy is controlled by:",
+    "choices": [
+     "the Federal Reserve",
+     "Congress and the President",
+     "banks",
+     "the stock market"
+    ]
+   },
+   {
+    "id": "c20-8a99d7",
+    "q": "Expansionary fiscal policy includes:",
+    "choices": [
+     "cutting spending and raising taxes",
+     "selling bonds to reduce the money supply",
+     "raising interest rates",
+     "increasing government spending or cutting taxes"
+    ]
+   },
+   {
+    "id": "c20-164ce3",
+    "q": "Contractionary fiscal policy is used mainly to:",
+    "choices": [
+     "slow down an overheating economy and fight inflation",
+     "increase unemployment benefits",
+     "end a recession",
+     "cut taxes"
+    ]
+   },
+   {
+    "id": "c20-5f7a19",
+    "q": "A risk of expansionary fiscal policy is:",
+    "choices": [
+     "lower national debt",
+     "a larger deficit and possibly inflation",
+     "falling prices",
+     "a budget surplus"
+    ]
+   },
+   {
+    "id": "c20-299e10",
+    "q": "John Maynard Keynes argued that during a recession, government should:",
+    "choices": [
+     "raise taxes",
+     "do nothing",
+     "spend more to boost demand",
+     "cut spending"
+    ]
+   },
+   {
+    "id": "c20-bd1b65",
+    "q": "Supply-side economics emphasizes:",
+    "choices": [
+     "lower taxes and less regulation to improve incentives",
+     "printing money",
+     "higher taxes on everyone",
+     "more government ownership"
+    ]
+   },
+   {
+    "id": "c20-648ccb",
+    "q": "Unemployment insurance is an example of a(n):",
+    "choices": [
+     "tariff",
+     "tax increase",
+     "automatic stabilizer",
+     "monetary policy tool"
+    ]
+   },
+   {
+    "id": "c20-4606e8",
+    "q": "A time lag in fiscal policy means:",
+    "choices": [
+     "the government works only part-time",
+     "there is a delay between spotting a problem and the policy taking effect",
+     "policies happen instantly",
+     "tax forms are late"
+    ]
+   }
+  ],
+  "21": [
+   {
+    "id": "c21-29baab",
+    "q": "The Federal Reserve is:",
+    "choices": [
+     "part of Congress",
+     "the U.S. Treasury",
+     "a private bank in New York",
+     "the central bank of the United States"
+    ]
+   },
+   {
+    "id": "c21-6bdad6",
+    "q": "The Fed was created in:",
+    "choices": [
+     "1776",
+     "1971",
+     "1913",
+     "1933"
+    ]
+   },
+   {
+    "id": "c21-1d3e68",
+    "q": "The Fed's Board of Governors has how many members?",
+    "choices": [
+     "Seven",
+     "Three",
+     "Fifty",
+     "Twelve"
+    ]
+   },
+   {
+    "id": "c21-5233b9",
+    "q": "Idaho is served by the Federal Reserve Bank of:",
+    "choices": [
+     "Chicago",
+     "New York",
+     "Boise",
+     "San Francisco"
+    ]
+   },
+   {
+    "id": "c21-5cec5d",
+    "q": "The group that meets eight times a year to set monetary policy is the:",
+    "choices": [
+     "FDIC",
+     "Federal Open Market Committee",
+     "Senate Finance Committee",
+     "Supreme Court"
+    ]
+   },
+   {
+    "id": "c21-8ad295",
+    "q": "The Fed's dual mandate is:",
+    "choices": [
+     "balanced budgets and low tariffs",
+     "printing money and collecting taxes",
+     "high taxes and low spending",
+     "maximum employment and stable prices"
+    ]
+   },
+   {
+    "id": "c21-538822",
+    "q": "The federal funds rate is:",
+    "choices": [
+     "the rate banks charge each other for overnight loans",
+     "the rate on all credit cards",
+     "the inflation rate",
+     "the tax rate on income"
+    ]
+   },
+   {
+    "id": "c21-f82036",
+    "q": "When the Fed BUYS government bonds, the money supply:",
+    "choices": [
+     "disappears",
+     "stays the same",
+     "increases and interest rates tend to fall",
+     "decreases and interest rates rise"
+    ]
+   },
+   {
+    "id": "c21-77f3eb",
+    "q": "When the Fed SELLS government bonds, interest rates tend to:",
+    "choices": [
+     "rise",
+     "fall",
+     "reach zero",
+     "stay the same"
+    ]
+   },
+   {
+    "id": "c21-c44711",
+    "q": "The interest rate the Fed charges banks that borrow directly from it is the:",
+    "choices": [
+     "APR",
+     "discount rate",
+     "prime rate",
+     "federal funds rate"
+    ]
+   },
+   {
+    "id": "c21-c40c2d",
+    "q": "To fight a recession, the Fed would most likely:",
+    "choices": [
+     "raise taxes",
+     "raise interest rates",
+     "cut Social Security",
+     "lower interest rates"
+    ]
+   },
+   {
+    "id": "c21-b129ee",
+    "q": "To fight high inflation, the Fed would most likely:",
+    "choices": [
+     "print more money",
+     "raise interest rates",
+     "lower interest rates",
+     "buy more bonds"
+    ]
+   },
+   {
+    "id": "c21-91e9bd",
+    "q": "In 2022 and 2023, the Fed raised rates quickly in order to:",
+    "choices": [
+     "bring down high inflation",
+     "lower mortgage rates",
+     "increase the national debt",
+     "end a recession"
+    ]
+   },
+   {
+    "id": "c21-88bd97",
+    "q": "A risk of keeping interest rates too low for too long is:",
+    "choices": [
+     "a recession caused by tight money",
+     "deflation in every case",
+     "higher unemployment",
+     "inflation or asset bubbles"
+    ]
+   },
+   {
+    "id": "c21-59b97f",
+    "q": "A risk of raising interest rates too much is:",
+    "choices": [
+     "causing a recession",
+     "causing hyperinflation",
+     "increasing borrowing",
+     "lowering mortgage rates"
+    ]
+   },
+   {
+    "id": "c21-8ef7db",
+    "q": "Who controls monetary policy?",
+    "choices": [
+     "The Federal Reserve",
+     "Congress and the President",
+     "State governments",
+     "The Supreme Court"
+    ]
+   },
+   {
+    "id": "c21-f9d42e",
+    "q": "Who controls fiscal policy?",
+    "choices": [
+     "The FDIC",
+     "The Federal Reserve",
+     "Commercial banks",
+     "Congress and the President"
+    ]
+   },
+   {
+    "id": "c21-2f1660",
+    "q": "The Fed is designed to be independent so that:",
+    "choices": [
+     "it can collect taxes",
+     "it can elect the President",
+     "short-term politics don't pressure it into causing inflation",
+     "it can ignore the law"
+    ]
+   },
+   {
+    "id": "c21-a87139",
+    "q": "Acting as a lender of last resort means the Fed:",
+    "choices": [
+     "lends only to the government",
+     "lends to banks in emergencies to stop panics",
+     "lends to students for college",
+     "never lends money"
+    ]
+   },
+   {
+    "id": "c21-16f2e6",
+    "q": "When interest rates rise, a family's mortgage payment on a new home loan will most likely:",
+    "choices": [
+     "stay the same",
+     "disappear",
+     "go down",
+     "go up"
+    ]
+   }
+  ],
+  "22": [
+   {
+    "id": "c22-51d986",
+    "q": "Goods bought from other countries are called:",
+    "choices": [
+     "imports",
+     "tariffs",
+     "quotas",
+     "exports"
+    ]
+   },
+   {
+    "id": "c22-ba3f79",
+    "q": "Goods sold to other countries are called:",
+    "choices": [
+     "imports",
+     "exports",
+     "subsidies",
+     "embargoes"
+    ]
+   },
+   {
+    "id": "c22-466f58",
+    "q": "Countries trade mainly because:",
+    "choices": [
+     "both sides expect to be better off",
+     "one side always loses",
+     "the government forces them to",
+     "it's required by the UN"
+    ]
+   },
+   {
+    "id": "c22-c56c9a",
+    "q": "Absolute advantage means:",
+    "choices": [
+     "having more people",
+     "having more money",
+     "producing a good at a lower opportunity cost",
+     "producing more of a good with the same resources"
+    ]
+   },
+   {
+    "id": "c22-3868d2",
+    "q": "Comparative advantage means:",
+    "choices": [
+     "producing more of everything",
+     "producing a good at a lower opportunity cost",
+     "having the biggest economy",
+     "having no trade at all"
+    ]
+   },
+   {
+    "id": "c22-c7e8a7",
+    "q": "Who first explained comparative advantage in 1817?",
+    "choices": [
+     "Karl Marx",
+     "Adam Smith",
+     "John Maynard Keynes",
+     "David Ricardo"
+    ]
+   },
+   {
+    "id": "c22-298ee8",
+    "q": "Jordan can gather 10 bundles of wood or set up 5 tents in an hour. Jordan's opportunity cost of one tent is:",
+    "choices": [
+     "half a bundle of wood",
+     "5 bundles of wood",
+     "10 bundles of wood",
+     "2 bundles of wood"
+    ]
+   },
+   {
+    "id": "c22-1ee0ff",
+    "q": "Sam can gather 4 bundles of wood or set up 4 tents in an hour. Sam's opportunity cost of one tent is:",
+    "choices": [
+     "4 bundles of wood",
+     "zero",
+     "2 bundles of wood",
+     "1 bundle of wood"
+    ]
+   },
+   {
+    "id": "c22-39f377",
+    "q": "From the Jordan and Sam example, who has the comparative advantage in setting up tents?",
+    "choices": [
+     "Sam",
+     "Both equally",
+     "Neither",
+     "Jordan"
+    ]
+   },
+   {
+    "id": "c22-a43904",
+    "q": "If one country is better at producing everything, should it still trade?",
+    "choices": [
+     "No, it should make everything itself",
+     "Only with its neighbors",
+     "Yes, because of comparative advantage both can gain",
+     "Only if it is forced to"
+    ]
+   },
+   {
+    "id": "c22-c4a2c5",
+    "q": "Which statement is TRUE?",
+    "choices": [
+     "Small countries have no comparative advantage",
+     "Every country has a comparative advantage in something",
+     "Comparative advantage is the same as absolute advantage",
+     "Only rich countries have comparative advantages"
+    ]
+   },
+   {
+    "id": "c22-09b662",
+    "q": "Idaho is known for specializing in:",
+    "choices": [
+     "oil and natural gas",
+     "coffee and bananas",
+     "potatoes, dairy, trout, and computer chips",
+     "cocoa and tea"
+    ]
+   },
+   {
+    "id": "c22-5c2bc9",
+    "q": "When countries rely on each other for goods, they are:",
+    "choices": [
+     "interdependent",
+     "self-sufficient",
+     "isolated",
+     "independent"
+    ]
+   },
+   {
+    "id": "c22-0b9e16",
+    "q": "The 2021 chip shortage that shut down U.S. car factories shows that:",
+    "choices": [
+     "the U.S. makes all its own chips",
+     "interdependence means a problem in one country can affect others",
+     "trade has no risks",
+     "cars don't need computer chips"
+    ]
+   },
+   {
+    "id": "c22-c06e27",
+    "q": "A benefit of trade for consumers is:",
+    "choices": [
+     "fewer products to choose from",
+     "lower prices and more variety",
+     "higher prices",
+     "less competition"
+    ]
+   },
+   {
+    "id": "c22-d77dd7",
+    "q": "A cost of trade is that:",
+    "choices": [
+     "no one gains",
+     "consumers pay more for everything",
+     "some domestic industries shrink and workers lose jobs",
+     "countries become less productive"
+    ]
+   },
+   {
+    "id": "c22-f1e0f1",
+    "q": "Specialization leads to:",
+    "choices": [
+     "higher productivity",
+     "fewer goods overall",
+     "no trade",
+     "lower productivity"
+    ]
+   },
+   {
+    "id": "c22-afeb90",
+    "q": "Job retraining programs are meant to help:",
+    "choices": [
+     "raise tariffs",
+     "countries stop trading",
+     "businesses avoid taxes",
+     "workers who lost jobs move to new industries"
+    ]
+   },
+   {
+    "id": "c22-1cf065",
+    "q": "A Boise software company selling to customers in Japan is an example of:",
+    "choices": [
+     "an entrepreneur reaching a global market",
+     "a tariff",
+     "a quota",
+     "a trade embargo"
+    ]
+   },
+   {
+    "id": "c22-75a7ed",
+    "q": "Gains from trade are:",
+    "choices": [
+     "taxes collected on imports",
+     "profits of one country only",
+     "losses from competition",
+     "the extra goods both sides get by specializing and trading"
+    ]
+   }
+  ],
+  "23": [
+   {
+    "id": "c23-1df9a6",
+    "q": "A tax on imported goods is a:",
+    "choices": [
+     "quota",
+     "tariff",
+     "embargo",
+     "subsidy"
+    ]
+   },
+   {
+    "id": "c23-04863a",
+    "q": "A limit on how much of a product can be imported is a:",
+    "choices": [
+     "exchange rate",
+     "embargo",
+     "tariff",
+     "quota"
+    ]
+   },
+   {
+    "id": "c23-a1d989",
+    "q": "A complete ban on trade with a country is an:",
+    "choices": [
+     "quota",
+     "embargo",
+     "agreement",
+     "tariff"
+    ]
+   },
+   {
+    "id": "c23-067e77",
+    "q": "The U.S. has had a trade embargo on which country since the early 1960s?",
+    "choices": [
+     "Cuba",
+     "Mexico",
+     "Japan",
+     "Canada"
+    ]
+   },
+   {
+    "id": "c23-aab990",
+    "q": "Protectionism means:",
+    "choices": [
+     "trading only with allies",
+     "printing more money",
+     "using trade barriers to protect domestic industries",
+     "removing all trade barriers"
+    ]
+   },
+   {
+    "id": "c23-a24991",
+    "q": "Who usually ends up paying much of the cost of a tariff?",
+    "choices": [
+     "The foreign government only",
+     "Buyers, through higher prices",
+     "The Federal Reserve",
+     "No one"
+    ]
+   },
+   {
+    "id": "c23-023080",
+    "q": "Which is an argument FOR protectionism?",
+    "choices": [
+     "Comparative advantage",
+     "Lower prices for consumers",
+     "Protecting industries important to national security",
+     "More choices in stores"
+    ]
+   },
+   {
+    "id": "c23-0e8a9f",
+    "q": "Which is an argument FOR free trade?",
+    "choices": [
+     "Lower prices and more choices for consumers",
+     "Protecting infant industries",
+     "National security",
+     "Stopping dumping"
+    ]
+   },
+   {
+    "id": "c23-2bb84e",
+    "q": "Dumping means:",
+    "choices": [
+     "banning a country from trade",
+     "raising tariffs",
+     "throwing away imports",
+     "selling goods abroad below the cost of making them"
+    ]
+   },
+   {
+    "id": "c23-8c2aee",
+    "q": "When one country responds to another's tariffs with its own tariffs, it is called:",
+    "choices": [
+     "specialization",
+     "retaliation",
+     "dumping",
+     "free trade"
+    ]
+   },
+   {
+    "id": "c23-ad7c8d",
+    "q": "The trade agreement between the U.S., Mexico, and Canada that replaced NAFTA is:",
+    "choices": [
+     "EU",
+     "OPEC",
+     "WTO",
+     "USMCA"
+    ]
+   },
+   {
+    "id": "c23-55d96d",
+    "q": "The World Trade Organization:",
+    "choices": [
+     "sets U.S. interest rates",
+     "prints the world's money",
+     "bans all trade",
+     "sets trade rules and settles disputes among member countries"
+    ]
+   },
+   {
+    "id": "c23-5efdc9",
+    "q": "The balance of trade equals:",
+    "choices": [
+     "tariffs minus quotas",
+     "exports minus imports",
+     "exports plus imports",
+     "imports minus exports"
+    ]
+   },
+   {
+    "id": "c23-b366d1",
+    "q": "When a country imports more than it exports, it has a:",
+    "choices": [
+     "budget surplus",
+     "balanced trade",
+     "trade deficit",
+     "trade surplus"
+    ]
+   },
+   {
+    "id": "c23-059b05",
+    "q": "The U.S. has had a trade deficit:",
+    "choices": [
+     "only in 2020",
+     "never",
+     "only during wars",
+     "almost every year since the 1970s"
+    ]
+   },
+   {
+    "id": "c23-7acabe",
+    "q": "An exchange rate is:",
+    "choices": [
+     "a tax on imports",
+     "the interest rate on loans",
+     "the price of one currency in terms of another",
+     "the inflation rate"
+    ]
+   },
+   {
+    "id": "c23-cec4f9",
+    "q": "A strong dollar makes:",
+    "choices": [
+     "imports cheaper for Americans and U.S. exports more expensive abroad",
+     "imports more expensive for Americans",
+     "U.S. exports cheaper abroad",
+     "no difference to trade"
+    ]
+   },
+   {
+    "id": "c23-25ae2c",
+    "q": "A weak dollar helps:",
+    "choices": [
+     "U.S. exporters, like Idaho farmers selling abroad",
+     "Americans traveling abroad",
+     "foreign companies selling in the U.S.",
+     "Americans buying imports"
+    ]
+   },
+   {
+    "id": "c23-b4a757",
+    "q": "If $1 = 150 yen, a $10 item costs a Japanese buyer:",
+    "choices": [
+     "15 yen",
+     "15,000 yen",
+     "150 yen",
+     "1,500 yen"
+    ]
+   },
+   {
+    "id": "c23-7ea06e",
+    "q": "Most economists:",
+    "choices": [
+     "favor freer trade while recognizing some workers are hurt",
+     "think tariffs always help consumers",
+     "oppose all trade",
+     "think exchange rates never matter"
+    ]
+   }
+  ],
+  "24": [
+   {
+    "id": "c24-4d1c3c",
+    "q": "Globalization is:",
+    "choices": [
+     "the growing connection of the world's economies",
+     "a single world government",
+     "a type of tariff",
+     "a country cutting off all trade"
+    ]
+   },
+   {
+    "id": "c24-bdf44a",
+    "q": "Which invention greatly lowered the cost of shipping goods worldwide?",
+    "choices": [
+     "The light bulb",
+     "The cotton gin",
+     "The telegraph",
+     "The shipping container"
+    ]
+   },
+   {
+    "id": "c24-6c3a8a",
+    "q": "A product designed in one country and built from parts made in several others uses a:",
+    "choices": [
+     "global supply chain",
+     "trade embargo",
+     "command economy",
+     "price ceiling"
+    ]
+   },
+   {
+    "id": "c24-b3d060",
+    "q": "According to the World Bank, the share of people living in extreme poverty since 1990 has:",
+    "choices": [
+     "risen slightly",
+     "stayed the same",
+     "doubled",
+     "fallen sharply"
+    ]
+   },
+   {
+    "id": "c24-a9393c",
+    "q": "A country with high income, strong industries, and good health care is a:",
+    "choices": [
+     "traditional economy",
+     "developing country",
+     "emerging economy",
+     "developed country"
+    ]
+   },
+   {
+    "id": "c24-a0fe68",
+    "q": "India, Indonesia, and Vietnam are often called:",
+    "choices": [
+     "developed countries",
+     "traditional economies",
+     "emerging economies",
+     "command economies"
+    ]
+   },
+   {
+    "id": "c24-8b0b10",
+    "q": "Which most helps a developing country grow?",
+    "choices": [
+     "Closing all schools",
+     "More corruption",
+     "Better education, infrastructure, and stable laws",
+     "Banning trade"
+    ]
+   },
+   {
+    "id": "c24-c35efe",
+    "q": "Roads, power lines, and internet are examples of:",
+    "choices": [
+     "foreign aid",
+     "tariffs",
+     "microloans",
+     "infrastructure"
+    ]
+   },
+   {
+    "id": "c24-bee753",
+    "q": "The World Bank mainly:",
+    "choices": [
+     "insures bank deposits",
+     "lends money for development projects",
+     "sets U.S. interest rates",
+     "collects tariffs"
+    ]
+   },
+   {
+    "id": "c24-11d589",
+    "q": "The IMF mainly:",
+    "choices": [
+     "runs the stock market",
+     "prints U.S. dollars",
+     "sets tariffs on Idaho potatoes",
+     "helps countries facing financial crises"
+    ]
+   },
+   {
+    "id": "c24-f2573a",
+    "q": "A microloan is:",
+    "choices": [
+     "a loan to a large corporation",
+     "a very small loan to an entrepreneur, often in a poor area",
+     "a type of tariff",
+     "a mortgage"
+    ]
+   },
+   {
+    "id": "c24-d2f2fa",
+    "q": "A war that cuts oil supply raises gas prices in Idaho. This shows:",
+    "choices": [
+     "economic independence",
+     "a trade surplus",
+     "economic interdependence",
+     "a price floor"
+    ]
+   },
+   {
+    "id": "c24-ff32d0",
+    "q": "The 2008 U.S. housing crisis spreading into a worldwide recession is an example of:",
+    "choices": [
+     "a trade embargo",
+     "how financial shocks travel between linked economies",
+     "comparative advantage",
+     "a price ceiling"
+    ]
+   },
+   {
+    "id": "c24-ea0b68",
+    "q": "Idaho's largest export is usually:",
+    "choices": [
+     "crude oil",
+     "computer chips and electronics",
+     "cocoa",
+     "bananas"
+    ]
+   },
+   {
+    "id": "c24-d23c19",
+    "q": "Idaho grows about what share of U.S. potatoes?",
+    "choices": [
+     "All of them",
+     "Almost none",
+     "About one-third",
+     "About 1 percent"
+    ]
+   },
+   {
+    "id": "c24-5ff663",
+    "q": "Idaho leads the nation in producing:",
+    "choices": [
+     "oranges",
+     "cotton",
+     "sugarcane",
+     "farmed trout"
+    ]
+   },
+   {
+    "id": "c24-e5a839",
+    "q": "A strong dollar would most likely hurt which Idaho group?",
+    "choices": [
+     "Idahoans traveling to Mexico",
+     "Farmers selling potatoes abroad",
+     "No one",
+     "Idahoans buying imported phones"
+    ]
+   },
+   {
+    "id": "c24-7857ce",
+    "q": "Foreign direct investment is:",
+    "choices": [
+     "a type of foreign aid",
+     "a tariff on investments",
+     "buying a foreign stamp",
+     "a company from one country building or buying a business in another"
+    ]
+   },
+   {
+    "id": "c24-f90be8",
+    "q": "Countries compete for:",
+    "choices": [
+     "only sports trophies",
+     "factories, investment, talent, and customers",
+     "the right to print each other's money",
+     "nothing; they never compete"
+    ]
+   },
+   {
+    "id": "c24-dbe68b",
+    "q": "Which is a downside of globalization?",
+    "choices": [
+     "Prices always rise",
+     "Poverty always increases",
+     "Countries can't trade",
+     "Some workers face more job competition and crises can spread"
+    ]
+   }
+  ]
+ },
+ "unit": {
+  "1": [
+   {
+    "id": "u1-dd4c43",
+    "q": "Which situation BEST shows scarcity?",
+    "choices": [
+     "A game company sells a new console",
+     "A town has enough water for either a new golf course or more farmland, but not both",
+     "A student forgets her lunch",
+     "A store runs out of milk on a Sunday"
+    ]
+   },
+   {
+    "id": "u1-858e0c",
+    "q": "Leah can babysit for $50, mow lawns for $40, or go to a movie. She babysits. Her opportunity cost is:",
+    "choices": [
+     "the movie and the $40",
+     "the $40 from mowing lawns (her next-best choice)",
+     "nothing, she earned money",
+     "$90"
+    ]
+   },
+   {
+    "id": "u1-0d1a29",
+    "q": "A gym offers a free month if you sign up for a year. This is:",
+    "choices": [
+     "scarcity",
+     "a positive incentive",
+     "a factor of production",
+     "a negative incentive"
+    ]
+   },
+   {
+    "id": "u1-793681",
+    "q": "A rational decision-maker keeps doing more of something as long as:",
+    "choices": [
+     "the total cost is low",
+     "it is free",
+     "the marginal benefit is greater than the marginal cost",
+     "other people are doing it"
+    ]
+   },
+   {
+    "id": "u1-5e46ec",
+    "q": "Which is a SERVICE?",
+    "choices": [
+     "A car",
+     "New brake pads",
+     "A mechanic fixing your brakes",
+     "Motor oil"
+    ]
+   },
+   {
+    "id": "u1-854bbf",
+    "q": "\"Should the U.S. make more solar panels or more coal plants?\" answers which basic question?",
+    "choices": [
+     "When to produce",
+     "For whom to produce",
+     "What to produce",
+     "How to produce"
+    ]
+   },
+   {
+    "id": "u1-2a91b8",
+    "q": "A study of how one Idaho Falls bakery sets its prices is part of:",
+    "choices": [
+     "macroeconomics",
+     "traditional economics",
+     "microeconomics",
+     "command economics"
+    ]
+   },
+   {
+    "id": "u1-16599b",
+    "q": "A pizza oven used by a restaurant is which factor of production?",
+    "choices": [
+     "Labor",
+     "Entrepreneurship",
+     "Land",
+     "Capital"
+    ]
+   },
+   {
+    "id": "u1-3d3a07",
+    "q": "Oil found underground in Wyoming is which factor of production?",
+    "choices": [
+     "Entrepreneurship",
+     "Land",
+     "Labor",
+     "Capital"
+    ]
+   },
+   {
+    "id": "u1-6ccbd8",
+    "q": "A nurse who earns a new certification has increased her:",
+    "choices": [
+     "physical capital",
+     "land",
+     "rent",
+     "human capital"
+    ]
+   },
+   {
+    "id": "u1-e1f8fd",
+    "q": "The reward earned by labor is:",
+    "choices": [
+     "interest",
+     "profit",
+     "rent",
+     "wages"
+    ]
+   },
+   {
+    "id": "u1-bccbcb",
+    "q": "An economy producing at a point inside its PPC is:",
+    "choices": [
+     "doing something impossible",
+     "not using all its resources efficiently",
+     "growing quickly",
+     "producing as much as possible"
+    ]
+   },
+   {
+    "id": "u1-1a0aa3",
+    "q": "Which event would shift a country's PPC outward?",
+    "choices": [
+     "A drought that ruins farmland",
+     "Many workers retiring at once",
+     "A war that destroys factories",
+     "Thousands of workers finishing job training programs"
+    ]
+   },
+   {
+    "id": "u1-6478dc",
+    "q": "The PPC is bowed outward because:",
+    "choices": [
+     "resources are not equally good at producing every good",
+     "prices rise over time",
+     "people always want more",
+     "the government limits production"
+    ]
+   },
+   {
+    "id": "u1-77cab3",
+    "q": "A bakery where one worker mixes dough, one bakes, and one decorates uses:",
+    "choices": [
+     "a command economy",
+     "an embargo",
+     "division of labor",
+     "barter"
+    ]
+   },
+   {
+    "id": "u1-1cdfa4",
+    "q": "Two-hour trail crew shifts with power tools build more trail than shifts with hand tools. This shows higher:",
+    "choices": [
+     "consumer sovereignty",
+     "productivity",
+     "scarcity",
+     "opportunity cost"
+    ]
+   },
+   {
+    "id": "u1-a85e7e",
+    "q": "In which economic system do customs and tradition answer the basic economic questions?",
+    "choices": [
+     "Traditional",
+     "Command",
+     "Mixed",
+     "Market"
+    ]
+   },
+   {
+    "id": "u1-0f5cf7",
+    "q": "In a command economy, prices and production levels are mostly set by:",
+    "choices": [
+     "tradition",
+     "consumers",
+     "government planners",
+     "private businesses"
+    ]
+   },
+   {
+    "id": "u1-d442e8",
+    "q": "Which was a common problem in the Soviet Union's command economy?",
+    "choices": [
+     "Too many choices for shoppers",
+     "Too much competition between businesses",
+     "Prices that changed every hour",
+     "Shortages of goods people wanted and long lines"
+    ]
+   },
+   {
+    "id": "u1-ee1c9f",
+    "q": "Adam Smith's idea that self-interest in markets helps society is called the:",
+    "choices": [
+     "iron law of wages",
+     "invisible hand",
+     "profit tax",
+     "dual mandate"
+    ]
+   },
+   {
+    "id": "u1-b9286a",
+    "q": "The U.S. economy is best described as a:",
+    "choices": [
+     "pure laissez-faire economy",
+     "traditional economy",
+     "pure command economy",
+     "mixed economy that leans toward free markets"
+    ]
+   },
+   {
+    "id": "u1-7f7e54",
+    "q": "Shoppers stop buying flip phones, and companies stop making them. This shows:",
+    "choices": [
+     "consumer sovereignty",
+     "an embargo",
+     "a command economy",
+     "a price ceiling"
+    ]
+   },
+   {
+    "id": "u1-015530",
+    "q": "Which is a feature of free enterprise?",
+    "choices": [
+     "Prices set by planners",
+     "Jobs assigned by the state",
+     "Government ownership of all farms",
+     "Private property"
+    ]
+   },
+   {
+    "id": "u1-190908",
+    "q": "Karl Marx's ideas inspired:",
+    "choices": [
+     "laissez-faire",
+     "the invisible hand",
+     "free enterprise",
+     "socialism and communism"
+    ]
+   },
+   {
+    "id": "u1-94c56f",
+    "q": "Which thinker argued government should spend more during recessions?",
+    "choices": [
+     "Adam Smith",
+     "John Maynard Keynes",
+     "Karl Marx",
+     "Friedrich Hayek"
+    ]
+   },
+   {
+    "id": "u1-4b5249",
+    "q": "Milton Friedman and Friedrich Hayek generally argued for:",
+    "choices": [
+     "government ownership of industry",
+     "traditional economies",
+     "higher tariffs",
+     "freer markets and limited government control"
+    ]
+   },
+   {
+    "id": "u1-2ca747",
+    "q": "A trade that happens only because both people expect to be better off is:",
+    "choices": [
+     "a command decision",
+     "a shortage",
+     "voluntary exchange",
+     "a tax"
+    ]
+   },
+   {
+    "id": "u1-315472",
+    "q": "Which is a WANT rather than a NEED?",
+    "choices": [
+     "A new gaming headset",
+     "Shelter from winter weather",
+     "Basic food",
+     "Clean water"
+    ]
+   },
+   {
+    "id": "u1-1eb882",
+    "q": "A company spending money to build a new factory is investing in:",
+    "choices": [
+     "labor",
+     "land",
+     "rent",
+     "capital"
+    ]
+   },
+   {
+    "id": "u1-e828c8",
+    "q": "Which statement about scarcity is TRUE?",
+    "choices": [
+     "It can be solved by printing money",
+     "It only affects businesses",
+     "Every person and every country faces it",
+     "Only poor countries face it"
+    ]
+   }
+  ],
+  "2": [
+   {
+    "id": "u2-04376b",
+    "q": "A coffee shop raises its latte price from $5 to $7 and sells fewer lattes. This illustrates:",
+    "choices": [
+     "a price floor",
+     "the law of supply",
+     "the law of demand",
+     "a shift in demand"
+    ]
+   },
+   {
+    "id": "u2-99ab6e",
+    "q": "Which would shift the demand for snowboards to the RIGHT?",
+    "choices": [
+     "A rise in the price of snowboards",
+     "A ski resort closing",
+     "A huge snowfall forecast for the season",
+     "Snowboarders losing their jobs"
+    ]
+   },
+   {
+    "id": "u2-b3d94a",
+    "q": "Tortilla chips and salsa are:",
+    "choices": [
+     "inferior goods",
+     "complements",
+     "price ceilings",
+     "substitutes"
+    ]
+   },
+   {
+    "id": "u2-289d8c",
+    "q": "If the price of hot dogs rises, demand for hot dog buns will likely:",
+    "choices": [
+     "become perfectly elastic",
+     "increase",
+     "stay exactly the same",
+     "decrease"
+    ]
+   },
+   {
+    "id": "u2-fa5029",
+    "q": "If the price of Xbox games rises, demand for PlayStation games will likely:",
+    "choices": [
+     "increase, because they are substitutes",
+     "decrease, because they are complements",
+     "not change",
+     "fall to zero"
+    ]
+   },
+   {
+    "id": "u2-99bb29",
+    "q": "When people's incomes rise, demand for a normal good:",
+    "choices": [
+     "becomes a shortage",
+     "increases",
+     "stays the same",
+     "decreases"
+    ]
+   },
+   {
+    "id": "u2-3920bf",
+    "q": "Which product has the most ELASTIC demand?",
+    "choices": [
+     "Heart medication",
+     "One brand of candy bar among many choices",
+     "Water",
+     "Electricity for your home"
+    ]
+   },
+   {
+    "id": "u2-561978",
+    "q": "Gas stations raise prices 20 cents and people still buy nearly the same amount. Demand for gas is:",
+    "choices": [
+     "shifting right",
+     "inelastic",
+     "elastic",
+     "a surplus"
+    ]
+   },
+   {
+    "id": "u2-fe35e0",
+    "q": "The law of supply says that as price rises, quantity supplied:",
+    "choices": [
+     "rises",
+     "falls",
+     "disappears",
+     "stays the same"
+    ]
+   },
+   {
+    "id": "u2-697855",
+    "q": "A new robot makes shoes faster and cheaper. Shoe supply will:",
+    "choices": [
+     "move along the curve",
+     "not change",
+     "shift right",
+     "shift left"
+    ]
+   },
+   {
+    "id": "u2-9a6f60",
+    "q": "A big tax on each bag of chips produced would shift chip supply:",
+    "choices": [
+     "right",
+     "left",
+     "up and to the right",
+     "nowhere"
+    ]
+   },
+   {
+    "id": "u2-fddf09",
+    "q": "Ten new food trucks open at a festival. The supply of festival food:",
+    "choices": [
+     "decreases",
+     "becomes inelastic",
+     "increases",
+     "stays the same"
+    ]
+   },
+   {
+    "id": "u2-393792",
+    "q": "A food truck's monthly parking permit is a:",
+    "choices": [
+     "marginal revenue",
+     "fixed cost",
+     "variable cost",
+     "subsidy"
+    ]
+   },
+   {
+    "id": "u2-9c5838",
+    "q": "The cost of the beef for each burger is a:",
+    "choices": [
+     "price floor",
+     "tax",
+     "fixed cost",
+     "variable cost"
+    ]
+   },
+   {
+    "id": "u2-ebe865",
+    "q": "Adding an 8th worker to a tiny kitchen adds almost nothing to output. This is:",
+    "choices": [
+     "diminishing marginal returns",
+     "a price ceiling",
+     "the law of demand",
+     "consumer sovereignty"
+    ]
+   },
+   {
+    "id": "u2-1047ec",
+    "q": "Equilibrium price is where:",
+    "choices": [
+     "demand is greatest",
+     "supply is greatest",
+     "the government sets the price",
+     "quantity demanded equals quantity supplied"
+    ]
+   },
+   {
+    "id": "u2-73e3f0",
+    "q": "Stores have piles of unsold swimsuits in October. The price is:",
+    "choices": [
+     "at equilibrium",
+     "below equilibrium, causing a shortage",
+     "above equilibrium, causing a surplus",
+     "a price ceiling"
+    ]
+   },
+   {
+    "id": "u2-3c7752",
+    "q": "A popular toy sells out instantly and resells online for double. The original price was:",
+    "choices": [
+     "above equilibrium, causing a surplus",
+     "below equilibrium, causing a shortage",
+     "at equilibrium",
+     "a price floor"
+    ]
+   },
+   {
+    "id": "u2-ef9c84",
+    "q": "Demand for umbrellas rises during a rainy week. Equilibrium price and quantity both:",
+    "choices": [
+     "become zero",
+     "stay the same",
+     "rise",
+     "fall"
+    ]
+   },
+   {
+    "id": "u2-b1030b",
+    "q": "A great harvest increases the supply of apples. Apple prices will:",
+    "choices": [
+     "fall and more apples will be sold",
+     "stay the same",
+     "rise and fewer apples will be sold",
+     "become a price ceiling"
+    ]
+   },
+   {
+    "id": "u2-61a9cd",
+    "q": "Which is a job prices perform in a market?",
+    "choices": [
+     "Guaranteeing equal incomes",
+     "Setting tax rates",
+     "Printing money",
+     "Signaling producers about what consumers want"
+    ]
+   },
+   {
+    "id": "u2-70b98f",
+    "q": "A city law says rent can't be more than $900 a month, below the market rate. This is a:",
+    "choices": [
+     "price ceiling that can cause a shortage of apartments",
+     "price floor that can cause a surplus",
+     "tariff",
+     "subsidy"
+    ]
+   },
+   {
+    "id": "u2-bb032d",
+    "q": "A minimum wage set well above the market wage is a:",
+    "choices": [
+     "tariff on labor",
+     "type of subsidy",
+     "price ceiling that causes a shortage of workers",
+     "price floor that may reduce jobs for some workers"
+    ]
+   },
+   {
+    "id": "u2-19ccfc",
+    "q": "Long waiting lists for rent-controlled apartments are a sign of:",
+    "choices": [
+     "elastic supply",
+     "a shortage",
+     "a surplus",
+     "equilibrium"
+    ]
+   },
+   {
+    "id": "u2-93eb25",
+    "q": "Houses take months to build, so housing supply is:",
+    "choices": [
+     "inelastic in the short run",
+     "the same as demand",
+     "perfectly elastic",
+     "not affected by price"
+    ]
+   },
+   {
+    "id": "u2-c35b6f",
+    "q": "A price change for the good itself causes:",
+    "choices": [
+     "a shift of the curve",
+     "a movement along the curve",
+     "a subsidy",
+     "a change in tastes"
+    ]
+   },
+   {
+    "id": "u2-fcad1d",
+    "q": "People expect phone prices to jump next month, so they buy phones now. Current demand:",
+    "choices": [
+     "doesn't change",
+     "shifts left",
+     "shifts right",
+     "becomes a surplus"
+    ]
+   },
+   {
+    "id": "u2-5ee21c",
+    "q": "Which pair are SUBSTITUTES?",
+    "choices": [
+     "Printers and ink",
+     "Cereal and milk",
+     "Butter and margarine",
+     "Cars and gasoline"
+    ]
+   },
+   {
+    "id": "u2-a8f972",
+    "q": "A government payment to wheat farmers will likely:",
+    "choices": [
+     "decrease wheat demand",
+     "raise wheat prices",
+     "decrease wheat supply",
+     "increase wheat supply"
+    ]
+   },
+   {
+    "id": "u2-dd34d0",
+    "q": "Who sets the equilibrium price in a competitive market?",
+    "choices": [
+     "The combined decisions of buyers and sellers",
+     "The largest seller alone",
+     "The Federal Reserve",
+     "The President"
+    ]
+   }
+  ],
+  "3": [
+   {
+    "id": "u3-f897bd",
+    "q": "Hundreds of farmers selling identical corn best describes:",
+    "choices": [
+     "perfect competition",
+     "monopoly",
+     "oligopoly",
+     "monopolistic competition"
+    ]
+   },
+   {
+    "id": "u3-565290",
+    "q": "Many coffee shops, each with its own style and drinks, is an example of:",
+    "choices": [
+     "monopoly",
+     "perfect competition",
+     "monopolistic competition",
+     "oligopoly"
+    ]
+   },
+   {
+    "id": "u3-21713a",
+    "q": "A few huge companies controlling cell phone service is an example of:",
+    "choices": [
+     "traditional economy",
+     "perfect competition",
+     "oligopoly",
+     "monopolistic competition"
+    ]
+   },
+   {
+    "id": "u3-352549",
+    "q": "A town's only water company is most likely a:",
+    "choices": [
+     "cartel",
+     "natural monopoly",
+     "cooperative",
+     "perfectly competitive firm"
+    ]
+   },
+   {
+    "id": "u3-472468",
+    "q": "Why do businesses in monopolistic competition advertise heavily?",
+    "choices": [
+     "Because the law requires it",
+     "To make their products seem different and special",
+     "To lower their prices",
+     "Because their products are identical"
+    ]
+   },
+   {
+    "id": "u3-406eda",
+    "q": "Competing airlines secretly agree to keep fares high. This is:",
+    "choices": [
+     "perfect competition",
+     "product differentiation",
+     "illegal price fixing",
+     "a legal merger"
+    ]
+   },
+   {
+    "id": "u3-8d5c07",
+    "q": "Compared with competitive markets, a monopoly usually:",
+    "choices": [
+     "has no control over price",
+     "charges less and produces more",
+     "spends more to please customers",
+     "charges more and produces less"
+    ]
+   },
+   {
+    "id": "u3-69f0de",
+    "q": "Huge startup costs that keep new firms out of a market are:",
+    "choices": [
+     "dividends",
+     "price ceilings",
+     "barriers to entry",
+     "subsidies"
+    ]
+   },
+   {
+    "id": "u3-1e67cd",
+    "q": "The Sherman Antitrust Act was passed to:",
+    "choices": [
+     "establish the Federal Reserve",
+     "set the minimum wage",
+     "create monopolies",
+     "stop unfair monopolies and promote competition"
+    ]
+   },
+   {
+    "id": "u3-8aa57e",
+    "q": "A drug company's 20-year right to be the only seller of a new medicine comes from a:",
+    "choices": [
+     "copyright",
+     "tariff",
+     "franchise",
+     "patent"
+    ]
+   },
+   {
+    "id": "u3-3b403e",
+    "q": "Profit equals:",
+    "choices": [
+     "price times taxes",
+     "revenue minus costs",
+     "costs minus revenue",
+     "revenue plus costs"
+    ]
+   },
+   {
+    "id": "u3-51bb46",
+    "q": "A lawn care business owned by one teen is a:",
+    "choices": [
+     "corporation",
+     "partnership",
+     "sole proprietorship",
+     "cooperative"
+    ]
+   },
+   {
+    "id": "u3-46b5ef",
+    "q": "A sole proprietor's house could be taken to pay business debts because of:",
+    "choices": [
+     "limited liability",
+     "a franchise agreement",
+     "double taxation",
+     "unlimited liability"
+    ]
+   },
+   {
+    "id": "u3-f35e41",
+    "q": "Which business type offers limited liability and can raise money by selling stock?",
+    "choices": [
+     "Barter",
+     "Corporation",
+     "Sole proprietorship",
+     "General partnership"
+    ]
+   },
+   {
+    "id": "u3-1c84f8",
+    "q": "Corporate profits taxed once as company income and again as dividends is called:",
+    "choices": [
+     "double taxation",
+     "a progressive tax",
+     "limited liability",
+     "a tariff"
+    ]
+   },
+   {
+    "id": "u3-0fd1ed",
+    "q": "Two dentists who share an office and profits most likely formed a:",
+    "choices": [
+     "cooperative",
+     "monopoly",
+     "corporation",
+     "partnership"
+    ]
+   },
+   {
+    "id": "u3-ac121d",
+    "q": "A business form that gives limited liability but is taxed like a partnership is a(n):",
+    "choices": [
+     "nonprofit",
+     "franchise",
+     "LLC",
+     "sole proprietorship"
+    ]
+   },
+   {
+    "id": "u3-c33a63",
+    "q": "Buying the right to run a restaurant under a national brand's name is a:",
+    "choices": [
+     "franchise",
+     "cooperative",
+     "patent",
+     "merger"
+    ]
+   },
+   {
+    "id": "u3-33c030",
+    "q": "A business owned by its members, like a credit union, is a:",
+    "choices": [
+     "corporation",
+     "sole proprietorship",
+     "cartel",
+     "cooperative"
+    ]
+   },
+   {
+    "id": "u3-8d121b",
+    "q": "Which person is an entrepreneur?",
+    "choices": [
+     "An hourly worker at the climbing gym",
+     "The building the gym rents",
+     "A climbing rope",
+     "Someone who risks her savings to open a climbing gym"
+    ]
+   },
+   {
+    "id": "u3-7a0cad",
+    "q": "Demand for electricians rises when people build more homes. Labor demand is:",
+    "choices": [
+     "a price ceiling",
+     "an embargo",
+     "derived demand",
+     "inelastic demand"
+    ]
+   },
+   {
+    "id": "u3-b68fd1",
+    "q": "Jobs requiring long training usually pay more because:",
+    "choices": [
+     "they have more workers than needed",
+     "training is free",
+     "the government sets their pay",
+     "fewer people have the skills, so labor supply is low"
+    ]
+   },
+   {
+    "id": "u3-fd8aa0",
+    "q": "Workers negotiating as a group with an employer is called:",
+    "choices": [
+     "a merger",
+     "price fixing",
+     "collective bargaining",
+     "a franchise"
+    ]
+   },
+   {
+    "id": "u3-983308",
+    "q": "Idaho's right-to-work law means:",
+    "choices": [
+     "workers can't strike",
+     "unions are illegal",
+     "workers can't be required to join a union to keep a job",
+     "everyone must be hired"
+    ]
+   },
+   {
+    "id": "u3-9d1826",
+    "q": "You earn $14 an hour and work 30 hours. Your gross pay is:",
+    "choices": [
+     "$420",
+     "$4,200",
+     "$140",
+     "$44"
+    ]
+   },
+   {
+    "id": "u3-634f14",
+    "q": "The amount left after taxes and other deductions are taken out is:",
+    "choices": [
+     "net pay",
+     "salary",
+     "gross pay",
+     "revenue"
+    ]
+   },
+   {
+    "id": "u3-62f51d",
+    "q": "Which deduction pays for Social Security and Medicare?",
+    "choices": [
+     "FICA",
+     "Property tax",
+     "A tariff",
+     "Sales tax"
+    ]
+   },
+   {
+    "id": "u3-ed81a4",
+    "q": "An employer adding money to your 401(k) when you contribute is a:",
+    "choices": [
+     "deduction for insurance",
+     "wage cut",
+     "tax",
+     "match, which is a job benefit"
+    ]
+   },
+   {
+    "id": "u3-e37fb8",
+    "q": "Which is an example of building human capital?",
+    "choices": [
+     "Buying a new truck",
+     "Winning the lottery",
+     "Completing an electrician apprenticeship",
+     "Renting a warehouse"
+    ]
+   },
+   {
+    "id": "u3-62461b",
+    "q": "According to labor data, workers with more education on average:",
+    "choices": [
+     "earn less",
+     "earn more and are unemployed less often",
+     "earn exactly the same",
+     "are unemployed more"
+    ]
+   }
+  ],
+  "4": [
+   {
+    "id": "u4-4c79a3",
+    "q": "A farmer wants shoes but the shoemaker doesn't want eggs. This problem with barter is the:",
+    "choices": [
+     "invisible hand",
+     "business cycle",
+     "double coincidence of wants",
+     "law of demand"
+    ]
+   },
+   {
+    "id": "u4-fe6a7f",
+    "q": "Using dollars to compare the cost of two phones shows money as a:",
+    "choices": [
+     "commodity",
+     "store of value",
+     "medium of exchange",
+     "unit of account"
+    ]
+   },
+   {
+    "id": "u4-fa0490",
+    "q": "Saving dollars in an account to spend next year uses money as a:",
+    "choices": [
+     "store of value",
+     "medium of exchange",
+     "unit of account",
+     "barter good"
+    ]
+   },
+   {
+    "id": "u4-9ac1ee",
+    "q": "Money that is valuable because the government declares it legal and people trust it is:",
+    "choices": [
+     "fiat money",
+     "gold",
+     "representative money",
+     "commodity money"
+    ]
+   },
+   {
+    "id": "u4-bf95bc",
+    "q": "Which is a characteristic of good money?",
+    "choices": [
+     "Divisible",
+     "Hard to carry",
+     "Different in every town",
+     "Unlimited supply"
+    ]
+   },
+   {
+    "id": "u4-1cf301",
+    "q": "Banks earn profit mainly by:",
+    "choices": [
+     "collecting taxes",
+     "selling stamps",
+     "charging borrowers more interest than they pay savers",
+     "printing money"
+    ]
+   },
+   {
+    "id": "u4-92e22d",
+    "q": "Fractional reserve banking means banks:",
+    "choices": [
+     "keep part of deposits and lend the rest",
+     "never pay interest",
+     "keep every dollar in a vault",
+     "only lend to governments"
+    ]
+   },
+   {
+    "id": "u4-1e3443",
+    "q": "The FDIC protects bank customers by:",
+    "choices": [
+     "approving loans",
+     "insuring deposits up to $250,000",
+     "setting interest rates",
+     "printing money"
+    ]
+   },
+   {
+    "id": "u4-28d08c",
+    "q": "Thousands of people rushing to pull out deposits because they fear a bank will fail is a:",
+    "choices": [
+     "tariff",
+     "bank run",
+     "dividend",
+     "bear market"
+    ]
+   },
+   {
+    "id": "u4-5fef7e",
+    "q": "A nonprofit, member-owned financial institution is a:",
+    "choices": [
+     "credit union",
+     "payday lender",
+     "commercial bank owned by investors",
+     "stock exchange"
+    ]
+   },
+   {
+    "id": "u4-e71e08",
+    "q": "An account built for everyday spending with a debit card is a:",
+    "choices": [
+     "bond",
+     "CD",
+     "Roth IRA",
+     "checking account"
+    ]
+   },
+   {
+    "id": "u4-99dde6",
+    "q": "Spending more than you have in checking can lead to:",
+    "choices": [
+     "a dividend",
+     "a capital gain",
+     "compound interest",
+     "an overdraft fee"
+    ]
+   },
+   {
+    "id": "u4-54a236",
+    "q": "The yearly rate on savings that includes compounding is the:",
+    "choices": [
+     "GDP",
+     "CPI",
+     "APY",
+     "FICA"
+    ]
+   },
+   {
+    "id": "u4-f0975a",
+    "q": "A CD pays a higher rate than regular savings because:",
+    "choices": [
+     "it's not insured",
+     "you can withdraw anytime without penalty",
+     "you agree to leave the money for a set time",
+     "it's a type of stock"
+    ]
+   },
+   {
+    "id": "u4-d054d7",
+    "q": "A common emergency fund goal for adults is:",
+    "choices": [
+     "one day of expenses",
+     "20 years of income",
+     "$1",
+     "3 to 6 months of expenses"
+    ]
+   },
+   {
+    "id": "u4-91f6a2",
+    "q": "Your bank texts you asking for your PIN through a link. This is most likely:",
+    "choices": [
+     "phishing",
+     "a CD",
+     "reconciling",
+     "direct deposit"
+    ]
+   },
+   {
+    "id": "u4-9f469c",
+    "q": "Cryptocurrency is risky because:",
+    "choices": [
+     "it always loses value",
+     "banks print it",
+     "its price swings widely and it isn't FDIC insured",
+     "the government guarantees it"
+    ]
+   },
+   {
+    "id": "u4-f08eb2",
+    "q": "Compound interest means you earn interest on:",
+    "choices": [
+     "taxes",
+     "other people's money",
+     "your original money only",
+     "your original money plus past interest"
+    ]
+   },
+   {
+    "id": "u4-f3fa29",
+    "q": "Using the Rule of 72, money earning 9 percent doubles in about:",
+    "choices": [
+     "9 years",
+     "72 years",
+     "8 years",
+     "4 years"
+    ]
+   },
+   {
+    "id": "u4-8ad197",
+    "q": "Which investment is generally the riskiest?",
+    "choices": [
+     "A CD",
+     "Stock in one small new company",
+     "An FDIC-insured savings account",
+     "A U.S. Treasury bond"
+    ]
+   },
+   {
+    "id": "u4-af9fcc",
+    "q": "A share of stock represents:",
+    "choices": [
+     "ownership in a corporation",
+     "a bank deposit",
+     "a loan to a corporation",
+     "a tax refund"
+    ]
+   },
+   {
+    "id": "u4-fc0623",
+    "q": "A bond represents:",
+    "choices": [
+     "a loan to a company or government",
+     "a savings account",
+     "a credit card",
+     "ownership in a company"
+    ]
+   },
+   {
+    "id": "u4-2c2002",
+    "q": "Spreading money across many investments to reduce risk is:",
+    "choices": [
+     "inflation",
+     "diversification",
+     "liability",
+     "a tariff"
+    ]
+   },
+   {
+    "id": "u4-3e11e9",
+    "q": "A low-cost fund that owns every company in the S&P 500 is a(n):",
+    "choices": [
+     "index fund",
+     "single stock",
+     "payday loan",
+     "CD"
+    ]
+   },
+   {
+    "id": "u4-a5c039",
+    "q": "A Roth IRA is a good choice for a teen with a job because:",
+    "choices": [
+     "it requires no earned income",
+     "it is FDIC insured",
+     "the money grows and can be withdrawn tax-free in retirement",
+     "it guarantees a profit"
+    ]
+   },
+   {
+    "id": "u4-3fc3e1",
+    "q": "Money you'll need in six months for a car repair should go in:",
+    "choices": [
+     "a single risky stock",
+     "a 30-year bond",
+     "savings or another safe, easy-to-reach account",
+     "cryptocurrency"
+    ]
+   },
+   {
+    "id": "u4-fb088d",
+    "q": "Someone promises 40 percent yearly returns with \"zero risk.\" This is a warning sign of:",
+    "choices": [
+     "an index fund",
+     "an emergency fund",
+     "a scam such as a Ponzi scheme",
+     "a U.S. Treasury bond"
+    ]
+   },
+   {
+    "id": "u4-6a7924",
+    "q": "A period when stock prices fall 20 percent or more is a:",
+    "choices": [
+     "trough",
+     "dividend",
+     "bull market",
+     "bear market"
+    ]
+   },
+   {
+    "id": "u4-435242",
+    "q": "Selling a stock for more than you paid earns a:",
+    "choices": [
+     "tariff",
+     "deductible",
+     "dividend",
+     "capital gain"
+    ]
+   },
+   {
+    "id": "u4-50c6b7",
+    "q": "Ava invests early and stops; Ben invests later for longer. Ava can end with more because:",
+    "choices": [
+     "she paid fewer taxes",
+     "Ben's money was not insured",
+     "stocks are cheaper for young people",
+     "her money had more years to compound"
+    ]
+   }
+  ],
+  "5": [
+   {
+    "id": "u5-162b8b",
+    "q": "Which goal is the most SMART?",
+    "choices": [
+     "Save some money soon",
+     "Save $900 for a used bike by June 1 by saving $75 a week",
+     "Be rich by 30",
+     "Get better with money"
+    ]
+   },
+   {
+    "id": "u5-0e97b8",
+    "q": "A phone bill that is $45 every month is a:",
+    "choices": [
+     "type of income",
+     "fixed expense",
+     "capital gain",
+     "variable expense"
+    ]
+   },
+   {
+    "id": "u5-1a0ff8",
+    "q": "Money spent eating out, which changes each month, is a:",
+    "choices": [
+     "deduction",
+     "dividend",
+     "fixed expense",
+     "variable expense"
+    ]
+   },
+   {
+    "id": "u5-c0f094",
+    "q": "Under the 50/30/20 rule, someone taking home $2,500 a month should put about how much toward savings and extra debt payments?",
+    "choices": [
+     "$500",
+     "$750",
+     "$1,250",
+     "$250"
+    ]
+   },
+   {
+    "id": "u5-806987",
+    "q": "Moving money to savings the moment you get paid is called:",
+    "choices": [
+     "paying yourself first",
+     "lifestyle creep",
+     "impulse buying",
+     "an overdraft"
+    ]
+   },
+   {
+    "id": "u5-5c4c4d",
+    "q": "A budget where every dollar is assigned a job is a:",
+    "choices": [
+     "deficit budget",
+     "price ceiling",
+     "zero-based budget",
+     "balanced trade"
+    ]
+   },
+   {
+    "id": "u5-27f594",
+    "q": "Spending more every time you get a raise, so you never save more, is:",
+    "choices": [
+     "diversification",
+     "depreciation",
+     "lifestyle creep",
+     "compound interest"
+    ]
+   },
+   {
+    "id": "u5-bb2061",
+    "q": "A 32-ounce box costs $4.80 and a 20-ounce box costs $3.40. Which is the better unit price?",
+    "choices": [
+     "The 20-ounce box at $0.17 per ounce",
+     "The 32-ounce box at $0.15 per ounce",
+     "They cost exactly the same per ounce",
+     "You can't tell from the prices"
+    ]
+   },
+   {
+    "id": "u5-f6a1ad",
+    "q": "College aid that does NOT have to be repaid includes:",
+    "choices": [
+     "private loans",
+     "grants and scholarships",
+     "credit cards",
+     "federal student loans"
+    ]
+   },
+   {
+    "id": "u5-a4a978",
+    "q": "To qualify for federal grants, work-study, and loans, students should file the:",
+    "choices": [
+     "1040-EZ only",
+     "W-2",
+     "CPI",
+     "FAFSA"
+    ]
+   },
+   {
+    "id": "u5-ff73ae",
+    "q": "The cost of college after grants and scholarships is the:",
+    "choices": [
+     "sticker price",
+     "unit price",
+     "net price",
+     "APR"
+    ]
+   },
+   {
+    "id": "u5-0376ff",
+    "q": "A new car losing thousands of dollars in value in its first few years is:",
+    "choices": [
+     "depreciation",
+     "a dividend",
+     "a deductible",
+     "inflation"
+    ]
+   },
+   {
+    "id": "u5-603395",
+    "q": "APR is the best number for comparing:",
+    "choices": [
+     "the cost of different loans",
+     "your savings account balance",
+     "your paycheck",
+     "your credit score"
+    ]
+   },
+   {
+    "id": "u5-92eef0",
+    "q": "A credit card is a type of:",
+    "choices": [
+     "grant",
+     "revolving credit",
+     "installment loan",
+     "mortgage"
+    ]
+   },
+   {
+    "id": "u5-bc69b3",
+    "q": "A car loan with equal monthly payments for 5 years is:",
+    "choices": [
+     "installment credit",
+     "a dividend",
+     "a payday loan",
+     "revolving credit"
+    ]
+   },
+   {
+    "id": "u5-5962be",
+    "q": "To avoid paying interest on a credit card, you should:",
+    "choices": [
+     "skip a month",
+     "max out the card",
+     "pay only the minimum",
+     "pay the full statement balance every month"
+    ]
+   },
+   {
+    "id": "u5-6823d0",
+    "q": "Payday loans are risky because:",
+    "choices": [
+     "they lower your credit score instantly",
+     "they never need to be repaid",
+     "they're only for businesses",
+     "their fees can equal triple-digit APRs and trap borrowers"
+    ]
+   },
+   {
+    "id": "u5-1c07c1",
+    "q": "Collateral on a car loan is:",
+    "choices": [
+     "the car itself",
+     "your credit score",
+     "the interest rate",
+     "your paycheck"
+    ]
+   },
+   {
+    "id": "u5-ba06a4",
+    "q": "The biggest factor in a FICO score is:",
+    "choices": [
+     "payment history",
+     "your age",
+     "your bank's name",
+     "credit mix"
+    ]
+   },
+   {
+    "id": "u5-4d0cdd",
+    "q": "Using $900 of a $1,000 credit limit hurts your score because of high:",
+    "choices": [
+     "APY",
+     "payment history",
+     "depreciation",
+     "credit utilization"
+    ]
+   },
+   {
+    "id": "u5-3165ed",
+    "q": "FICO scores range from:",
+    "choices": [
+     "300 to 850",
+     "100 to 1,000",
+     "1 to 10",
+     "0 to 100"
+    ]
+   },
+   {
+    "id": "u5-37a211",
+    "q": "A higher credit score helps you get:",
+    "choices": [
+     "more overdraft fees",
+     "a bigger tax bill",
+     "higher interest rates",
+     "lower interest rates"
+    ]
+   },
+   {
+    "id": "u5-54d499",
+    "q": "A teen with no credit history could start building credit with:",
+    "choices": [
+     "missed payments",
+     "a secured credit card paid in full each month",
+     "several payday loans",
+     "a pawn loan"
+    ]
+   },
+   {
+    "id": "u5-0e10e7",
+    "q": "In insurance, the regular payment you make to stay covered is the:",
+    "choices": [
+     "claim",
+     "copay",
+     "deductible",
+     "premium"
+    ]
+   },
+   {
+    "id": "u5-621219",
+    "q": "Raising your car insurance deductible from $500 to $1,000 will usually:",
+    "choices": [
+     "raise your premium",
+     "lower your premium",
+     "have no effect",
+     "cancel your policy"
+    ]
+   },
+   {
+    "id": "u5-d97bee",
+    "q": "Idaho requires every driver to carry:",
+    "choices": [
+     "collision coverage",
+     "auto liability insurance",
+     "renters insurance",
+     "life insurance"
+    ]
+   },
+   {
+    "id": "u5-5b9524",
+    "q": "A renter's laptop stolen from an apartment would be covered by:",
+    "choices": [
+     "renters insurance",
+     "the landlord's building insurance",
+     "auto liability insurance",
+     "Medicare"
+    ]
+   },
+   {
+    "id": "u5-1be2cc",
+    "q": "After meeting your deductible, paying 20 percent of a medical bill is:",
+    "choices": [
+     "coinsurance",
+     "a premium",
+     "a copay",
+     "liability"
+    ]
+   },
+   {
+    "id": "u5-993c85",
+    "q": "The federal agency that handles complaints about banks and credit cards is the:",
+    "choices": [
+     "Supreme Court",
+     "National Park Service",
+     "Department of Agriculture",
+     "Consumer Financial Protection Bureau"
+    ]
+   },
+   {
+    "id": "u5-4cea54",
+    "q": "A caller says you owe a fine and must pay with gift cards right now. You should:",
+    "choices": [
+     "pay half now",
+     "hang up; it's a scam",
+     "buy the gift cards quickly",
+     "give them your bank PIN"
+    ]
+   }
+  ],
+  "6": [
+   {
+    "id": "u6-4bc289",
+    "q": "GDP counts:",
+    "choices": [
+     "stocks and bonds",
+     "final goods and services produced within a country in a year",
+     "used goods",
+     "all goods ever produced"
+    ]
+   },
+   {
+    "id": "u6-488eb6",
+    "q": "Which is counted in this year's U.S. GDP?",
+    "choices": [
+     "A haircut at a Boise salon",
+     "A share of stock",
+     "A used couch sold online",
+     "Cooking dinner for your family"
+    ]
+   },
+   {
+    "id": "u6-75eefa",
+    "q": "Tires sold to a car factory are not counted separately in GDP because:",
+    "choices": [
+     "tires are services",
+     "they are intermediate goods and would be double counted",
+     "tires are illegal",
+     "tires are imported"
+    ]
+   },
+   {
+    "id": "u6-cd0be4",
+    "q": "In GDP = C + I + G + (X - M), \"G\" stands for:",
+    "choices": [
+     "government purchases",
+     "growth",
+     "gross income",
+     "gold"
+    ]
+   },
+   {
+    "id": "u6-d858be",
+    "q": "A business buying new machines counts in GDP as:",
+    "choices": [
+     "transfer payments",
+     "investment",
+     "consumption",
+     "net exports"
+    ]
+   },
+   {
+    "id": "u6-04bf59",
+    "q": "Nominal GDP rises 6 percent while prices rise 4 percent. Real GDP grew about:",
+    "choices": [
+     "2 percent",
+     "10 percent",
+     "6 percent",
+     "4 percent"
+    ]
+   },
+   {
+    "id": "u6-cab2a0",
+    "q": "To compare living standards between countries, economists often use:",
+    "choices": [
+     "GDP per capita",
+     "the trade deficit",
+     "the national debt",
+     "total nominal GDP"
+    ]
+   },
+   {
+    "id": "u6-96f2e7",
+    "q": "Which does GDP leave out?",
+    "choices": [
+     "Restaurant meals",
+     "Government purchases",
+     "New cars",
+     "Volunteer work and pollution"
+    ]
+   },
+   {
+    "id": "u6-59db08",
+    "q": "Long-run economic growth comes mostly from:",
+    "choices": [
+     "higher prices",
+     "more capital, more human capital, and better technology",
+     "more tariffs",
+     "printing more money"
+    ]
+   },
+   {
+    "id": "u6-f2992c",
+    "q": "A town has 40,000 people in its labor force and 2,000 unemployed. The unemployment rate is:",
+    "choices": [
+     "2 percent",
+     "5 percent",
+     "50 percent",
+     "20 percent"
+    ]
+   },
+   {
+    "id": "u6-a912ba",
+    "q": "A worker who gave up looking for a job is:",
+    "choices": [
+     "in the labor force",
+     "counted as employed",
+     "a discouraged worker, not counted as unemployed",
+     "counted as unemployed"
+    ]
+   },
+   {
+    "id": "u6-4695b8",
+    "q": "Raft guides out of work in the winter face:",
+    "choices": [
+     "structural unemployment",
+     "seasonal unemployment",
+     "cyclical unemployment",
+     "frictional unemployment"
+    ]
+   },
+   {
+    "id": "u6-b01828",
+    "q": "A coal miner whose skills no longer match available jobs faces:",
+    "choices": [
+     "seasonal unemployment",
+     "cyclical unemployment",
+     "frictional unemployment",
+     "structural unemployment"
+    ]
+   },
+   {
+    "id": "u6-9e1f6d",
+    "q": "Layoffs across many industries during a recession are:",
+    "choices": [
+     "frictional unemployment",
+     "cyclical unemployment",
+     "seasonal unemployment",
+     "structural unemployment"
+    ]
+   },
+   {
+    "id": "u6-00f377",
+    "q": "Inflation reduces:",
+    "choices": [
+     "the national debt",
+     "prices",
+     "the purchasing power of money",
+     "the labor force"
+    ]
+   },
+   {
+    "id": "u6-28240d",
+    "q": "The CPI measures:",
+    "choices": [
+     "the unemployment rate",
+     "total output",
+     "changes in prices of a typical household's market basket",
+     "the money supply"
+    ]
+   },
+   {
+    "id": "u6-3b77c6",
+    "q": "A market basket costs $500 one year and $520 the next. The inflation rate is:",
+    "choices": [
+     "20 percent",
+     "5 percent",
+     "2 percent",
+     "4 percent"
+    ]
+   },
+   {
+    "id": "u6-593971",
+    "q": "Inflation caused by rising costs, like a jump in oil prices, is:",
+    "choices": [
+     "deflation",
+     "demand-pull inflation",
+     "cost-push inflation",
+     "hyperinflation"
+    ]
+   },
+   {
+    "id": "u6-566dde",
+    "q": "Who is generally HURT most by unexpected inflation?",
+    "choices": [
+     "Borrowers with fixed-rate loans",
+     "No one",
+     "Savers and people on fixed incomes",
+     "Everyone gains equally"
+    ]
+   },
+   {
+    "id": "u6-a8080a",
+    "q": "You get a 2 percent raise when inflation is 5 percent. Your real wage:",
+    "choices": [
+     "rises about 7 percent",
+     "falls about 3 percent",
+     "stays the same",
+     "rises about 3 percent"
+    ]
+   },
+   {
+    "id": "u6-38dfec",
+    "q": "The phase when real GDP grows and unemployment falls is:",
+    "choices": [
+     "expansion",
+     "trough",
+     "depression",
+     "contraction"
+    ]
+   },
+   {
+    "id": "u6-d39789",
+    "q": "The bottom of the business cycle is the:",
+    "choices": [
+     "expansion",
+     "bubble",
+     "trough",
+     "peak"
+    ]
+   },
+   {
+    "id": "u6-51b924",
+    "q": "A significant, widespread decline in economic activity lasting months is a:",
+    "choices": [
+     "boom",
+     "surplus",
+     "recession",
+     "peak"
+    ]
+   },
+   {
+    "id": "u6-e3ded4",
+    "q": "What helped end the Great Depression?",
+    "choices": [
+     "The dot-com bubble",
+     "Huge government spending for World War II",
+     "Cutting all government spending",
+     "The invention of credit cards"
+    ]
+   },
+   {
+    "id": "u6-edfa67",
+    "q": "The Great Recession of 2007-2009 was triggered mainly by:",
+    "choices": [
+     "risky home loans and a financial crisis",
+     "a pandemic",
+     "a world war",
+     "high tariffs"
+    ]
+   },
+   {
+    "id": "u6-371e22",
+    "q": "Overhyped internet stocks crashing around 2000 is known as the:",
+    "choices": [
+     "Panic of 1873",
+     "Great Depression",
+     "COVID recession",
+     "dot-com bubble"
+    ]
+   },
+   {
+    "id": "u6-d15efb",
+    "q": "The COVID-19 recession of 2020 was:",
+    "choices": [
+     "the longest recession in U.S. history",
+     "caused by risky home loans",
+     "very short but very sharp, caused by an outside shock",
+     "a period of falling unemployment"
+    ]
+   },
+   {
+    "id": "u6-09c5a9",
+    "q": "New building permits and stock prices are:",
+    "choices": [
+     "leading indicators",
+     "coincident indicators",
+     "tariffs",
+     "lagging indicators"
+    ]
+   },
+   {
+    "id": "u6-ed4371",
+    "q": "The unemployment rate often keeps rising after a recession ends, which makes it a:",
+    "choices": [
+     "trough",
+     "lagging indicator",
+     "leading indicator",
+     "coincident indicator"
+    ]
+   },
+   {
+    "id": "u6-7d56c7",
+    "q": "When consumer confidence falls, the economy may slow because:",
+    "choices": [
+     "prices always rise",
+     "banks stop accepting deposits",
+     "the government raises taxes automatically",
+     "worried people spend less"
+    ]
+   }
+  ],
+  "7": [
+   {
+    "id": "u7-788f18",
+    "q": "A tax where higher incomes pay a higher percentage is:",
+    "choices": [
+     "proportional",
+     "a tariff",
+     "regressive",
+     "progressive"
+    ]
+   },
+   {
+    "id": "u7-8c9789",
+    "q": "Idaho's state income tax is:",
+    "choices": [
+     "a flat 5.3 percent",
+     "a sales tax",
+     "progressive up to 37 percent",
+     "zero"
+    ]
+   },
+   {
+    "id": "u7-7ab5a7",
+    "q": "Why is a sales tax considered regressive?",
+    "choices": [
+     "It takes a larger share of income from lower-income people",
+     "It charges higher rates to rich people",
+     "It only applies to businesses",
+     "It is paid once a year"
+    ]
+   },
+   {
+    "id": "u7-217f86",
+    "q": "A $200 purchase in Idaho has how much state sales tax?",
+    "choices": [
+     "$6",
+     "$20",
+     "$12",
+     "$2"
+    ]
+   },
+   {
+    "id": "u7-a2e9f1",
+    "q": "Gas taxes that pay for highways follow the:",
+    "choices": [
+     "dual mandate",
+     "benefits-received principle",
+     "ability-to-pay principle",
+     "law of demand"
+    ]
+   },
+   {
+    "id": "u7-eabeb9",
+    "q": "The largest source of federal revenue is:",
+    "choices": [
+     "national park fees",
+     "individual income taxes",
+     "the estate tax",
+     "tariffs"
+    ]
+   },
+   {
+    "id": "u7-5e94be",
+    "q": "Local property taxes in Idaho mainly pay for:",
+    "choices": [
+     "foreign aid",
+     "Social Security",
+     "the military",
+     "schools, roads, police, and fire"
+    ]
+   },
+   {
+    "id": "u7-777403",
+    "q": "A tax credit:",
+    "choices": [
+     "is a loan from the IRS",
+     "reduces the tax you owe dollar for dollar",
+     "increases your taxes",
+     "is the same as a sales tax"
+    ]
+   },
+   {
+    "id": "u7-9d0e89",
+    "q": "The form an employer sends each year showing what you earned and what was withheld is the:",
+    "choices": [
+     "W-4",
+     "W-2",
+     "1099-ID",
+     "FAFSA"
+    ]
+   },
+   {
+    "id": "u7-ed73f9",
+    "q": "Idaho's food tax credit offsets the sales tax people pay on:",
+    "choices": [
+     "gasoline",
+     "groceries",
+     "cars",
+     "houses"
+    ]
+   },
+   {
+    "id": "u7-7ba022",
+    "q": "The largest single federal spending program is:",
+    "choices": [
+     "foreign aid",
+     "NASA",
+     "Social Security",
+     "national parks"
+    ]
+   },
+   {
+    "id": "u7-5da303",
+    "q": "Spending set by existing laws that happens automatically is:",
+    "choices": [
+     "a tariff",
+     "a tax credit",
+     "mandatory spending",
+     "discretionary spending"
+    ]
+   },
+   {
+    "id": "u7-d82c6a",
+    "q": "Idaho's constitution requires:",
+    "choices": [
+     "a balanced state budget",
+     "a progressive income tax",
+     "yearly deficits",
+     "a state central bank"
+    ]
+   },
+   {
+    "id": "u7-9aab46",
+    "q": "When the federal government spends more than it collects in one year, it has a:",
+    "choices": [
+     "balanced budget",
+     "budget surplus",
+     "trade surplus",
+     "budget deficit"
+    ]
+   },
+   {
+    "id": "u7-6715c1",
+    "q": "The national debt is:",
+    "choices": [
+     "money owed by states",
+     "one year's deficit",
+     "the amount of cash in circulation",
+     "the total of all past deficits minus surpluses"
+    ]
+   },
+   {
+    "id": "u7-e411c4",
+    "q": "To cover deficits, the U.S. Treasury:",
+    "choices": [
+     "sells bonds to borrow money",
+     "raises the minimum wage",
+     "prints coins only",
+     "sells national parks"
+    ]
+   },
+   {
+    "id": "u7-df0ce6",
+    "q": "Fiscal policy is carried out by:",
+    "choices": [
+     "the stock market",
+     "the Federal Reserve",
+     "Congress and the President",
+     "commercial banks"
+    ]
+   },
+   {
+    "id": "u7-8ebabb",
+    "q": "During a recession, expansionary fiscal policy would:",
+    "choices": [
+     "raise interest rates",
+     "sell government bonds to shrink the money supply",
+     "increase spending or cut taxes",
+     "raise taxes and cut spending"
+    ]
+   },
+   {
+    "id": "u7-5f7a19",
+    "q": "A risk of expansionary fiscal policy is:",
+    "choices": [
+     "lower national debt",
+     "a budget surplus",
+     "deflation",
+     "bigger deficits and possible inflation"
+    ]
+   },
+   {
+    "id": "u7-261c7f",
+    "q": "Unemployment insurance that automatically pays more during recessions is an:",
+    "choices": [
+     "excise tax",
+     "automatic stabilizer",
+     "embargo",
+     "open market operation"
+    ]
+   },
+   {
+    "id": "u7-29baab",
+    "q": "The Federal Reserve is:",
+    "choices": [
+     "a branch of Congress",
+     "the central bank of the United States",
+     "a private credit card company",
+     "the U.S. Treasury"
+    ]
+   },
+   {
+    "id": "u7-663620",
+    "q": "Idaho is in which Federal Reserve district?",
+    "choices": [
+     "The 12th, served by San Francisco",
+     "The 1st, served by Boston",
+     "Idaho has its own district bank",
+     "The 2nd, served by New York"
+    ]
+   },
+   {
+    "id": "u7-8ad295",
+    "q": "The Fed's dual mandate is:",
+    "choices": [
+     "low taxes and high spending",
+     "high tariffs and low inflation",
+     "maximum employment and stable prices",
+     "free trade and balanced budgets"
+    ]
+   },
+   {
+    "id": "u7-538822",
+    "q": "The federal funds rate is:",
+    "choices": [
+     "the rate on student loans",
+     "the inflation rate",
+     "the interest rate banks charge each other overnight",
+     "the federal income tax rate"
+    ]
+   },
+   {
+    "id": "u7-b129ee",
+    "q": "To fight high inflation, the Fed would most likely:",
+    "choices": [
+     "raise interest rates",
+     "buy more bonds",
+     "cut taxes",
+     "lower interest rates"
+    ]
+   },
+   {
+    "id": "u7-c40c2d",
+    "q": "To fight a recession, the Fed would most likely:",
+    "choices": [
+     "lower interest rates",
+     "raise the reserve requirement",
+     "sell bonds",
+     "raise interest rates"
+    ]
+   },
+   {
+    "id": "u7-f82036",
+    "q": "When the Fed buys government bonds, the money supply:",
+    "choices": [
+     "shrinks",
+     "disappears",
+     "grows",
+     "stays the same"
+    ]
+   },
+   {
+    "id": "u7-f9cc53",
+    "q": "Raising interest rates too far or too fast risks:",
+    "choices": [
+     "causing a recession",
+     "causing hyperinflation",
+     "increasing borrowing",
+     "lowering mortgage rates"
+    ]
+   },
+   {
+    "id": "u7-2f1660",
+    "q": "The Fed is designed to be independent so that:",
+    "choices": [
+     "short-term political pressure doesn't push it into causing inflation",
+     "it can collect taxes",
+     "it can ignore all laws",
+     "it can choose the President"
+    ]
+   },
+   {
+    "id": "u7-b33498",
+    "q": "Which is TRUE about fiscal and monetary policy?",
+    "choices": [
+     "Both are controlled by Congress",
+     "Fiscal uses taxes and spending; monetary uses interest rates and the money supply",
+     "Both are controlled by the Fed",
+     "Neither affects the economy"
+    ]
+   }
+  ],
+  "8": [
+   {
+    "id": "u8-f8bde6",
+    "q": "Goods a country buys from other countries are:",
+    "choices": [
+     "tariffs",
+     "quotas",
+     "exports",
+     "imports"
+    ]
+   },
+   {
+    "id": "u8-651651",
+    "q": "Idaho potatoes sold to Japan are Idaho:",
+    "choices": [
+     "imports",
+     "exports",
+     "tariffs",
+     "embargoes"
+    ]
+   },
+   {
+    "id": "u8-8a2746",
+    "q": "A country that can produce something at a lower opportunity cost has a(n):",
+    "choices": [
+     "embargo",
+     "absolute advantage",
+     "trade deficit",
+     "comparative advantage"
+    ]
+   },
+   {
+    "id": "u8-d1e565",
+    "q": "Country A can make more of both cars and wheat than Country B. Should they still trade?",
+    "choices": [
+     "Yes, each has a comparative advantage in something",
+     "No, Country A should make everything",
+     "Only if the government forces them",
+     "No, trade only helps the poorer country"
+    ]
+   },
+   {
+    "id": "u8-dfd198",
+    "q": "Who explained comparative advantage?",
+    "choices": [
+     "Karl Marx",
+     "John Maynard Keynes",
+     "David Ricardo",
+     "Milton Friedman"
+    ]
+   },
+   {
+    "id": "u8-511458",
+    "q": "In one day, Alex can make 6 pies or 3 cakes. Alex's opportunity cost of one cake is:",
+    "choices": [
+     "6 pies",
+     "2 pies",
+     "3 pies",
+     "half a pie"
+    ]
+   },
+   {
+    "id": "u8-2e1a79",
+    "q": "Specialization and trade usually lead to:",
+    "choices": [
+     "more total output and lower prices",
+     "less total output",
+     "fewer choices",
+     "higher prices for everything"
+    ]
+   },
+   {
+    "id": "u8-5c2bc9",
+    "q": "When countries rely on each other for goods, they are:",
+    "choices": [
+     "in an embargo",
+     "interdependent",
+     "self-sufficient",
+     "isolated"
+    ]
+   },
+   {
+    "id": "u8-28d16e",
+    "q": "A tariff is:",
+    "choices": [
+     "a type of currency",
+     "a limit on the number of imports",
+     "a tax on imported goods",
+     "a ban on trade"
+    ]
+   },
+   {
+    "id": "u8-6f1255",
+    "q": "A limit on how many foreign cars can enter the country is a:",
+    "choices": [
+     "quota",
+     "tariff",
+     "dividend",
+     "subsidy"
+    ]
+   },
+   {
+    "id": "u8-6aeb69",
+    "q": "A total ban on trade with another country is an:",
+    "choices": [
+     "exchange rate",
+     "embargo",
+     "agreement",
+     "export"
+    ]
+   },
+   {
+    "id": "u8-023080",
+    "q": "Which is an argument FOR protectionism?",
+    "choices": [
+     "Lower prices for consumers",
+     "Gains from comparative advantage",
+     "Protecting industries important for national security",
+     "More choices in stores"
+    ]
+   },
+   {
+    "id": "u8-0e8a9f",
+    "q": "Which is an argument FOR free trade?",
+    "choices": [
+     "Consumers pay lower prices and get more choices",
+     "National security",
+     "Protecting infant industries",
+     "Stopping dumping"
+    ]
+   },
+   {
+    "id": "u8-855ae0",
+    "q": "The U.S. places tariffs on another country's goods, and that country places tariffs on Idaho cheese. This is:",
+    "choices": [
+     "dumping",
+     "free trade",
+     "retaliation",
+     "comparative advantage"
+    ]
+   },
+   {
+    "id": "u8-47cd64",
+    "q": "Selling goods in a foreign country below the cost of making them is:",
+    "choices": [
+     "an embargo",
+     "exporting",
+     "dumping",
+     "a quota"
+    ]
+   },
+   {
+    "id": "u8-22cade",
+    "q": "The trade deal among the U.S., Mexico, and Canada is:",
+    "choices": [
+     "the IMF",
+     "USMCA",
+     "OPEC",
+     "the FDIC"
+    ]
+   },
+   {
+    "id": "u8-85c947",
+    "q": "The WTO:",
+    "choices": [
+     "prints the euro",
+     "is the U.S. central bank",
+     "sets Idaho's sales tax",
+     "sets trade rules and settles disputes among member countries"
+    ]
+   },
+   {
+    "id": "u8-66bbac",
+    "q": "A country that imports more than it exports has a:",
+    "choices": [
+     "budget surplus",
+     "trade deficit",
+     "balanced budget",
+     "trade surplus"
+    ]
+   },
+   {
+    "id": "u8-7acabe",
+    "q": "An exchange rate is:",
+    "choices": [
+     "the price of one currency in terms of another",
+     "the tax on imports",
+     "the inflation rate",
+     "the interest rate on a mortgage"
+    ]
+   },
+   {
+    "id": "u8-cd4ec6",
+    "q": "If the dollar gets stronger, Idaho farmers selling abroad will likely:",
+    "choices": [
+     "sell more because their products are cheaper abroad",
+     "sell less because their products cost more for foreign buyers",
+     "see no change",
+     "stop paying taxes"
+    ]
+   },
+   {
+    "id": "u8-1ad41d",
+    "q": "If $1 = 20 Mexican pesos, a $5 bag of Idaho potatoes costs a buyer in Mexico:",
+    "choices": [
+     "25 pesos",
+     "20 pesos",
+     "100 pesos",
+     "4 pesos"
+    ]
+   },
+   {
+    "id": "u8-4d1c3c",
+    "q": "Globalization is:",
+    "choices": [
+     "a type of tariff",
+     "the growing connection of the world's economies",
+     "a single world currency",
+     "a ban on international trade"
+    ]
+   },
+   {
+    "id": "u8-636ae5",
+    "q": "A phone designed in the U.S., built from parts made in many countries, and sold worldwide shows a:",
+    "choices": [
+     "price ceiling",
+     "traditional economy",
+     "global supply chain",
+     "trade embargo"
+    ]
+   },
+   {
+    "id": "u8-ca84cd",
+    "q": "The share of the world living in extreme poverty since 1990 has:",
+    "choices": [
+     "doubled",
+     "stayed the same",
+     "risen a little",
+     "dropped sharply"
+    ]
+   },
+   {
+    "id": "u8-d57018",
+    "q": "Which factor most helps a developing country grow?",
+    "choices": [
+     "Closing its borders to all trade",
+     "Corruption",
+     "Education, infrastructure, and stable laws",
+     "Banning private businesses"
+    ]
+   },
+   {
+    "id": "u8-11d589",
+    "q": "The IMF mainly:",
+    "choices": [
+     "insures U.S. bank deposits",
+     "helps countries in financial crises",
+     "lends to college students",
+     "sets U.S. tariffs"
+    ]
+   },
+   {
+    "id": "u8-2e4103",
+    "q": "A tiny loan that helps an entrepreneur in a poor village start a business is a:",
+    "choices": [
+     "Treasury bond",
+     "tariff",
+     "mortgage",
+     "microloan"
+    ]
+   },
+   {
+    "id": "u8-677a30",
+    "q": "Idaho's top export is usually:",
+    "choices": [
+     "coffee",
+     "computer chips and electronics",
+     "bananas",
+     "crude oil"
+    ]
+   },
+   {
+    "id": "u8-02a6c1",
+    "q": "A war overseas that raises oil prices also raises gas prices in Idaho. This shows:",
+    "choices": [
+     "an embargo on Idaho",
+     "a trade surplus",
+     "comparative advantage",
+     "global interdependence"
+    ]
+   },
+   {
+    "id": "u8-cf936f",
+    "q": "A Japanese company building a factory in Idaho is an example of:",
+    "choices": [
+     "a tariff",
+     "a quota",
+     "foreign direct investment",
+     "dumping"
+    ]
+   }
+  ]
+ }
+}
